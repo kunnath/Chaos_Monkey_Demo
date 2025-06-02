@@ -1,0 +1,5403 @@
+[
+  {
+    "timestamp": "2025-06-02T11:13:29.273165",
+    "system": {
+      "timestamp": "2025-06-02T11:13:29.250242",
+      "cpu": {
+        "percent": 9.3,
+        "count": 8,
+        "load_avg_1m": 6.62939453125,
+        "load_avg_5m": 4.4443359375,
+        "load_avg_15m": 3.23193359375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.3686370849609375,
+        "percent": 82.9,
+        "used_gb": 2.7285003662109375
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.7972412109375,
+        "percent": 59.9
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.55649185180664,
+        "percent": 4.585994958876097,
+        "read_mb": 45300.51171875,
+        "write_mb": 16778.5625
+      },
+      "network": {
+        "bytes_sent_mb": 141.5732421875,
+        "bytes_recv_mb": 1612.974609375,
+        "packets_sent": 383785,
+        "packets_recv": 1452182
+      },
+      "processes": {
+        "count": 407
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:13:29.273095",
+      "health": {
+        "status_code": 200,
+        "response_time": 0.004499,
+        "status": "healthy",
+        "uptime": "0:00:09.016359"
+      },
+      "stats": {
+        "error_count": 0,
+        "error_rate": 0.0,
+        "health_status": "healthy",
+        "system_info": {
+          "cpu_usage": 0.0,
+          "disk_usage": 25.5,
+          "memory_usage": 82.9
+        },
+        "total_requests": 1,
+        "uptime": "0:00:09.020306"
+      },
+      "connectivity": true
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:13:35.288253",
+    "system": {
+      "timestamp": "2025-06-02T11:13:35.284530",
+      "cpu": {
+        "percent": 26.3,
+        "count": 8,
+        "load_avg_1m": 6.17822265625,
+        "load_avg_5m": 4.38671875,
+        "load_avg_15m": 3.21875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.2441864013671875,
+        "percent": 84.4,
+        "used_gb": 2.7471160888671875
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.838623046875,
+        "percent": 61.3
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.556743621826172,
+        "percent": 4.585994958876097,
+        "read_mb": 45401.88671875,
+        "write_mb": 16824.09375
+      },
+      "network": {
+        "bytes_sent_mb": 141.6376953125,
+        "bytes_recv_mb": 1613.1005859375,
+        "packets_sent": 384201,
+        "packets_recv": 1452657
+      },
+      "processes": {
+        "count": 415
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:13:35.288219",
+      "health": {
+        "status_code": 200,
+        "response_time": 0.001555,
+        "status": "healthy",
+        "uptime": "0:00:15.034431"
+      },
+      "stats": {
+        "error_count": 0,
+        "error_rate": 0.0,
+        "health_status": "healthy",
+        "system_info": {
+          "cpu_usage": 0.0,
+          "disk_usage": 25.5,
+          "memory_usage": 84.4
+        },
+        "total_requests": 17,
+        "uptime": "0:00:15.035778"
+      },
+      "connectivity": true
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:13:41.313883",
+    "system": {
+      "timestamp": "2025-06-02T11:13:41.301710",
+      "cpu": {
+        "percent": 14.9,
+        "count": 8,
+        "load_avg_1m": 5.3076171875,
+        "load_avg_5m": 4.25830078125,
+        "load_avg_15m": 3.1865234375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.316650390625,
+        "percent": 83.5,
+        "used_gb": 2.721527099609375
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.838623046875,
+        "percent": 61.3
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.555511474609375,
+        "percent": 4.585994958876097,
+        "read_mb": 45415.703125,
+        "write_mb": 16830.0546875
+      },
+      "network": {
+        "bytes_sent_mb": 141.6728515625,
+        "bytes_recv_mb": 1613.1357421875,
+        "packets_sent": 384539,
+        "packets_recv": 1453006
+      },
+      "processes": {
+        "count": 414
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:13:41.313785",
+      "health": {
+        "status_code": 503,
+        "response_time": 0.004258,
+        "status": "unknown",
+        "uptime": "unknown"
+      },
+      "stats": {
+        "error_count": 0,
+        "error_rate": 0.0,
+        "health_status": "degraded",
+        "system_info": {
+          "cpu_usage": 50.0,
+          "disk_usage": 25.5,
+          "memory_usage": 83.6
+        },
+        "total_requests": 34,
+        "uptime": "0:00:21.060371"
+      },
+      "connectivity": true
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:13:47.334196",
+    "system": {
+      "timestamp": "2025-06-02T11:13:47.325112",
+      "cpu": {
+        "percent": 3.9,
+        "count": 8,
+        "load_avg_1m": 5.20263671875,
+        "load_avg_5m": 4.25390625,
+        "load_avg_15m": 3.19091796875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4284820556640625,
+        "percent": 82.1,
+        "used_gb": 2.6666717529296875
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.830810546875,
+        "percent": 61.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.555633544921875,
+        "percent": 4.585994958876097,
+        "read_mb": 45424.78515625,
+        "write_mb": 16832.0703125
+      },
+      "network": {
+        "bytes_sent_mb": 141.6943359375,
+        "bytes_recv_mb": 1613.1572265625,
+        "packets_sent": 384790,
+        "packets_recv": 1453263
+      },
+      "processes": {
+        "count": 414
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:13:47.334115",
+      "health": {
+        "status_code": 200,
+        "response_time": 0.003569,
+        "status": "healthy",
+        "uptime": "0:00:27.077206"
+      },
+      "stats": {
+        "error_count": 0,
+        "error_rate": 0.0,
+        "health_status": "healthy",
+        "system_info": {
+          "cpu_usage": 0.0,
+          "disk_usage": 25.5,
+          "memory_usage": 82.1
+        },
+        "total_requests": 47,
+        "uptime": "0:00:27.081061"
+      },
+      "connectivity": true
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:13:53.342442",
+    "system": {
+      "timestamp": "2025-06-02T11:13:53.339245",
+      "cpu": {
+        "percent": 4.0,
+        "count": 8,
+        "load_avg_1m": 5.02587890625,
+        "load_avg_5m": 4.23291015625,
+        "load_avg_15m": 3.189453125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.337249755859375,
+        "percent": 83.3,
+        "used_gb": 2.6583404541015625
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.830810546875,
+        "percent": 61.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.555583953857422,
+        "percent": 4.585994958876097,
+        "read_mb": 45432.31640625,
+        "write_mb": 16833.0234375
+      },
+      "network": {
+        "bytes_sent_mb": 141.7431640625,
+        "bytes_recv_mb": 1613.2099609375,
+        "packets_sent": 385305,
+        "packets_recv": 1453776
+      },
+      "processes": {
+        "count": 405
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:13:53.342407",
+      "health": {
+        "status_code": 200,
+        "response_time": 0.001381,
+        "status": "healthy",
+        "uptime": "0:00:33.088579"
+      },
+      "stats": {
+        "error_count": 1,
+        "error_rate": 0.013333333333333334,
+        "health_status": "healthy",
+        "system_info": {
+          "cpu_usage": 0.0,
+          "disk_usage": 25.5,
+          "memory_usage": 83.3
+        },
+        "total_requests": 75,
+        "uptime": "0:00:33.089931"
+      },
+      "connectivity": true
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:13:59.363460",
+    "system": {
+      "timestamp": "2025-06-02T11:13:59.355150",
+      "cpu": {
+        "percent": 5.4,
+        "count": 8,
+        "load_avg_1m": 4.783203125,
+        "load_avg_5m": 4.19580078125,
+        "load_avg_15m": 3.18212890625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.3371734619140625,
+        "percent": 83.3,
+        "used_gb": 2.7004547119140625
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.830810546875,
+        "percent": 61.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.555587768554688,
+        "percent": 4.585994958876097,
+        "read_mb": 45434.36328125,
+        "write_mb": 16833.70703125
+      },
+      "network": {
+        "bytes_sent_mb": 141.7900390625,
+        "bytes_recv_mb": 1613.2568359375,
+        "packets_sent": 385795,
+        "packets_recv": 1454279
+      },
+      "processes": {
+        "count": 405
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:13:59.363376",
+      "health": {
+        "status_code": 200,
+        "response_time": 0.003239,
+        "status": "healthy",
+        "uptime": "0:00:39.106576"
+      },
+      "stats": {
+        "error_count": 2,
+        "error_rate": 0.019801980198019802,
+        "health_status": "healthy",
+        "system_info": {
+          "cpu_usage": 0.0,
+          "disk_usage": 25.5,
+          "memory_usage": 83.3
+        },
+        "total_requests": 101,
+        "uptime": "0:00:39.110303"
+      },
+      "connectivity": true
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:14:05.386617",
+    "system": {
+      "timestamp": "2025-06-02T11:14:05.377460",
+      "cpu": {
+        "percent": 15.8,
+        "count": 8,
+        "load_avg_1m": 4.47998046875,
+        "load_avg_5m": 4.142578125,
+        "load_avg_15m": 3.1689453125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4664154052734375,
+        "percent": 81.7,
+        "used_gb": 2.628997802734375
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.822998046875,
+        "percent": 60.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.555797576904297,
+        "percent": 4.585994958876097,
+        "read_mb": 45469.8125,
+        "write_mb": 16834.50390625
+      },
+      "network": {
+        "bytes_sent_mb": 141.8447265625,
+        "bytes_recv_mb": 1613.314453125,
+        "packets_sent": 386357,
+        "packets_recv": 1454847
+      },
+      "processes": {
+        "count": 406
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:14:05.386543",
+      "health": {
+        "status_code": 200,
+        "response_time": 0.003803,
+        "status": "healthy",
+        "uptime": "0:00:45.129358"
+      },
+      "stats": {
+        "error_count": 2,
+        "error_rate": 0.015503875968992248,
+        "health_status": "healthy",
+        "system_info": {
+          "cpu_usage": 33.3,
+          "disk_usage": 25.5,
+          "memory_usage": 81.7
+        },
+        "total_requests": 129,
+        "uptime": "0:00:45.133543"
+      },
+      "connectivity": true
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:14:11.413660",
+    "system": {
+      "timestamp": "2025-06-02T11:14:11.399608",
+      "cpu": {
+        "percent": 9.0,
+        "count": 8,
+        "load_avg_1m": 4.251953125,
+        "load_avg_5m": 4.1044921875,
+        "load_avg_15m": 3.166015625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.3509368896484375,
+        "percent": 83.1,
+        "used_gb": 2.7288360595703125
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.822998046875,
+        "percent": 60.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.555282592773438,
+        "percent": 4.585994958876097,
+        "read_mb": 45495.75390625,
+        "write_mb": 16841.3203125
+      },
+      "network": {
+        "bytes_sent_mb": 141.90625,
+        "bytes_recv_mb": 1613.4482421875,
+        "packets_sent": 386998,
+        "packets_recv": 1455514
+      },
+      "processes": {
+        "count": 407
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:14:11.413551",
+      "health": {
+        "status_code": 200,
+        "response_time": 0.007605,
+        "status": "healthy",
+        "uptime": "0:00:51.157210"
+      },
+      "stats": {
+        "error_count": 5,
+        "error_rate": 0.031446540880503145,
+        "health_status": "healthy",
+        "system_info": {
+          "cpu_usage": 0.0,
+          "disk_usage": 25.5,
+          "memory_usage": 83.2
+        },
+        "total_requests": 159,
+        "uptime": "0:00:51.160558"
+      },
+      "connectivity": true
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:14:17.436145",
+    "system": {
+      "timestamp": "2025-06-02T11:14:17.426822",
+      "cpu": {
+        "percent": 11.7,
+        "count": 8,
+        "load_avg_1m": 4.5517578125,
+        "load_avg_5m": 4.1689453125,
+        "load_avg_15m": 3.1943359375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.3558349609375,
+        "percent": 83.1,
+        "used_gb": 2.6709747314453125
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.822998046875,
+        "percent": 60.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.555034637451172,
+        "percent": 4.585994958876097,
+        "read_mb": 45577.71484375,
+        "write_mb": 16842.85546875
+      },
+      "network": {
+        "bytes_sent_mb": 141.958984375,
+        "bytes_recv_mb": 1613.5048828125,
+        "packets_sent": 387553,
+        "packets_recv": 1456071
+      },
+      "processes": {
+        "count": 409
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:14:17.436063",
+      "health": {
+        "status_code": 200,
+        "response_time": 0.003769,
+        "status": "healthy",
+        "uptime": "0:00:57.178988"
+      },
+      "stats": {
+        "error_count": 5,
+        "error_rate": 0.02717391304347826,
+        "health_status": "healthy",
+        "system_info": {
+          "cpu_usage": 33.3,
+          "disk_usage": 25.5,
+          "memory_usage": 83.0
+        },
+        "total_requests": 184,
+        "uptime": "0:00:57.182971"
+      },
+      "connectivity": true
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:14:23.445919",
+    "system": {
+      "timestamp": "2025-06-02T11:14:23.441927",
+      "cpu": {
+        "percent": 5.0,
+        "count": 8,
+        "load_avg_1m": 4.98779296875,
+        "load_avg_5m": 4.265625,
+        "load_avg_15m": 3.23388671875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.417266845703125,
+        "percent": 82.3,
+        "used_gb": 2.692718505859375
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.822998046875,
+        "percent": 60.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.55499267578125,
+        "percent": 4.585994958876097,
+        "read_mb": 45585.12890625,
+        "write_mb": 16843.88671875
+      },
+      "network": {
+        "bytes_sent_mb": 142.046875,
+        "bytes_recv_mb": 1613.5859375,
+        "packets_sent": 388172,
+        "packets_recv": 1456706
+      },
+      "processes": {
+        "count": 409
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:14:23.445868",
+      "health": {
+        "status_code": 200,
+        "response_time": 0.001621,
+        "status": "healthy",
+        "uptime": "0:01:03.191545"
+      },
+      "stats": {
+        "error_count": 5,
+        "error_rate": 0.023809523809523808,
+        "health_status": "healthy",
+        "system_info": {
+          "cpu_usage": 50.0,
+          "disk_usage": 25.5,
+          "memory_usage": 82.3
+        },
+        "total_requests": 210,
+        "uptime": "0:01:03.193288"
+      },
+      "connectivity": true
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:14:29.461478",
+    "system": {
+      "timestamp": "2025-06-02T11:14:29.457181",
+      "cpu": {
+        "percent": 4.1,
+        "count": 8,
+        "load_avg_1m": 4.66845703125,
+        "load_avg_5m": 4.2109375,
+        "load_avg_15m": 3.220703125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.435516357421875,
+        "percent": 82.1,
+        "used_gb": 2.7069244384765625
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.822998046875,
+        "percent": 60.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.55401611328125,
+        "percent": 4.585994958876097,
+        "read_mb": 45585.6171875,
+        "write_mb": 16844.046875
+      },
+      "network": {
+        "bytes_sent_mb": 142.0888671875,
+        "bytes_recv_mb": 1613.626953125,
+        "packets_sent": 388668,
+        "packets_recv": 1457207
+      },
+      "processes": {
+        "count": 409
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:14:29.461438",
+      "health": {
+        "status_code": 200,
+        "response_time": 0.001914,
+        "status": "healthy",
+        "uptime": "0:01:09.207224"
+      },
+      "stats": {
+        "error_count": 5,
+        "error_rate": 0.02109704641350211,
+        "health_status": "healthy",
+        "system_info": {
+          "cpu_usage": 0.0,
+          "disk_usage": 25.5,
+          "memory_usage": 82.1
+        },
+        "total_requests": 237,
+        "uptime": "0:01:09.208959"
+      },
+      "connectivity": true
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:14:35.481177",
+    "system": {
+      "timestamp": "2025-06-02T11:14:35.473876",
+      "cpu": {
+        "percent": 5.5,
+        "count": 8,
+        "load_avg_1m": 4.37451171875,
+        "load_avg_5m": 4.1572265625,
+        "load_avg_15m": 3.20751953125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.38140869140625,
+        "percent": 82.7,
+        "used_gb": 2.74847412109375
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.822998046875,
+        "percent": 60.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.55398941040039,
+        "percent": 4.585994958876097,
+        "read_mb": 45588.4375,
+        "write_mb": 16844.6875
+      },
+      "network": {
+        "bytes_sent_mb": 142.1474609375,
+        "bytes_recv_mb": 1613.6904296875,
+        "packets_sent": 389224,
+        "packets_recv": 1457775
+      },
+      "processes": {
+        "count": 409
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:14:35.481106",
+      "health": {
+        "status_code": 200,
+        "response_time": 0.002916,
+        "status": "healthy",
+        "uptime": "0:01:15.225838"
+      },
+      "stats": {
+        "error_count": 5,
+        "error_rate": 0.01893939393939394,
+        "health_status": "healthy",
+        "system_info": {
+          "cpu_usage": 0.0,
+          "disk_usage": 25.5,
+          "memory_usage": 82.7
+        },
+        "total_requests": 264,
+        "uptime": "0:01:15.228393"
+      },
+      "connectivity": true
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:14:41.494187",
+    "system": {
+      "timestamp": "2025-06-02T11:14:41.491372",
+      "cpu": {
+        "percent": 24.2,
+        "count": 8,
+        "load_avg_1m": 4.0087890625,
+        "load_avg_5m": 4.08544921875,
+        "load_avg_15m": 3.19287109375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.3314666748046875,
+        "percent": 83.4,
+        "used_gb": 2.7269744873046875
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.822998046875,
+        "percent": 60.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.554080963134766,
+        "percent": 4.585994958876097,
+        "read_mb": 45645.7734375,
+        "write_mb": 16847.12890625
+      },
+      "network": {
+        "bytes_sent_mb": 142.3095703125,
+        "bytes_recv_mb": 1613.7802734375,
+        "packets_sent": 389894,
+        "packets_recv": 1458416
+      },
+      "processes": {
+        "count": 409
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:14:41.494159",
+      "health": {
+        "status_code": 200,
+        "response_time": 0.001276,
+        "status": "healthy",
+        "uptime": "0:01:21.240594"
+      },
+      "stats": {
+        "error_count": 8,
+        "error_rate": 0.02711864406779661,
+        "health_status": "healthy",
+        "system_info": {
+          "cpu_usage": 0.0,
+          "disk_usage": 25.5,
+          "memory_usage": 83.3
+        },
+        "total_requests": 295,
+        "uptime": "0:01:21.241753"
+      },
+      "connectivity": true
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:14:47.518872",
+    "system": {
+      "timestamp": "2025-06-02T11:14:47.507687",
+      "cpu": {
+        "percent": 8.3,
+        "count": 8,
+        "load_avg_1m": 3.767578125,
+        "load_avg_5m": 4.0341796875,
+        "load_avg_15m": 3.1796875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.3317108154296875,
+        "percent": 83.4,
+        "used_gb": 2.70281982421875
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.822998046875,
+        "percent": 60.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.5540771484375,
+        "percent": 4.585994958876097,
+        "read_mb": 45648.70703125,
+        "write_mb": 16848.18359375
+      },
+      "network": {
+        "bytes_sent_mb": 142.4375,
+        "bytes_recv_mb": 1613.853515625,
+        "packets_sent": 390573,
+        "packets_recv": 1459095
+      },
+      "processes": {
+        "count": 409
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:14:47.518774",
+      "health": {
+        "status_code": 200,
+        "response_time": 0.004009,
+        "status": "healthy",
+        "uptime": "0:01:27.260380"
+      },
+      "stats": {
+        "error_count": 12,
+        "error_rate": 0.037037037037037035,
+        "health_status": "healthy",
+        "system_info": {
+          "cpu_usage": 0.0,
+          "disk_usage": 25.5,
+          "memory_usage": 83.3
+        },
+        "total_requests": 324,
+        "uptime": "0:01:27.265410"
+      },
+      "connectivity": true
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:14:53.533942",
+    "system": {
+      "timestamp": "2025-06-02T11:14:53.529162",
+      "cpu": {
+        "percent": 4.0,
+        "count": 8,
+        "load_avg_1m": 3.5458984375,
+        "load_avg_5m": 3.9833984375,
+        "load_avg_15m": 3.16650390625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.5194549560546875,
+        "percent": 81.0,
+        "used_gb": 2.604888916015625
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.822998046875,
+        "percent": 60.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.553977966308594,
+        "percent": 4.585994958876097,
+        "read_mb": 45649.29296875,
+        "write_mb": 16849.5859375
+      },
+      "network": {
+        "bytes_sent_mb": 142.5087890625,
+        "bytes_recv_mb": 1613.923828125,
+        "packets_sent": 391222,
+        "packets_recv": 1459749
+      },
+      "processes": {
+        "count": 406
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:14:53.533883",
+      "health": {
+        "status_code": 200,
+        "response_time": 0.001924,
+        "status": "healthy",
+        "uptime": "0:01:33.279165"
+      },
+      "stats": {
+        "error_count": 13,
+        "error_rate": 0.03672316384180791,
+        "health_status": "healthy",
+        "system_info": {
+          "cpu_usage": 0.0,
+          "disk_usage": 25.5,
+          "memory_usage": 81.0
+        },
+        "total_requests": 354,
+        "uptime": "0:01:33.281201"
+      },
+      "connectivity": true
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:14:59.547433",
+    "system": {
+      "timestamp": "2025-06-02T11:14:59.544774",
+      "cpu": {
+        "percent": 7.8,
+        "count": 8,
+        "load_avg_1m": 3.341796875,
+        "load_avg_5m": 3.93359375,
+        "load_avg_15m": 3.15380859375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.3722076416015625,
+        "percent": 82.8,
+        "used_gb": 2.727447509765625
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.822998046875,
+        "percent": 60.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.553977966308594,
+        "percent": 4.585994958876097,
+        "read_mb": 45649.3515625,
+        "write_mb": 16849.671875
+      },
+      "network": {
+        "bytes_sent_mb": 142.5615234375,
+        "bytes_recv_mb": 1613.9775390625,
+        "packets_sent": 391799,
+        "packets_recv": 1460328
+      },
+      "processes": {
+        "count": 405
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:14:59.547399",
+      "health": {
+        "status_code": 503,
+        "response_time": 0.001061,
+        "status": "unknown",
+        "uptime": "unknown"
+      },
+      "stats": {
+        "error_count": 14,
+        "error_rate": 0.03684210526315789,
+        "health_status": "degraded",
+        "system_info": {
+          "cpu_usage": 0.0,
+          "disk_usage": 25.5,
+          "memory_usage": 82.8
+        },
+        "total_requests": 380,
+        "uptime": "0:01:39.294932"
+      },
+      "connectivity": true
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:15:05.569735",
+    "system": {
+      "timestamp": "2025-06-02T11:15:05.560475",
+      "cpu": {
+        "percent": 5.4,
+        "count": 8,
+        "load_avg_1m": 3.15380859375,
+        "load_avg_5m": 3.884765625,
+        "load_avg_15m": 3.14111328125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.3567352294921875,
+        "percent": 83.0,
+        "used_gb": 2.7256927490234375
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.822998046875,
+        "percent": 60.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.553958892822266,
+        "percent": 4.585994958876097,
+        "read_mb": 45652.47265625,
+        "write_mb": 16850.04296875
+      },
+      "network": {
+        "bytes_sent_mb": 142.642578125,
+        "bytes_recv_mb": 1614.029296875,
+        "packets_sent": 392374,
+        "packets_recv": 1460896
+      },
+      "processes": {
+        "count": 405
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:15:05.569651",
+      "health": {
+        "status_code": 200,
+        "response_time": 0.003368,
+        "status": "healthy",
+        "uptime": "0:01:45.312323"
+      },
+      "stats": {
+        "error_count": 15,
+        "error_rate": 0.03667481662591687,
+        "health_status": "healthy",
+        "system_info": {
+          "cpu_usage": 0.0,
+          "disk_usage": 25.5,
+          "memory_usage": 83.0
+        },
+        "total_requests": 409,
+        "uptime": "0:01:45.316450"
+      },
+      "connectivity": true
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:15:11.591198",
+    "system": {
+      "timestamp": "2025-06-02T11:15:11.580858",
+      "cpu": {
+        "percent": 13.1,
+        "count": 8,
+        "load_avg_1m": 2.90234375,
+        "load_avg_5m": 3.8056640625,
+        "load_avg_15m": 3.12158203125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.410888671875,
+        "percent": 82.4,
+        "used_gb": 2.7194976806640625
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.822998046875,
+        "percent": 60.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.552814483642578,
+        "percent": 4.585994958876097,
+        "read_mb": 45655.9296875,
+        "write_mb": 16853.48046875
+      },
+      "network": {
+        "bytes_sent_mb": 142.689453125,
+        "bytes_recv_mb": 1614.0751953125,
+        "packets_sent": 392939,
+        "packets_recv": 1461465
+      },
+      "processes": {
+        "count": 404
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:15:11.590894",
+      "health": {
+        "status_code": 503,
+        "response_time": 0.004191,
+        "status": "unknown",
+        "uptime": "unknown"
+      },
+      "stats": {
+        "error_count": 17,
+        "error_rate": 0.03854875283446712,
+        "health_status": "degraded",
+        "system_info": {
+          "cpu_usage": 0.0,
+          "disk_usage": 25.5,
+          "memory_usage": 82.3
+        },
+        "total_requests": 441,
+        "uptime": "0:01:51.337571"
+      },
+      "connectivity": true
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:15:17.615255",
+    "system": {
+      "timestamp": "2025-06-02T11:15:17.604454",
+      "cpu": {
+        "percent": 7.3,
+        "count": 8,
+        "load_avg_1m": 2.990234375,
+        "load_avg_5m": 3.80859375,
+        "load_avg_15m": 3.12646484375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.3243408203125,
+        "percent": 83.4,
+        "used_gb": 2.7090301513671875
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.822998046875,
+        "percent": 60.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.53354263305664,
+        "percent": 4.585994958876097,
+        "read_mb": 45676.02734375,
+        "write_mb": 16874.41796875
+      },
+      "network": {
+        "bytes_sent_mb": 142.751953125,
+        "bytes_recv_mb": 1614.142578125,
+        "packets_sent": 393475,
+        "packets_recv": 1462010
+      },
+      "processes": {
+        "count": 409
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:15:17.615173",
+      "health": {
+        "status_code": 200,
+        "response_time": 0.004641,
+        "status": "healthy",
+        "uptime": "0:01:57.358593"
+      },
+      "stats": {
+        "error_count": 20,
+        "error_rate": 0.043010752688172046,
+        "health_status": "healthy",
+        "system_info": {
+          "cpu_usage": 33.3,
+          "disk_usage": 25.5,
+          "memory_usage": 83.4
+        },
+        "total_requests": 465,
+        "uptime": "0:01:57.362324"
+      },
+      "connectivity": true
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:15:23.630239",
+    "system": {
+      "timestamp": "2025-06-02T11:15:23.626459",
+      "cpu": {
+        "percent": 9.5,
+        "count": 8,
+        "load_avg_1m": 2.83056640625,
+        "load_avg_5m": 3.76171875,
+        "load_avg_15m": 3.11376953125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.3139495849609375,
+        "percent": 83.6,
+        "used_gb": 2.7159271240234375
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.822998046875,
+        "percent": 60.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.533279418945312,
+        "percent": 4.585994958876097,
+        "read_mb": 45685.52734375,
+        "write_mb": 16875.81640625
+      },
+      "network": {
+        "bytes_sent_mb": 142.818359375,
+        "bytes_recv_mb": 1614.20703125,
+        "packets_sent": 394101,
+        "packets_recv": 1462648
+      },
+      "processes": {
+        "count": 409
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:15:23.630196",
+      "health": {
+        "status_code": 200,
+        "response_time": 0.001639,
+        "status": "healthy",
+        "uptime": "0:02:03.376270"
+      },
+      "stats": {
+        "error_count": 21,
+        "error_rate": 0.04242424242424243,
+        "health_status": "healthy",
+        "system_info": {
+          "cpu_usage": 0.0,
+          "disk_usage": 25.5,
+          "memory_usage": 83.6
+        },
+        "total_requests": 495,
+        "uptime": "0:02:03.377649"
+      },
+      "connectivity": true
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:15:29.654151",
+    "system": {
+      "timestamp": "2025-06-02T11:15:29.643659",
+      "cpu": {
+        "percent": 14.2,
+        "count": 8,
+        "load_avg_1m": 2.603515625,
+        "load_avg_5m": 3.69921875,
+        "load_avg_15m": 3.09521484375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4375,
+        "percent": 82.0,
+        "used_gb": 2.6600341796875
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.822998046875,
+        "percent": 60.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.552833557128906,
+        "percent": 4.585994958876097,
+        "read_mb": 45687.69140625,
+        "write_mb": 16876.55859375
+      },
+      "network": {
+        "bytes_sent_mb": 142.8857421875,
+        "bytes_recv_mb": 1614.2578125,
+        "packets_sent": 394680,
+        "packets_recv": 1463231
+      },
+      "processes": {
+        "count": 409
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:15:29.654063",
+      "health": {
+        "status_code": 200,
+        "response_time": 0.003914,
+        "status": "healthy",
+        "uptime": "0:02:09.396366"
+      },
+      "stats": {
+        "error_count": 21,
+        "error_rate": 0.04,
+        "health_status": "healthy",
+        "system_info": {
+          "cpu_usage": 0.0,
+          "disk_usage": 25.5,
+          "memory_usage": 82.0
+        },
+        "total_requests": 525,
+        "uptime": "0:02:09.400813"
+      },
+      "connectivity": true
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:15:35.670202",
+    "system": {
+      "timestamp": "2025-06-02T11:15:35.660964",
+      "cpu": {
+        "percent": 9.3,
+        "count": 8,
+        "load_avg_1m": 2.63525390625,
+        "load_avg_5m": 3.6875,
+        "load_avg_15m": 3.09423828125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.500701904296875,
+        "percent": 81.2,
+        "used_gb": 2.6151580810546875
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.822998046875,
+        "percent": 60.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.552833557128906,
+        "percent": 4.585994958876097,
+        "read_mb": 45687.9453125,
+        "write_mb": 16876.6484375
+      },
+      "network": {
+        "bytes_sent_mb": 142.931640625,
+        "bytes_recv_mb": 1614.3017578125,
+        "packets_sent": 395210,
+        "packets_recv": 1463769
+      },
+      "processes": {
+        "count": 409
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:15:35.670117",
+      "health": {
+        "status_code": 200,
+        "response_time": 0.003747,
+        "status": "healthy",
+        "uptime": "0:02:15.413081"
+      },
+      "stats": {
+        "error_count": 22,
+        "error_rate": 0.04,
+        "health_status": "healthy",
+        "system_info": {
+          "cpu_usage": 33.3,
+          "disk_usage": 25.5,
+          "memory_usage": 81.2
+        },
+        "total_requests": 550,
+        "uptime": "0:02:15.417024"
+      },
+      "connectivity": true
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:15:41.676957",
+    "system": {
+      "timestamp": "2025-06-02T11:15:41.674295",
+      "cpu": {
+        "percent": 29.7,
+        "count": 8,
+        "load_avg_1m": 2.9375,
+        "load_avg_5m": 3.71435546875,
+        "load_avg_15m": 3.10986328125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.348876953125,
+        "percent": 83.1,
+        "used_gb": 2.5997314453125
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.815185546875,
+        "percent": 60.5
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.475177764892578,
+        "percent": 4.585994958876097,
+        "read_mb": 45722.828125,
+        "write_mb": 16964.5
+      },
+      "network": {
+        "bytes_sent_mb": 143.0087890625,
+        "bytes_recv_mb": 1617.8515625,
+        "packets_sent": 395975,
+        "packets_recv": 1466813
+      },
+      "processes": {
+        "count": 410
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:15:41.676921",
+      "health": {
+        "status_code": 503,
+        "response_time": 0.001234,
+        "status": "unknown",
+        "uptime": "unknown"
+      },
+      "stats": {
+        "error_count": 22,
+        "error_rate": 0.038128249566724434,
+        "health_status": "degraded",
+        "system_info": {
+          "cpu_usage": 0.0,
+          "disk_usage": 25.6,
+          "memory_usage": 83.2
+        },
+        "total_requests": 577,
+        "uptime": "0:02:21.424533"
+      },
+      "connectivity": true
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:15:47.693879",
+    "system": {
+      "timestamp": "2025-06-02T11:15:47.688203",
+      "cpu": {
+        "percent": 56.0,
+        "count": 8,
+        "load_avg_1m": 3.1826171875,
+        "load_avg_5m": 3.751953125,
+        "load_avg_15m": 3.12646484375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.271820068359375,
+        "percent": 84.1,
+        "used_gb": 2.684234619140625
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.807373046875,
+        "percent": 60.2
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.29236602783203,
+        "percent": 4.585994958876097,
+        "read_mb": 45808.02734375,
+        "write_mb": 17204.9296875
+      },
+      "network": {
+        "bytes_sent_mb": 143.1376953125,
+        "bytes_recv_mb": 1634.5078125,
+        "packets_sent": 397211,
+        "packets_recv": 1479290
+      },
+      "processes": {
+        "count": 410
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:15:47.693797",
+      "health": {
+        "status_code": 200,
+        "response_time": 0.002222,
+        "status": "healthy",
+        "uptime": "0:02:27.438941"
+      },
+      "stats": {
+        "error_count": 23,
+        "error_rate": 0.037953795379537955,
+        "health_status": "healthy",
+        "system_info": {
+          "cpu_usage": 0.0,
+          "disk_usage": 25.7,
+          "memory_usage": 84.1
+        },
+        "total_requests": 606,
+        "uptime": "0:02:27.441026"
+      },
+      "connectivity": true
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:15:53.707497",
+    "system": {
+      "timestamp": "2025-06-02T11:15:53.704627",
+      "cpu": {
+        "percent": 41.0,
+        "count": 8,
+        "load_avg_1m": 4.529296875,
+        "load_avg_5m": 4.021484375,
+        "load_avg_15m": 3.22509765625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.361236572265625,
+        "percent": 83.0,
+        "used_gb": 2.67620849609375
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.807373046875,
+        "percent": 60.2
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.180992126464844,
+        "percent": 4.585994958876097,
+        "read_mb": 45880.04296875,
+        "write_mb": 17357.03125
+      },
+      "network": {
+        "bytes_sent_mb": 143.21875,
+        "bytes_recv_mb": 1634.8154296875,
+        "packets_sent": 397912,
+        "packets_recv": 1480097
+      },
+      "processes": {
+        "count": 409
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:15:53.707467",
+      "health": {
+        "status_code": 200,
+        "response_time": 0.00112,
+        "status": "healthy",
+        "uptime": "0:02:33.453655"
+      },
+      "stats": {
+        "error_count": 24,
+        "error_rate": 0.03767660910518053,
+        "health_status": "healthy",
+        "system_info": {
+          "cpu_usage": 0.0,
+          "disk_usage": 25.8,
+          "memory_usage": 83.0
+        },
+        "total_requests": 637,
+        "uptime": "0:02:33.454701"
+      },
+      "connectivity": true
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:15:59.723421",
+    "system": {
+      "timestamp": "2025-06-02T11:15:59.718785",
+      "cpu": {
+        "percent": 13.1,
+        "count": 8,
+        "load_avg_1m": 4.40673828125,
+        "load_avg_5m": 4.00439453125,
+        "load_avg_15m": 3.2236328125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.39434814453125,
+        "percent": 82.6,
+        "used_gb": 2.771575927734375
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.799560546875,
+        "percent": 60.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.187042236328125,
+        "percent": 4.585994958876097,
+        "read_mb": 45890.35546875,
+        "write_mb": 17371.62890625
+      },
+      "network": {
+        "bytes_sent_mb": 143.451171875,
+        "bytes_recv_mb": 1634.9052734375,
+        "packets_sent": 398714,
+        "packets_recv": 1480853
+      },
+      "processes": {
+        "count": 406
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:15:59.723367",
+      "health": {
+        "status_code": 200,
+        "response_time": 0.001786,
+        "status": "healthy",
+        "uptime": "0:02:39.468921"
+      },
+      "stats": {
+        "error_count": 24,
+        "error_rate": 0.03587443946188341,
+        "health_status": "healthy",
+        "system_info": {
+          "cpu_usage": 0.0,
+          "disk_usage": 25.7,
+          "memory_usage": 82.6
+        },
+        "total_requests": 669,
+        "uptime": "0:02:39.470826"
+      },
+      "connectivity": true
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:16:10.741927",
+    "system": {
+      "timestamp": "2025-06-02T11:16:05.731310",
+      "cpu": {
+        "percent": 18.2,
+        "count": 8,
+        "load_avg_1m": 4.5341796875,
+        "load_avg_5m": 4.037109375,
+        "load_avg_15m": 3.23974609375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.3248291015625,
+        "percent": 83.4,
+        "used_gb": 2.734161376953125
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.799560546875,
+        "percent": 60.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.186767578125,
+        "percent": 4.585994958876097,
+        "read_mb": 45918.45703125,
+        "write_mb": 17372.87109375
+      },
+      "network": {
+        "bytes_sent_mb": 143.5322265625,
+        "bytes_recv_mb": 1635.361328125,
+        "packets_sent": 399188,
+        "packets_recv": 1481522
+      },
+      "processes": {
+        "count": 406
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:16:10.741871",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:16:21.772488",
+    "system": {
+      "timestamp": "2025-06-02T11:16:16.756159",
+      "cpu": {
+        "percent": 7.1,
+        "count": 8,
+        "load_avg_1m": 3.6767578125,
+        "load_avg_5m": 3.87109375,
+        "load_avg_15m": 3.1943359375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.38031005859375,
+        "percent": 82.7,
+        "used_gb": 2.5953826904296875
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 2.05548095703125,
+        "percent": 68.5
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.186874389648438,
+        "percent": 4.585994958876097,
+        "read_mb": 45983.84765625,
+        "write_mb": 17672.58984375
+      },
+      "network": {
+        "bytes_sent_mb": 143.8544921875,
+        "bytes_recv_mb": 1636.3095703125,
+        "packets_sent": 399899,
+        "packets_recv": 1482577
+      },
+      "processes": {
+        "count": 408
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:16:21.772397",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:16:32.785445",
+    "system": {
+      "timestamp": "2025-06-02T11:16:27.778885",
+      "cpu": {
+        "percent": 22.4,
+        "count": 8,
+        "load_avg_1m": 3.70703125,
+        "load_avg_5m": 3.8740234375,
+        "load_avg_15m": 3.203125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.293792724609375,
+        "percent": 83.8,
+        "used_gb": 2.663604736328125
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 2.04766845703125,
+        "percent": 68.3
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.19655990600586,
+        "percent": 4.585994958876097,
+        "read_mb": 46007.6796875,
+        "write_mb": 17675.25
+      },
+      "network": {
+        "bytes_sent_mb": 143.966796875,
+        "bytes_recv_mb": 1637.1845703125,
+        "packets_sent": 400385,
+        "packets_recv": 1483475
+      },
+      "processes": {
+        "count": 409
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:16:32.785360",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:16:43.806566",
+    "system": {
+      "timestamp": "2025-06-02T11:16:38.799972",
+      "cpu": {
+        "percent": 13.0,
+        "count": 8,
+        "load_avg_1m": 3.4443359375,
+        "load_avg_5m": 3.81201171875,
+        "load_avg_15m": 3.1884765625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4287567138671875,
+        "percent": 82.1,
+        "used_gb": 2.669921875
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 2.03204345703125,
+        "percent": 67.7
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.196128845214844,
+        "percent": 4.585994958876097,
+        "read_mb": 46042.09765625,
+        "write_mb": 17699.23046875
+      },
+      "network": {
+        "bytes_sent_mb": 144.2763671875,
+        "bytes_recv_mb": 1637.720703125,
+        "packets_sent": 400981,
+        "packets_recv": 1484194
+      },
+      "processes": {
+        "count": 420
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:16:43.806526",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:16:54.823860",
+    "system": {
+      "timestamp": "2025-06-02T11:16:49.819115",
+      "cpu": {
+        "percent": 10.7,
+        "count": 8,
+        "load_avg_1m": 3.06201171875,
+        "load_avg_5m": 3.71875,
+        "load_avg_15m": 3.162109375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.3499908447265625,
+        "percent": 83.1,
+        "used_gb": 2.6296234130859375
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 2.03204345703125,
+        "percent": 67.7
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.196067810058594,
+        "percent": 4.585994958876097,
+        "read_mb": 46057.9140625,
+        "write_mb": 17700.375
+      },
+      "network": {
+        "bytes_sent_mb": 144.3046875,
+        "bytes_recv_mb": 1637.751953125,
+        "packets_sent": 401126,
+        "packets_recv": 1484341
+      },
+      "processes": {
+        "count": 420
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:16:54.823824",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:17:05.838080",
+    "system": {
+      "timestamp": "2025-06-02T11:17:00.832662",
+      "cpu": {
+        "percent": 10.4,
+        "count": 8,
+        "load_avg_1m": 2.89794921875,
+        "load_avg_5m": 3.66162109375,
+        "load_avg_15m": 3.1484375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.3853302001953125,
+        "percent": 82.7,
+        "used_gb": 2.5034637451171875
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.91485595703125,
+        "percent": 63.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.196083068847656,
+        "percent": 4.585994958876097,
+        "read_mb": 46193.578125,
+        "write_mb": 17707.00390625
+      },
+      "network": {
+        "bytes_sent_mb": 144.3671875,
+        "bytes_recv_mb": 1637.783203125,
+        "packets_sent": 401268,
+        "packets_recv": 1484489
+      },
+      "processes": {
+        "count": 419
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:17:05.838071",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:17:16.855566",
+    "system": {
+      "timestamp": "2025-06-02T11:17:11.846453",
+      "cpu": {
+        "percent": 31.1,
+        "count": 8,
+        "load_avg_1m": 2.9140625,
+        "load_avg_5m": 3.62841796875,
+        "load_avg_15m": 3.1455078125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.2734832763671875,
+        "percent": 84.1,
+        "used_gb": 2.6571807861328125
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.93377685546875,
+        "percent": 64.5
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.195785522460938,
+        "percent": 4.585994958876097,
+        "read_mb": 46210.109375,
+        "write_mb": 17731.71875
+      },
+      "network": {
+        "bytes_sent_mb": 144.470703125,
+        "bytes_recv_mb": 1638.6728515625,
+        "packets_sent": 401700,
+        "packets_recv": 1485396
+      },
+      "processes": {
+        "count": 411
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:17:16.855532",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:17:27.871512",
+    "system": {
+      "timestamp": "2025-06-02T11:17:22.866988",
+      "cpu": {
+        "percent": 53.2,
+        "count": 8,
+        "load_avg_1m": 3.24072265625,
+        "load_avg_5m": 3.67333984375,
+        "load_avg_15m": 3.1669921875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.2872314453125,
+        "percent": 83.9,
+        "used_gb": 2.6062774658203125
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.9920654296875,
+        "percent": 66.4
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.195663452148438,
+        "percent": 4.585994958876097,
+        "read_mb": 46232.10546875,
+        "write_mb": 17809.3046875
+      },
+      "network": {
+        "bytes_sent_mb": 145.4990234375,
+        "bytes_recv_mb": 1639.6796875,
+        "packets_sent": 402877,
+        "packets_recv": 1486783
+      },
+      "processes": {
+        "count": 407
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:17:27.871466",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:17:38.881183",
+    "system": {
+      "timestamp": "2025-06-02T11:17:33.877975",
+      "cpu": {
+        "percent": 9.9,
+        "count": 8,
+        "load_avg_1m": 2.9755859375,
+        "load_avg_5m": 3.6015625,
+        "load_avg_15m": 3.14697265625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.2515106201171875,
+        "percent": 84.4,
+        "used_gb": 2.548431396484375
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 2.00738525390625,
+        "percent": 66.9
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.174026489257812,
+        "percent": 4.585994958876097,
+        "read_mb": 46237.203125,
+        "write_mb": 17848.09765625
+      },
+      "network": {
+        "bytes_sent_mb": 145.537109375,
+        "bytes_recv_mb": 1639.7275390625,
+        "packets_sent": 403045,
+        "packets_recv": 1486946
+      },
+      "processes": {
+        "count": 406
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:17:38.881169",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:17:49.895222",
+    "system": {
+      "timestamp": "2025-06-02T11:17:44.890342",
+      "cpu": {
+        "percent": 16.4,
+        "count": 8,
+        "load_avg_1m": 2.7451171875,
+        "load_avg_5m": 3.53173828125,
+        "load_avg_15m": 3.12744140625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.2223052978515625,
+        "percent": 84.7,
+        "used_gb": 2.635650634765625
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 2.08740234375,
+        "percent": 69.6
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.173824310302734,
+        "percent": 4.585994958876097,
+        "read_mb": 46247.859375,
+        "write_mb": 17934.44140625
+      },
+      "network": {
+        "bytes_sent_mb": 145.611328125,
+        "bytes_recv_mb": 1639.7626953125,
+        "packets_sent": 403203,
+        "packets_recv": 1487119
+      },
+      "processes": {
+        "count": 406
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:17:49.895180",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:18:00.913560",
+    "system": {
+      "timestamp": "2025-06-02T11:17:55.902345",
+      "cpu": {
+        "percent": 41.6,
+        "count": 8,
+        "load_avg_1m": 2.72265625,
+        "load_avg_5m": 3.49755859375,
+        "load_avg_15m": 3.11962890625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.2089996337890625,
+        "percent": 84.9,
+        "used_gb": 2.7366943359375
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 2.3406982421875,
+        "percent": 78.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.19255828857422,
+        "percent": 4.585994958876097,
+        "read_mb": 46574.76171875,
+        "write_mb": 18375.80078125
+      },
+      "network": {
+        "bytes_sent_mb": 145.8701171875,
+        "bytes_recv_mb": 1640.1884765625,
+        "packets_sent": 403739,
+        "packets_recv": 1487776
+      },
+      "processes": {
+        "count": 412
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:18:00.913486",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:18:11.930339",
+    "system": {
+      "timestamp": "2025-06-02T11:18:06.924794",
+      "cpu": {
+        "percent": 25.7,
+        "count": 8,
+        "load_avg_1m": 2.96240234375,
+        "load_avg_5m": 3.51953125,
+        "load_avg_15m": 3.13427734375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.1750335693359375,
+        "percent": 85.3,
+        "used_gb": 2.8069915771484375
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 2.381103515625,
+        "percent": 79.4
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.1724853515625,
+        "percent": 4.585994958876097,
+        "read_mb": 46589.7109375,
+        "write_mb": 18450.12890625
+      },
+      "network": {
+        "bytes_sent_mb": 145.986328125,
+        "bytes_recv_mb": 1640.625,
+        "packets_sent": 404011,
+        "packets_recv": 1488305
+      },
+      "processes": {
+        "count": 411
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:18:11.930315",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:18:22.948474",
+    "system": {
+      "timestamp": "2025-06-02T11:18:17.940295",
+      "cpu": {
+        "percent": 40.4,
+        "count": 8,
+        "load_avg_1m": 2.65380859375,
+        "load_avg_5m": 3.43603515625,
+        "load_avg_15m": 3.10888671875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.2525177001953125,
+        "percent": 84.3,
+        "used_gb": 2.9028167724609375
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 2.45379638671875,
+        "percent": 81.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.191856384277344,
+        "percent": 4.585994958876097,
+        "read_mb": 46606.70703125,
+        "write_mb": 18539.68359375
+      },
+      "network": {
+        "bytes_sent_mb": 146.1650390625,
+        "bytes_recv_mb": 1640.9287109375,
+        "packets_sent": 404357,
+        "packets_recv": 1488793
+      },
+      "processes": {
+        "count": 411
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:18:22.948395",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:18:33.964486",
+    "system": {
+      "timestamp": "2025-06-02T11:18:28.959551",
+      "cpu": {
+        "percent": 35.2,
+        "count": 8,
+        "load_avg_1m": 2.79296875,
+        "load_avg_5m": 3.43798828125,
+        "load_avg_15m": 3.11279296875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.3037261962890625,
+        "percent": 83.7,
+        "used_gb": 3.0225067138671875
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 2.51531982421875,
+        "percent": 83.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.190753936767578,
+        "percent": 4.585994958876097,
+        "read_mb": 46634.15234375,
+        "write_mb": 18619.7109375
+      },
+      "network": {
+        "bytes_sent_mb": 146.341796875,
+        "bytes_recv_mb": 1641.958984375,
+        "packets_sent": 405074,
+        "packets_recv": 1490707
+      },
+      "processes": {
+        "count": 408
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:18:33.964457",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:18:44.977655",
+    "system": {
+      "timestamp": "2025-06-02T11:18:39.971933",
+      "cpu": {
+        "percent": 39.1,
+        "count": 8,
+        "load_avg_1m": 3.384765625,
+        "load_avg_5m": 3.53955078125,
+        "load_avg_15m": 3.15185546875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4534759521484375,
+        "percent": 81.8,
+        "used_gb": 3.0481109619140625
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 2.4847412109375,
+        "percent": 82.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.195587158203125,
+        "percent": 4.585994958876097,
+        "read_mb": 46736.59375,
+        "write_mb": 18676.5546875
+      },
+      "network": {
+        "bytes_sent_mb": 147.5390625,
+        "bytes_recv_mb": 1643.3388671875,
+        "packets_sent": 406683,
+        "packets_recv": 1492538
+      },
+      "processes": {
+        "count": 409
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:18:44.977622",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:18:55.990337",
+    "system": {
+      "timestamp": "2025-06-02T11:18:50.986134",
+      "cpu": {
+        "percent": 37.8,
+        "count": 8,
+        "load_avg_1m": 3.2578125,
+        "load_avg_5m": 3.50537109375,
+        "load_avg_15m": 3.14404296875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.900543212890625,
+        "percent": 76.2,
+        "used_gb": 3.1792755126953125
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.5933837890625,
+        "percent": 53.1
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.204792022705078,
+        "percent": 4.585994958876097,
+        "read_mb": 47061.7734375,
+        "write_mb": 18683.578125
+      },
+      "network": {
+        "bytes_sent_mb": 148.0986328125,
+        "bytes_recv_mb": 1645.2900390625,
+        "packets_sent": 407684,
+        "packets_recv": 1494338
+      },
+      "processes": {
+        "count": 400
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:18:55.990299",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:19:07.007368",
+    "system": {
+      "timestamp": "2025-06-02T11:19:02.001346",
+      "cpu": {
+        "percent": 24.5,
+        "count": 8,
+        "load_avg_1m": 3.33544921875,
+        "load_avg_5m": 3.51171875,
+        "load_avg_15m": 3.15283203125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.8199005126953125,
+        "percent": 77.3,
+        "used_gb": 3.1106414794921875
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.5777587890625,
+        "percent": 52.6
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.204570770263672,
+        "percent": 4.585994958876097,
+        "read_mb": 47080.73828125,
+        "write_mb": 18687.46484375
+      },
+      "network": {
+        "bytes_sent_mb": 148.8623046875,
+        "bytes_recv_mb": 1646.0947265625,
+        "packets_sent": 408616,
+        "packets_recv": 1495336
+      },
+      "processes": {
+        "count": 401
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:19:07.007311",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:19:18.020595",
+    "system": {
+      "timestamp": "2025-06-02T11:19:13.018259",
+      "cpu": {
+        "percent": 20.1,
+        "count": 8,
+        "load_avg_1m": 3.12939453125,
+        "load_avg_5m": 3.46142578125,
+        "load_avg_15m": 3.13916015625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.7320556640625,
+        "percent": 78.3,
+        "used_gb": 3.084625244140625
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.5699462890625,
+        "percent": 52.3
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.204071044921875,
+        "percent": 4.585994958876097,
+        "read_mb": 47098.73046875,
+        "write_mb": 18696.625
+      },
+      "network": {
+        "bytes_sent_mb": 149.220703125,
+        "bytes_recv_mb": 1646.244140625,
+        "packets_sent": 409057,
+        "packets_recv": 1495713
+      },
+      "processes": {
+        "count": 401
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:19:18.020587",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:19:29.031604",
+    "system": {
+      "timestamp": "2025-06-02T11:19:24.029204",
+      "cpu": {
+        "percent": 20.4,
+        "count": 8,
+        "load_avg_1m": 2.955078125,
+        "load_avg_5m": 3.4130859375,
+        "load_avg_15m": 3.12548828125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.97674560546875,
+        "percent": 75.3,
+        "used_gb": 3.32855224609375
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.5699462890625,
+        "percent": 52.3
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.215476989746094,
+        "percent": 4.585994958876097,
+        "read_mb": 47102.5546875,
+        "write_mb": 18699.07421875
+      },
+      "network": {
+        "bytes_sent_mb": 149.32421875,
+        "bytes_recv_mb": 1647.236328125,
+        "packets_sent": 409483,
+        "packets_recv": 1496633
+      },
+      "processes": {
+        "count": 399
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:19:29.031579",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:19:40.042144",
+    "system": {
+      "timestamp": "2025-06-02T11:19:35.039531",
+      "cpu": {
+        "percent": 23.7,
+        "count": 8,
+        "load_avg_1m": 2.8876953125,
+        "load_avg_5m": 3.38232421875,
+        "load_avg_15m": 3.11767578125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 2.0307159423828125,
+        "percent": 74.6,
+        "used_gb": 3.311065673828125
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.5699462890625,
+        "percent": 52.3
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.215476989746094,
+        "percent": 4.585994958876097,
+        "read_mb": 47104.83984375,
+        "write_mb": 18701.73046875
+      },
+      "network": {
+        "bytes_sent_mb": 149.6630859375,
+        "bytes_recv_mb": 1647.6328125,
+        "packets_sent": 409973,
+        "packets_recv": 1497222
+      },
+      "processes": {
+        "count": 399
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:19:40.042127",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:19:51.058102",
+    "system": {
+      "timestamp": "2025-06-02T11:19:46.053234",
+      "cpu": {
+        "percent": 10.8,
+        "count": 8,
+        "load_avg_1m": 2.75732421875,
+        "load_avg_5m": 3.3369140625,
+        "load_avg_15m": 3.10400390625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 2.1055450439453125,
+        "percent": 73.7,
+        "used_gb": 3.272796630859375
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.5621337890625,
+        "percent": 52.1
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.215450286865234,
+        "percent": 4.585994958876097,
+        "read_mb": 47143.71484375,
+        "write_mb": 18706.7890625
+      },
+      "network": {
+        "bytes_sent_mb": 149.9072265625,
+        "bytes_recv_mb": 1648.4765625,
+        "packets_sent": 410421,
+        "packets_recv": 1497995
+      },
+      "processes": {
+        "count": 399
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:19:51.058075",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:20:02.074528",
+    "system": {
+      "timestamp": "2025-06-02T11:19:57.068080",
+      "cpu": {
+        "percent": 5.5,
+        "count": 8,
+        "load_avg_1m": 2.6689453125,
+        "load_avg_5m": 3.28759765625,
+        "load_avg_15m": 3.08935546875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 2.2259979248046875,
+        "percent": 72.2,
+        "used_gb": 3.195587158203125
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.5543212890625,
+        "percent": 51.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.22415542602539,
+        "percent": 4.585994958876097,
+        "read_mb": 47151.7265625,
+        "write_mb": 18709.53515625
+      },
+      "network": {
+        "bytes_sent_mb": 149.9794921875,
+        "bytes_recv_mb": 1648.4970703125,
+        "packets_sent": 410534,
+        "packets_recv": 1498100
+      },
+      "processes": {
+        "count": 395
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:20:02.074492",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:20:13.086006",
+    "system": {
+      "timestamp": "2025-06-02T11:20:08.080882",
+      "cpu": {
+        "percent": 27.0,
+        "count": 8,
+        "load_avg_1m": 2.7802734375,
+        "load_avg_5m": 3.29345703125,
+        "load_avg_15m": 3.09326171875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 2.0594635009765625,
+        "percent": 74.3,
+        "used_gb": 3.41241455078125
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.5543212890625,
+        "percent": 51.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.22305679321289,
+        "percent": 4.585994958876097,
+        "read_mb": 47182.03125,
+        "write_mb": 18712.02734375
+      },
+      "network": {
+        "bytes_sent_mb": 150.044921875,
+        "bytes_recv_mb": 1648.8544921875,
+        "packets_sent": 410924,
+        "packets_recv": 1498874
+      },
+      "processes": {
+        "count": 395
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:20:13.085990",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:20:24.100775",
+    "system": {
+      "timestamp": "2025-06-02T11:20:19.092226",
+      "cpu": {
+        "percent": 39.7,
+        "count": 8,
+        "load_avg_1m": 3.37451171875,
+        "load_avg_5m": 3.39990234375,
+        "load_avg_15m": 3.13232421875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.555572509765625,
+        "percent": 80.6,
+        "used_gb": 3.06060791015625
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.5230712890625,
+        "percent": 50.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.226547241210938,
+        "percent": 4.585994958876097,
+        "read_mb": 47311.80859375,
+        "write_mb": 18722.66015625
+      },
+      "network": {
+        "bytes_sent_mb": 150.2685546875,
+        "bytes_recv_mb": 1650.4482421875,
+        "packets_sent": 411743,
+        "packets_recv": 1500410
+      },
+      "processes": {
+        "count": 410
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:20:24.100702",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:20:35.113890",
+    "system": {
+      "timestamp": "2025-06-02T11:20:30.109467",
+      "cpu": {
+        "percent": 17.4,
+        "count": 8,
+        "load_avg_1m": 3.3837890625,
+        "load_avg_5m": 3.40234375,
+        "load_avg_15m": 3.13623046875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.397125244140625,
+        "percent": 82.5,
+        "used_gb": 2.8556060791015625
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.5074462890625,
+        "percent": 50.2
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.222457885742188,
+        "percent": 4.585994958876097,
+        "read_mb": 47393.4609375,
+        "write_mb": 18732.3515625
+      },
+      "network": {
+        "bytes_sent_mb": 150.96875,
+        "bytes_recv_mb": 1661.9033203125,
+        "packets_sent": 413831,
+        "packets_recv": 1510451
+      },
+      "processes": {
+        "count": 404
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:20:35.113857",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:20:46.126331",
+    "system": {
+      "timestamp": "2025-06-02T11:20:41.122310",
+      "cpu": {
+        "percent": 46.8,
+        "count": 8,
+        "load_avg_1m": 4.48095703125,
+        "load_avg_5m": 3.6357421875,
+        "load_avg_15m": 3.2216796875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.492156982421875,
+        "percent": 81.3,
+        "used_gb": 2.831695556640625
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.4996337890625,
+        "percent": 50.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.22103500366211,
+        "percent": 4.585994958876097,
+        "read_mb": 47531.57421875,
+        "write_mb": 18740.265625
+      },
+      "network": {
+        "bytes_sent_mb": 151.146484375,
+        "bytes_recv_mb": 1671.873046875,
+        "packets_sent": 414890,
+        "packets_recv": 1518719
+      },
+      "processes": {
+        "count": 396
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:20:46.126304",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:20:57.138694",
+    "system": {
+      "timestamp": "2025-06-02T11:20:52.135108",
+      "cpu": {
+        "percent": 17.9,
+        "count": 8,
+        "load_avg_1m": 4.0048828125,
+        "load_avg_5m": 3.5712890625,
+        "load_avg_15m": 3.20556640625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.40020751953125,
+        "percent": 82.5,
+        "used_gb": 2.830413818359375
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.4840087890625,
+        "percent": 49.5
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.220802307128906,
+        "percent": 4.585994958876097,
+        "read_mb": 47681.91796875,
+        "write_mb": 18742.86328125
+      },
+      "network": {
+        "bytes_sent_mb": 151.28125,
+        "bytes_recv_mb": 1674.423828125,
+        "packets_sent": 415444,
+        "packets_recv": 1521035
+      },
+      "processes": {
+        "count": 386
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:20:57.138675",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:21:08.153790",
+    "system": {
+      "timestamp": "2025-06-02T11:21:03.146679",
+      "cpu": {
+        "percent": 46.7,
+        "count": 8,
+        "load_avg_1m": 4.09033203125,
+        "load_avg_5m": 3.6015625,
+        "load_avg_15m": 3.22021484375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.277587890625,
+        "percent": 84.0,
+        "used_gb": 3.0111541748046875
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.4840087890625,
+        "percent": 49.5
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.22393798828125,
+        "percent": 4.585994958876097,
+        "read_mb": 47699.53515625,
+        "write_mb": 18754.09375
+      },
+      "network": {
+        "bytes_sent_mb": 151.5634765625,
+        "bytes_recv_mb": 1683.19140625,
+        "packets_sent": 417216,
+        "packets_recv": 1529182
+      },
+      "processes": {
+        "count": 363
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:21:08.153768",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:21:19.168534",
+    "system": {
+      "timestamp": "2025-06-02T11:21:14.163725",
+      "cpu": {
+        "percent": 17.8,
+        "count": 8,
+        "load_avg_1m": 3.9287109375,
+        "load_avg_5m": 3.58154296875,
+        "load_avg_15m": 3.21728515625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.6071929931640625,
+        "percent": 79.9,
+        "used_gb": 2.977294921875
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.4840087890625,
+        "percent": 49.5
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.222309112548828,
+        "percent": 4.585994958876097,
+        "read_mb": 47708.109375,
+        "write_mb": 18762.73828125
+      },
+      "network": {
+        "bytes_sent_mb": 151.740234375,
+        "bytes_recv_mb": 1692.93359375,
+        "packets_sent": 418595,
+        "packets_recv": 1537164
+      },
+      "processes": {
+        "count": 354
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:21:19.168498",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:21:30.186547",
+    "system": {
+      "timestamp": "2025-06-02T11:21:25.180638",
+      "cpu": {
+        "percent": 13.0,
+        "count": 8,
+        "load_avg_1m": 3.4716796875,
+        "load_avg_5m": 3.49609375,
+        "load_avg_15m": 3.19091796875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.713226318359375,
+        "percent": 78.6,
+        "used_gb": 3.00775146484375
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.4761962890625,
+        "percent": 49.2
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.22222137451172,
+        "percent": 4.585994958876097,
+        "read_mb": 47713.78515625,
+        "write_mb": 18763.76953125
+      },
+      "network": {
+        "bytes_sent_mb": 152.044921875,
+        "bytes_recv_mb": 1698.0400390625,
+        "packets_sent": 419372,
+        "packets_recv": 1541535
+      },
+      "processes": {
+        "count": 342
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:21:30.186523",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:21:41.194535",
+    "system": {
+      "timestamp": "2025-06-02T11:21:36.189562",
+      "cpu": {
+        "percent": 12.3,
+        "count": 8,
+        "load_avg_1m": 3.0849609375,
+        "load_avg_5m": 3.4130859375,
+        "load_avg_15m": 3.16455078125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.70599365234375,
+        "percent": 78.7,
+        "used_gb": 3.07305908203125
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.4761962890625,
+        "percent": 49.2
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.222213745117188,
+        "percent": 4.585994958876097,
+        "read_mb": 47727.28515625,
+        "write_mb": 18764.78125
+      },
+      "network": {
+        "bytes_sent_mb": 152.2578125,
+        "bytes_recv_mb": 1703.48046875,
+        "packets_sent": 420100,
+        "packets_recv": 1546154
+      },
+      "processes": {
+        "count": 327
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:21:41.194507",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:21:52.215580",
+    "system": {
+      "timestamp": "2025-06-02T11:21:47.207865",
+      "cpu": {
+        "percent": 18.6,
+        "count": 8,
+        "load_avg_1m": 3.23193359375,
+        "load_avg_5m": 3.42529296875,
+        "load_avg_15m": 3.17333984375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.503997802734375,
+        "percent": 81.2,
+        "used_gb": 2.8674774169921875
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.4761962890625,
+        "percent": 49.2
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.2216796875,
+        "percent": 4.585994958876097,
+        "read_mb": 47756.34375,
+        "write_mb": 18771.4921875
+      },
+      "network": {
+        "bytes_sent_mb": 152.7138671875,
+        "bytes_recv_mb": 1705.681640625,
+        "packets_sent": 421007,
+        "packets_recv": 1548362
+      },
+      "processes": {
+        "count": 317
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:21:52.215535",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:22:03.233547",
+    "system": {
+      "timestamp": "2025-06-02T11:21:58.223768",
+      "cpu": {
+        "percent": 16.5,
+        "count": 8,
+        "load_avg_1m": 3.2021484375,
+        "load_avg_5m": 3.4111328125,
+        "load_avg_15m": 3.1708984375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4345703125,
+        "percent": 82.1,
+        "used_gb": 2.9256439208984375
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.4683837890625,
+        "percent": 48.9
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.217777252197266,
+        "percent": 4.585994958876097,
+        "read_mb": 47767.48046875,
+        "write_mb": 18780.91796875
+      },
+      "network": {
+        "bytes_sent_mb": 153.259765625,
+        "bytes_recv_mb": 1714.341796875,
+        "packets_sent": 422440,
+        "packets_recv": 1555894
+      },
+      "processes": {
+        "count": 307
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:22:03.233527",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:22:14.249928",
+    "system": {
+      "timestamp": "2025-06-02T11:22:09.244977",
+      "cpu": {
+        "percent": 13.4,
+        "count": 8,
+        "load_avg_1m": 3.64453125,
+        "load_avg_5m": 3.49658203125,
+        "load_avg_15m": 3.203125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.5411834716796875,
+        "percent": 80.7,
+        "used_gb": 2.8368988037109375
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.4683837890625,
+        "percent": 48.9
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.217533111572266,
+        "percent": 4.585994958876097,
+        "read_mb": 47802.48046875,
+        "write_mb": 18786.26953125
+      },
+      "network": {
+        "bytes_sent_mb": 153.375,
+        "bytes_recv_mb": 1715.140625,
+        "packets_sent": 422683,
+        "packets_recv": 1556689
+      },
+      "processes": {
+        "count": 309
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:22:14.249903",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:22:25.263448",
+    "system": {
+      "timestamp": "2025-06-02T11:22:20.258245",
+      "cpu": {
+        "percent": 13.0,
+        "count": 8,
+        "load_avg_1m": 3.39111328125,
+        "load_avg_5m": 3.44677734375,
+        "load_avg_15m": 3.1884765625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.60845947265625,
+        "percent": 79.9,
+        "used_gb": 2.859039306640625
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.4683837890625,
+        "percent": 48.9
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.217472076416016,
+        "percent": 4.585994958876097,
+        "read_mb": 47807.0078125,
+        "write_mb": 18790.31640625
+      },
+      "network": {
+        "bytes_sent_mb": 153.4140625,
+        "bytes_recv_mb": 1716.3505859375,
+        "packets_sent": 423002,
+        "packets_recv": 1558060
+      },
+      "processes": {
+        "count": 306
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:22:25.263395",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:22:36.284551",
+    "system": {
+      "timestamp": "2025-06-02T11:22:31.277043",
+      "cpu": {
+        "percent": 17.6,
+        "count": 8,
+        "load_avg_1m": 3.1767578125,
+        "load_avg_5m": 3.3984375,
+        "load_avg_15m": 3.173828125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.558441162109375,
+        "percent": 80.5,
+        "used_gb": 2.949951171875
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.4683837890625,
+        "percent": 48.9
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.217453002929688,
+        "percent": 4.585994958876097,
+        "read_mb": 47824.8671875,
+        "write_mb": 18792.31640625
+      },
+      "network": {
+        "bytes_sent_mb": 153.47265625,
+        "bytes_recv_mb": 1717.7109375,
+        "packets_sent": 423259,
+        "packets_recv": 1559276
+      },
+      "processes": {
+        "count": 304
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:22:36.284532",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:22:47.301974",
+    "system": {
+      "timestamp": "2025-06-02T11:22:42.294616",
+      "cpu": {
+        "percent": 14.2,
+        "count": 8,
+        "load_avg_1m": 3.013671875,
+        "load_avg_5m": 3.3466796875,
+        "load_avg_15m": 3.15869140625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.6354522705078125,
+        "percent": 79.6,
+        "used_gb": 2.90771484375
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.4683837890625,
+        "percent": 48.9
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.217487335205078,
+        "percent": 4.585994958876097,
+        "read_mb": 47832.8671875,
+        "write_mb": 18798.296875
+      },
+      "network": {
+        "bytes_sent_mb": 153.5693359375,
+        "bytes_recv_mb": 1719.111328125,
+        "packets_sent": 423971,
+        "packets_recv": 1561429
+      },
+      "processes": {
+        "count": 303
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:22:47.301931",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:22:58.316992",
+    "system": {
+      "timestamp": "2025-06-02T11:22:53.311140",
+      "cpu": {
+        "percent": 14.6,
+        "count": 8,
+        "load_avg_1m": 3.02392578125,
+        "load_avg_5m": 3.33544921875,
+        "load_avg_15m": 3.15673828125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.742279052734375,
+        "percent": 78.2,
+        "used_gb": 2.90185546875
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.4683837890625,
+        "percent": 48.9
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.21692657470703,
+        "percent": 4.585994958876097,
+        "read_mb": 47838.9140625,
+        "write_mb": 18801.765625
+      },
+      "network": {
+        "bytes_sent_mb": 153.642578125,
+        "bytes_recv_mb": 1719.6962890625,
+        "packets_sent": 424237,
+        "packets_recv": 1562047
+      },
+      "processes": {
+        "count": 302
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:22:58.316955",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:09.335773",
+    "system": {
+      "timestamp": "2025-06-02T11:23:04.330192",
+      "cpu": {
+        "percent": 9.5,
+        "count": 8,
+        "load_avg_1m": 2.71240234375,
+        "load_avg_5m": 3.2578125,
+        "load_avg_15m": 3.13134765625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.7520294189453125,
+        "percent": 78.1,
+        "used_gb": 3.0745697021484375
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.4683837890625,
+        "percent": 48.9
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.216739654541016,
+        "percent": 4.585994958876097,
+        "read_mb": 47843.96484375,
+        "write_mb": 18803.25
+      },
+      "network": {
+        "bytes_sent_mb": 153.69140625,
+        "bytes_recv_mb": 1719.779296875,
+        "packets_sent": 424412,
+        "packets_recv": 1562271
+      },
+      "processes": {
+        "count": 302
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:23:09.335722",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:20.352890",
+    "system": {
+      "timestamp": "2025-06-02T11:23:15.347894",
+      "cpu": {
+        "percent": 18.4,
+        "count": 8,
+        "load_avg_1m": 2.60888671875,
+        "load_avg_5m": 3.21630859375,
+        "load_avg_15m": 3.11767578125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.6319427490234375,
+        "percent": 79.6,
+        "used_gb": 2.9893646240234375
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.4683837890625,
+        "percent": 48.9
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.21772003173828,
+        "percent": 4.585994958876097,
+        "read_mb": 47861.58203125,
+        "write_mb": 18815.66796875
+      },
+      "network": {
+        "bytes_sent_mb": 153.8916015625,
+        "bytes_recv_mb": 1723.708984375,
+        "packets_sent": 425250,
+        "packets_recv": 1565772
+      },
+      "processes": {
+        "count": 312
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:23:20.352866",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:31.365217",
+    "system": {
+      "timestamp": "2025-06-02T11:23:26.358329",
+      "cpu": {
+        "percent": 11.8,
+        "count": 8,
+        "load_avg_1m": 2.6494140625,
+        "load_avg_5m": 3.2080078125,
+        "load_avg_15m": 3.11572265625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.641815185546875,
+        "percent": 79.5,
+        "used_gb": 2.986083984375
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.4683837890625,
+        "percent": 48.9
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.216350555419922,
+        "percent": 4.585994958876097,
+        "read_mb": 47865.4921875,
+        "write_mb": 18819.55859375
+      },
+      "network": {
+        "bytes_sent_mb": 153.9716796875,
+        "bytes_recv_mb": 1725.705078125,
+        "packets_sent": 425616,
+        "packets_recv": 1567562
+      },
+      "processes": {
+        "count": 314
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:23:31.365183",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:42.379689",
+    "system": {
+      "timestamp": "2025-06-02T11:23:37.374025",
+      "cpu": {
+        "percent": 23.1,
+        "count": 8,
+        "load_avg_1m": 2.7998046875,
+        "load_avg_5m": 3.21337890625,
+        "load_avg_15m": 3.11865234375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4460906982421875,
+        "percent": 81.9,
+        "used_gb": 2.9723663330078125
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.4605712890625,
+        "percent": 48.7
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.216686248779297,
+        "percent": 4.585994958876097,
+        "read_mb": 47876.76953125,
+        "write_mb": 18823.6328125
+      },
+      "network": {
+        "bytes_sent_mb": 154.27734375,
+        "bytes_recv_mb": 1734.30078125,
+        "packets_sent": 426905,
+        "packets_recv": 1574960
+      },
+      "processes": {
+        "count": 315
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:23:42.379649",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:23:53.392107",
+    "system": {
+      "timestamp": "2025-06-02T11:23:48.385181",
+      "cpu": {
+        "percent": 6.0,
+        "count": 8,
+        "load_avg_1m": 2.669921875,
+        "load_avg_5m": 3.17236328125,
+        "load_avg_15m": 3.10498046875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.6943817138671875,
+        "percent": 78.8,
+        "used_gb": 2.7570648193359375
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.4605712890625,
+        "percent": 48.7
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.215415954589844,
+        "percent": 4.585994958876097,
+        "read_mb": 47879.06640625,
+        "write_mb": 18829.0078125
+      },
+      "network": {
+        "bytes_sent_mb": 154.40234375,
+        "bytes_recv_mb": 1746.501953125,
+        "packets_sent": 428049,
+        "packets_recv": 1585034
+      },
+      "processes": {
+        "count": 314
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:23:53.392071",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:04.406252",
+    "system": {
+      "timestamp": "2025-06-02T11:23:59.400877",
+      "cpu": {
+        "percent": 14.7,
+        "count": 8,
+        "load_avg_1m": 2.486328125,
+        "load_avg_5m": 3.11669921875,
+        "load_avg_15m": 3.08544921875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.527191162109375,
+        "percent": 80.9,
+        "used_gb": 2.934967041015625
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.4605712890625,
+        "percent": 48.7
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.21539306640625,
+        "percent": 4.585994958876097,
+        "read_mb": 47880.09765625,
+        "write_mb": 18830.3671875
+      },
+      "network": {
+        "bytes_sent_mb": 154.4755859375,
+        "bytes_recv_mb": 1751.9794921875,
+        "packets_sent": 428652,
+        "packets_recv": 1589534
+      },
+      "processes": {
+        "count": 305
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:24:04.406202",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:15.416954",
+    "system": {
+      "timestamp": "2025-06-02T11:24:10.413363",
+      "cpu": {
+        "percent": 11.7,
+        "count": 8,
+        "load_avg_1m": 2.32470703125,
+        "load_avg_5m": 3.06298828125,
+        "load_avg_15m": 3.06591796875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.6913299560546875,
+        "percent": 78.9,
+        "used_gb": 2.841827392578125
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.4605712890625,
+        "percent": 48.7
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.214923858642578,
+        "percent": 4.585994958876097,
+        "read_mb": 47896.9296875,
+        "write_mb": 18838.828125
+      },
+      "network": {
+        "bytes_sent_mb": 154.5625,
+        "bytes_recv_mb": 1752.1123046875,
+        "packets_sent": 428897,
+        "packets_recv": 1589815
+      },
+      "processes": {
+        "count": 304
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:24:15.416896",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:26.432294",
+    "system": {
+      "timestamp": "2025-06-02T11:24:21.424434",
+      "cpu": {
+        "percent": 19.8,
+        "count": 8,
+        "load_avg_1m": 2.2744140625,
+        "load_avg_5m": 3.02734375,
+        "load_avg_15m": 3.05322265625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.6236419677734375,
+        "percent": 79.7,
+        "used_gb": 2.9535369873046875
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.4605712890625,
+        "percent": 48.7
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.214000701904297,
+        "percent": 4.585994958876097,
+        "read_mb": 47905.26171875,
+        "write_mb": 18844.53515625
+      },
+      "network": {
+        "bytes_sent_mb": 154.6689453125,
+        "bytes_recv_mb": 1752.171875,
+        "packets_sent": 429104,
+        "packets_recv": 1590016
+      },
+      "processes": {
+        "count": 306
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:24:26.432207",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:37.446862",
+    "system": {
+      "timestamp": "2025-06-02T11:24:32.440090",
+      "cpu": {
+        "percent": 15.2,
+        "count": 8,
+        "load_avg_1m": 2.14501953125,
+        "load_avg_5m": 2.96044921875,
+        "load_avg_15m": 3.0283203125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.54473876953125,
+        "percent": 80.7,
+        "used_gb": 2.78302001953125
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.3277587890625,
+        "percent": 44.3
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.213977813720703,
+        "percent": 4.585994958876097,
+        "read_mb": 48059.0,
+        "write_mb": 18845.69140625
+      },
+      "network": {
+        "bytes_sent_mb": 155.8896484375,
+        "bytes_recv_mb": 1752.2763671875,
+        "packets_sent": 430143,
+        "packets_recv": 1590876
+      },
+      "processes": {
+        "count": 305
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:24:37.446827",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:48.461407",
+    "system": {
+      "timestamp": "2025-06-02T11:24:43.455916",
+      "cpu": {
+        "percent": 18.3,
+        "count": 8,
+        "load_avg_1m": 2.28271484375,
+        "load_avg_5m": 2.96142578125,
+        "load_avg_15m": 3.02734375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.5225067138671875,
+        "percent": 81.0,
+        "used_gb": 2.947967529296875
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.3121337890625,
+        "percent": 43.7
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.213966369628906,
+        "percent": 4.585994958876097,
+        "read_mb": 48085.77734375,
+        "write_mb": 18850.54296875
+      },
+      "network": {
+        "bytes_sent_mb": 155.9287109375,
+        "bytes_recv_mb": 1752.3125,
+        "packets_sent": 430255,
+        "packets_recv": 1591006
+      },
+      "processes": {
+        "count": 305
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:24:48.461376",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:24:59.479586",
+    "system": {
+      "timestamp": "2025-06-02T11:24:54.471148",
+      "cpu": {
+        "percent": 16.5,
+        "count": 8,
+        "load_avg_1m": 2.17138671875,
+        "load_avg_5m": 2.9130859375,
+        "load_avg_15m": 3.0087890625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4128570556640625,
+        "percent": 82.3,
+        "used_gb": 2.8495025634765625
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.3121337890625,
+        "percent": 43.7
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.213043212890625,
+        "percent": 4.585994958876097,
+        "read_mb": 48100.8984375,
+        "write_mb": 18853.2734375
+      },
+      "network": {
+        "bytes_sent_mb": 155.9833984375,
+        "bytes_recv_mb": 1752.34375,
+        "packets_sent": 430400,
+        "packets_recv": 1591143
+      },
+      "processes": {
+        "count": 304
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:24:59.479552",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:25:10.493238",
+    "system": {
+      "timestamp": "2025-06-02T11:25:05.487735",
+      "cpu": {
+        "percent": 16.9,
+        "count": 8,
+        "load_avg_1m": 2.29150390625,
+        "load_avg_5m": 2.9150390625,
+        "load_avg_15m": 3.0078125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4877777099609375,
+        "percent": 81.4,
+        "used_gb": 2.7556610107421875
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.3121337890625,
+        "percent": 43.7
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.213008880615234,
+        "percent": 4.585994958876097,
+        "read_mb": 48104.27734375,
+        "write_mb": 18855.25390625
+      },
+      "network": {
+        "bytes_sent_mb": 156.0263671875,
+        "bytes_recv_mb": 1752.3662109375,
+        "packets_sent": 430519,
+        "packets_recv": 1591260
+      },
+      "processes": {
+        "count": 303
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:25:10.493198",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:25:21.509388",
+    "system": {
+      "timestamp": "2025-06-02T11:25:16.503504",
+      "cpu": {
+        "percent": 11.2,
+        "count": 8,
+        "load_avg_1m": 2.31982421875,
+        "load_avg_5m": 2.900390625,
+        "load_avg_15m": 3.0009765625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4255218505859375,
+        "percent": 82.2,
+        "used_gb": 2.6835479736328125
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.3043212890625,
+        "percent": 43.5
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.211868286132812,
+        "percent": 4.585994958876097,
+        "read_mb": 48146.859375,
+        "write_mb": 18861.91796875
+      },
+      "network": {
+        "bytes_sent_mb": 156.0751953125,
+        "bytes_recv_mb": 1752.388671875,
+        "packets_sent": 430653,
+        "packets_recv": 1591380
+      },
+      "processes": {
+        "count": 308
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:25:21.509351",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:25:32.525499",
+    "system": {
+      "timestamp": "2025-06-02T11:25:27.517784",
+      "cpu": {
+        "percent": 21.0,
+        "count": 8,
+        "load_avg_1m": 2.26025390625,
+        "load_avg_5m": 2.85595703125,
+        "load_avg_15m": 2.98291015625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.42498779296875,
+        "percent": 82.2,
+        "used_gb": 2.7689208984375
+      },
+      "swap": {
+        "total_gb": 3.0,
+        "used_gb": 1.3043212890625,
+        "percent": 43.5
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 30.2120361328125,
+        "percent": 4.585994958876097,
+        "read_mb": 48193.86328125,
+        "write_mb": 18866.0
+      },
+      "network": {
+        "bytes_sent_mb": 156.1279296875,
+        "bytes_recv_mb": 1752.4423828125,
+        "packets_sent": 430815,
+        "packets_recv": 1591551
+      },
+      "processes": {
+        "count": 310
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:25:32.525377",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:25:43.549899",
+    "system": {
+      "timestamp": "2025-06-02T11:25:38.540559",
+      "cpu": {
+        "percent": 16.5,
+        "count": 8,
+        "load_avg_1m": 2.07275390625,
+        "load_avg_5m": 2.79443359375,
+        "load_avg_15m": 2.95947265625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.3085479736328125,
+        "percent": 83.6,
+        "used_gb": 2.7213897705078125
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.1600341796875,
+        "percent": 58.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.212196350097656,
+        "percent": 4.585994958876097,
+        "read_mb": 48543.32421875,
+        "write_mb": 19154.19140625
+      },
+      "network": {
+        "bytes_sent_mb": 156.1767578125,
+        "bytes_recv_mb": 1752.4873046875,
+        "packets_sent": 430961,
+        "packets_recv": 1591708
+      },
+      "processes": {
+        "count": 319
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:25:43.549855",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:25:54.563196",
+    "system": {
+      "timestamp": "2025-06-02T11:25:49.557372",
+      "cpu": {
+        "percent": 12.2,
+        "count": 8,
+        "load_avg_1m": 2.0546875,
+        "load_avg_5m": 2.76708984375,
+        "load_avg_15m": 2.94775390625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4559326171875,
+        "percent": 81.8,
+        "used_gb": 2.7061004638671875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.1600341796875,
+        "percent": 58.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.215110778808594,
+        "percent": 4.585994958876097,
+        "read_mb": 48583.37890625,
+        "write_mb": 19156.34765625
+      },
+      "network": {
+        "bytes_sent_mb": 156.248046875,
+        "bytes_recv_mb": 1752.5341796875,
+        "packets_sent": 431156,
+        "packets_recv": 1591896
+      },
+      "processes": {
+        "count": 320
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:25:54.563166",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:26:05.574633",
+    "system": {
+      "timestamp": "2025-06-02T11:26:00.570664",
+      "cpu": {
+        "percent": 16.8,
+        "count": 8,
+        "load_avg_1m": 2.19970703125,
+        "load_avg_5m": 2.77392578125,
+        "load_avg_15m": 2.94775390625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4132843017578125,
+        "percent": 82.3,
+        "used_gb": 2.7435302734375
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.1600341796875,
+        "percent": 58.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.213523864746094,
+        "percent": 4.585994958876097,
+        "read_mb": 48586.2265625,
+        "write_mb": 19161.8125
+      },
+      "network": {
+        "bytes_sent_mb": 156.3056640625,
+        "bytes_recv_mb": 1752.5546875,
+        "packets_sent": 431313,
+        "packets_recv": 1592036
+      },
+      "processes": {
+        "count": 321
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:26:05.574591",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:26:16.592993",
+    "system": {
+      "timestamp": "2025-06-02T11:26:11.585593",
+      "cpu": {
+        "percent": 23.0,
+        "count": 8,
+        "load_avg_1m": 2.181640625,
+        "load_avg_5m": 2.74853515625,
+        "load_avg_15m": 2.93603515625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4361114501953125,
+        "percent": 82.0,
+        "used_gb": 2.8883819580078125
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.1600341796875,
+        "percent": 58.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.21352767944336,
+        "percent": 4.585994958876097,
+        "read_mb": 48610.34765625,
+        "write_mb": 19168.3203125
+      },
+      "network": {
+        "bytes_sent_mb": 156.36328125,
+        "bytes_recv_mb": 1752.59765625,
+        "packets_sent": 431472,
+        "packets_recv": 1592196
+      },
+      "processes": {
+        "count": 327
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:26:16.592966",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:26:27.614194",
+    "system": {
+      "timestamp": "2025-06-02T11:26:22.604002",
+      "cpu": {
+        "percent": 25.2,
+        "count": 8,
+        "load_avg_1m": 2.43603515625,
+        "load_avg_5m": 2.7763671875,
+        "load_avg_15m": 2.94189453125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4746246337890625,
+        "percent": 81.6,
+        "used_gb": 2.7210845947265625
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.1600341796875,
+        "percent": 58.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.21208953857422,
+        "percent": 4.585994958876097,
+        "read_mb": 48647.7734375,
+        "write_mb": 19170.87109375
+      },
+      "network": {
+        "bytes_sent_mb": 156.4140625,
+        "bytes_recv_mb": 1752.68359375,
+        "packets_sent": 431643,
+        "packets_recv": 1592383
+      },
+      "processes": {
+        "count": 326
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:26:27.614143",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:26:38.630787",
+    "system": {
+      "timestamp": "2025-06-02T11:26:33.624793",
+      "cpu": {
+        "percent": 17.4,
+        "count": 8,
+        "load_avg_1m": 2.21484375,
+        "load_avg_5m": 2.71728515625,
+        "load_avg_15m": 2.91845703125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4730987548828125,
+        "percent": 81.6,
+        "used_gb": 2.73388671875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.1600341796875,
+        "percent": 58.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.210933685302734,
+        "percent": 4.585994958876097,
+        "read_mb": 48655.53515625,
+        "write_mb": 19175.15625
+      },
+      "network": {
+        "bytes_sent_mb": 156.4658203125,
+        "bytes_recv_mb": 1752.7138671875,
+        "packets_sent": 431782,
+        "packets_recv": 1592527
+      },
+      "processes": {
+        "count": 325
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:26:38.630755",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:26:49.649369",
+    "system": {
+      "timestamp": "2025-06-02T11:26:44.644049",
+      "cpu": {
+        "percent": 12.3,
+        "count": 8,
+        "load_avg_1m": 2.27392578125,
+        "load_avg_5m": 2.71044921875,
+        "load_avg_15m": 2.9130859375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.46337890625,
+        "percent": 81.7,
+        "used_gb": 2.765594482421875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.1600341796875,
+        "percent": 58.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.210716247558594,
+        "percent": 4.585994958876097,
+        "read_mb": 48662.31640625,
+        "write_mb": 19178.35546875
+      },
+      "network": {
+        "bytes_sent_mb": 156.529296875,
+        "bytes_recv_mb": 1752.7705078125,
+        "packets_sent": 431944,
+        "packets_recv": 1592716
+      },
+      "processes": {
+        "count": 323
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:26:49.649333",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:27:00.666761",
+    "system": {
+      "timestamp": "2025-06-02T11:26:55.661037",
+      "cpu": {
+        "percent": 50.8,
+        "count": 8,
+        "load_avg_1m": 3.59912109375,
+        "load_avg_5m": 2.96875,
+        "load_avg_15m": 3.001953125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.231842041015625,
+        "percent": 84.6,
+        "used_gb": 2.7062835693359375
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.159912109375,
+        "percent": 58.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.21316146850586,
+        "percent": 4.585994958876097,
+        "read_mb": 49145.90625,
+        "write_mb": 19216.6640625
+      },
+      "network": {
+        "bytes_sent_mb": 156.71484375,
+        "bytes_recv_mb": 1753.0888671875,
+        "packets_sent": 432591,
+        "packets_recv": 1593380
+      },
+      "processes": {
+        "count": 363
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:27:00.666734",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:27:11.679120",
+    "system": {
+      "timestamp": "2025-06-02T11:27:06.674514",
+      "cpu": {
+        "percent": 14.1,
+        "count": 8,
+        "load_avg_1m": 3.34619140625,
+        "load_avg_5m": 2.9365234375,
+        "load_avg_15m": 2.9892578125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.387847900390625,
+        "percent": 82.7,
+        "used_gb": 2.6511383056640625
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.159912109375,
+        "percent": 58.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.21282958984375,
+        "percent": 4.585994958876097,
+        "read_mb": 49247.10546875,
+        "write_mb": 19220.03125
+      },
+      "network": {
+        "bytes_sent_mb": 156.779296875,
+        "bytes_recv_mb": 1753.15234375,
+        "packets_sent": 432776,
+        "packets_recv": 1593560
+      },
+      "processes": {
+        "count": 362
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:27:11.679079",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:27:22.694841",
+    "system": {
+      "timestamp": "2025-06-02T11:27:17.689181",
+      "cpu": {
+        "percent": 11.6,
+        "count": 8,
+        "load_avg_1m": 3.18896484375,
+        "load_avg_5m": 2.9228515625,
+        "load_avg_15m": 2.9833984375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.3883209228515625,
+        "percent": 82.6,
+        "used_gb": 2.7162628173828125
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.159912109375,
+        "percent": 58.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.21124267578125,
+        "percent": 4.585994958876097,
+        "read_mb": 49254.08984375,
+        "write_mb": 19227.8515625
+      },
+      "network": {
+        "bytes_sent_mb": 156.828125,
+        "bytes_recv_mb": 1753.171875,
+        "packets_sent": 432895,
+        "packets_recv": 1593673
+      },
+      "processes": {
+        "count": 357
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:27:22.694807",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:27:33.717322",
+    "system": {
+      "timestamp": "2025-06-02T11:27:28.709045",
+      "cpu": {
+        "percent": 19.1,
+        "count": 8,
+        "load_avg_1m": 3.07958984375,
+        "load_avg_5m": 2.908203125,
+        "load_avg_15m": 2.9775390625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.2264556884765625,
+        "percent": 84.7,
+        "used_gb": 2.816802978515625
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.19085693359375,
+        "percent": 59.5
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.21114730834961,
+        "percent": 4.585994958876097,
+        "read_mb": 49289.9453125,
+        "write_mb": 19261.0546875
+      },
+      "network": {
+        "bytes_sent_mb": 156.90625,
+        "bytes_recv_mb": 1753.2197265625,
+        "packets_sent": 433140,
+        "packets_recv": 1593917
+      },
+      "processes": {
+        "count": 357
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:27:33.717284",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:27:44.734035",
+    "system": {
+      "timestamp": "2025-06-02T11:27:39.728729",
+      "cpu": {
+        "percent": 16.5,
+        "count": 8,
+        "load_avg_1m": 2.9931640625,
+        "load_avg_5m": 2.89453125,
+        "load_avg_15m": 2.9716796875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.3694610595703125,
+        "percent": 82.9,
+        "used_gb": 2.7047882080078125
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.19085693359375,
+        "percent": 59.5
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.211078643798828,
+        "percent": 4.585994958876097,
+        "read_mb": 49298.30078125,
+        "write_mb": 19265.80859375
+      },
+      "network": {
+        "bytes_sent_mb": 156.966796875,
+        "bytes_recv_mb": 1753.2705078125,
+        "packets_sent": 433296,
+        "packets_recv": 1594074
+      },
+      "processes": {
+        "count": 357
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:27:44.733999",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:27:55.751703",
+    "system": {
+      "timestamp": "2025-06-02T11:27:50.747120",
+      "cpu": {
+        "percent": 16.2,
+        "count": 8,
+        "load_avg_1m": 3.07421875,
+        "load_avg_5m": 2.9140625,
+        "load_avg_15m": 2.9775390625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.3950042724609375,
+        "percent": 82.6,
+        "used_gb": 2.8520355224609375
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.19085693359375,
+        "percent": 59.5
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.211074829101562,
+        "percent": 4.585994958876097,
+        "read_mb": 49304.94140625,
+        "write_mb": 19267.41796875
+      },
+      "network": {
+        "bytes_sent_mb": 156.986328125,
+        "bytes_recv_mb": 1753.2841796875,
+        "packets_sent": 433384,
+        "packets_recv": 1594163
+      },
+      "processes": {
+        "count": 357
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:27:55.751675",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:28:06.768112",
+    "system": {
+      "timestamp": "2025-06-02T11:28:01.762680",
+      "cpu": {
+        "percent": 13.6,
+        "count": 8,
+        "load_avg_1m": 2.90869140625,
+        "load_avg_5m": 2.88330078125,
+        "load_avg_15m": 2.9658203125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.45050048828125,
+        "percent": 81.9,
+        "used_gb": 2.7935791015625
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.19085693359375,
+        "percent": 59.5
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.21087646484375,
+        "percent": 4.585994958876097,
+        "read_mb": 49312.76953125,
+        "write_mb": 19269.79296875
+      },
+      "network": {
+        "bytes_sent_mb": 157.021484375,
+        "bytes_recv_mb": 1753.3037109375,
+        "packets_sent": 433487,
+        "packets_recv": 1594266
+      },
+      "processes": {
+        "count": 356
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:28:06.768089",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:28:17.783730",
+    "system": {
+      "timestamp": "2025-06-02T11:28:12.777955",
+      "cpu": {
+        "percent": 19.1,
+        "count": 8,
+        "load_avg_1m": 2.77978515625,
+        "load_avg_5m": 2.85546875,
+        "load_avg_15m": 2.9541015625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.42919921875,
+        "percent": 82.1,
+        "used_gb": 2.8490447998046875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.19085693359375,
+        "percent": 59.5
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.20879364013672,
+        "percent": 4.585994958876097,
+        "read_mb": 49328.58203125,
+        "write_mb": 19278.48828125
+      },
+      "network": {
+        "bytes_sent_mb": 157.0400390625,
+        "bytes_recv_mb": 1753.322265625,
+        "packets_sent": 433579,
+        "packets_recv": 1594365
+      },
+      "processes": {
+        "count": 357
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:28:17.783702",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:28:28.798692",
+    "system": {
+      "timestamp": "2025-06-02T11:28:23.794263",
+      "cpu": {
+        "percent": 16.1,
+        "count": 8,
+        "load_avg_1m": 2.80712890625,
+        "load_avg_5m": 2.859375,
+        "load_avg_15m": 2.9541015625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4117279052734375,
+        "percent": 82.4,
+        "used_gb": 2.848358154296875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.19085693359375,
+        "percent": 59.5
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.208866119384766,
+        "percent": 4.585994958876097,
+        "read_mb": 49340.953125,
+        "write_mb": 19281.4609375
+      },
+      "network": {
+        "bytes_sent_mb": 157.0947265625,
+        "bytes_recv_mb": 1753.3525390625,
+        "packets_sent": 433712,
+        "packets_recv": 1594497
+      },
+      "processes": {
+        "count": 357
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:28:28.798667",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:28:39.816034",
+    "system": {
+      "timestamp": "2025-06-02T11:28:34.811841",
+      "cpu": {
+        "percent": 15.8,
+        "count": 8,
+        "load_avg_1m": 2.91015625,
+        "load_avg_5m": 2.8798828125,
+        "load_avg_15m": 2.9599609375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4124603271484375,
+        "percent": 82.3,
+        "used_gb": 2.7112884521484375
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.19085693359375,
+        "percent": 59.5
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.208816528320312,
+        "percent": 4.585994958876097,
+        "read_mb": 49346.828125,
+        "write_mb": 19284.53515625
+      },
+      "network": {
+        "bytes_sent_mb": 157.1220703125,
+        "bytes_recv_mb": 1753.369140625,
+        "packets_sent": 433832,
+        "packets_recv": 1594625
+      },
+      "processes": {
+        "count": 357
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:28:39.815996",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:28:50.831526",
+    "system": {
+      "timestamp": "2025-06-02T11:28:45.824446",
+      "cpu": {
+        "percent": 14.8,
+        "count": 8,
+        "load_avg_1m": 2.92333984375,
+        "load_avg_5m": 2.8837890625,
+        "load_avg_15m": 2.9599609375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.447998046875,
+        "percent": 81.9,
+        "used_gb": 2.7051849365234375
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.18304443359375,
+        "percent": 59.2
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.20862579345703,
+        "percent": 4.585994958876097,
+        "read_mb": 49352.046875,
+        "write_mb": 19289.28125
+      },
+      "network": {
+        "bytes_sent_mb": 157.1533203125,
+        "bytes_recv_mb": 1753.37890625,
+        "packets_sent": 433896,
+        "packets_recv": 1594689
+      },
+      "processes": {
+        "count": 357
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:28:50.831497",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:29:01.842783",
+    "system": {
+      "timestamp": "2025-06-02T11:28:56.839282",
+      "cpu": {
+        "percent": 16.9,
+        "count": 8,
+        "load_avg_1m": 2.70068359375,
+        "load_avg_5m": 2.83740234375,
+        "load_avg_15m": 2.9423828125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.31158447265625,
+        "percent": 83.6,
+        "used_gb": 2.884735107421875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.18304443359375,
+        "percent": 59.2
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.20850372314453,
+        "percent": 4.585994958876097,
+        "read_mb": 49365.8359375,
+        "write_mb": 19292.94140625
+      },
+      "network": {
+        "bytes_sent_mb": 157.162109375,
+        "bytes_recv_mb": 1753.3876953125,
+        "packets_sent": 433973,
+        "packets_recv": 1594780
+      },
+      "processes": {
+        "count": 356
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:29:01.842762",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=5)"
+    }
+  }
+]

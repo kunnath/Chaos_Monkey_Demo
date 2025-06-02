@@ -1,0 +1,243 @@
+2025-06-02 11:09:39,584 - __main__ - INFO - Added experiment: Light CPU Stress
+2025-06-02 11:09:39,584 - __main__ - INFO - Added experiment: Memory Allocation Test
+2025-06-02 11:09:39,584 - __main__ - INFO - Added experiment: Network Latency Simulation
+2025-06-02 11:09:39,584 - __main__ - INFO - Added experiment: Service Kill Test
+2025-06-02 11:09:39,584 - __main__ - INFO - Added experiment: Temporary Disk Fill
+2025-06-02 11:09:39,584 - __main__ - INFO - Added experiment: Process Hang Simulation
+2025-06-02 11:09:39,584 - __main__ - INFO - 🐒 Chaos Monkey started!
+2025-06-02 11:09:39,584 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:09:59,590 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:10:19,591 - __main__ - INFO - ⚡ Skipping experiment Memory Allocation Test (probability check)
+2025-06-02 11:10:39,599 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:10:59,608 - __main__ - INFO - 🔥 Executing chaos experiment: Network Latency Simulation
+2025-06-02 11:10:59,610 - __main__ - INFO - 🌐 Simulating 500ms network latency for 8 seconds
+2025-06-02 11:11:07,613 - __main__ - INFO - ✅ Network latency experiment completed
+2025-06-02 11:11:27,619 - __main__ - INFO - ⚡ Skipping experiment Process Hang Simulation (probability check)
+2025-06-02 11:11:47,624 - __main__ - INFO - ⚡ Skipping experiment Light CPU Stress (probability check)
+2025-06-02 11:12:07,629 - __main__ - INFO - ⚡ Skipping experiment Memory Allocation Test (probability check)
+2025-06-02 11:12:27,632 - __main__ - INFO - ⚡ Skipping experiment Light CPU Stress (probability check)
+2025-06-02 11:12:47,636 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:13:07,643 - __main__ - INFO - ⚡ Skipping experiment Network Latency Simulation (probability check)
+2025-06-02 11:13:27,649 - __main__ - INFO - ⚡ Skipping experiment Memory Allocation Test (probability check)
+2025-06-02 11:13:35,231 - __main__ - INFO - Added experiment: Light CPU Stress
+2025-06-02 11:13:35,231 - __main__ - INFO - Added experiment: Memory Allocation Test
+2025-06-02 11:13:35,231 - __main__ - INFO - Added experiment: Network Latency Simulation
+2025-06-02 11:13:35,231 - __main__ - INFO - Added experiment: Service Kill Test
+2025-06-02 11:13:35,232 - __main__ - INFO - Added experiment: Temporary Disk Fill
+2025-06-02 11:13:35,232 - __main__ - INFO - Added experiment: Process Hang Simulation
+2025-06-02 11:13:35,232 - __main__ - INFO - 🐒 Chaos Monkey started!
+2025-06-02 11:13:35,232 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:13:47,656 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:13:55,237 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:14:07,661 - __main__ - INFO - 🔥 Executing chaos experiment: Network Latency Simulation
+2025-06-02 11:14:07,663 - __main__ - INFO - 🌐 Simulating 500ms network latency for 8 seconds
+2025-06-02 11:14:15,240 - __main__ - INFO - ⚡ Skipping experiment Light CPU Stress (probability check)
+2025-06-02 11:14:15,667 - __main__ - INFO - ✅ Network latency experiment completed
+2025-06-02 11:14:35,246 - __main__ - INFO - ⚡ Skipping experiment Memory Allocation Test (probability check)
+2025-06-02 11:14:35,673 - __main__ - INFO - 🔥 Executing chaos experiment: Light CPU Stress
+2025-06-02 11:14:35,675 - __main__ - INFO - 🔥 Starting CPU stress for 10 seconds
+2025-06-02 11:14:45,697 - __main__ - INFO - ✅ CPU stress experiment completed
+2025-06-02 11:14:55,248 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:15:05,703 - __main__ - INFO - ⚡ Skipping experiment Memory Allocation Test (probability check)
+2025-06-02 11:15:15,252 - __main__ - INFO - 🔥 Executing chaos experiment: Temporary Disk Fill
+2025-06-02 11:15:15,253 - __main__ - INFO - 💾 Creating temporary file of 20MB for 12 seconds
+2025-06-02 11:15:25,713 - __main__ - INFO - ⚡ Skipping experiment Light CPU Stress (probability check)
+2025-06-02 11:15:27,279 - __main__ - INFO - ✅ Disk fill experiment completed
+2025-06-02 11:15:45,719 - __main__ - INFO - ⚡ Skipping experiment Process Hang Simulation (probability check)
+2025-06-02 11:15:47,298 - __main__ - INFO - 🔥 Executing chaos experiment: Light CPU Stress
+2025-06-02 11:15:47,300 - __main__ - INFO - 🔥 Starting CPU stress for 10 seconds
+2025-06-02 11:15:57,324 - __main__ - INFO - ✅ CPU stress experiment completed
+2025-06-02 11:16:05,721 - __main__ - INFO - ⚡ Skipping experiment Light CPU Stress (probability check)
+2025-06-02 11:16:17,331 - __main__ - INFO - ⚡ Skipping experiment Process Hang Simulation (probability check)
+2025-06-02 11:16:25,727 - __main__ - INFO - ⚡ Skipping experiment Network Latency Simulation (probability check)
+2025-06-02 11:16:37,339 - __main__ - INFO - ⚡ Skipping experiment Memory Allocation Test (probability check)
+2025-06-02 11:16:45,735 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:16:57,346 - __main__ - INFO - ⚡ Skipping experiment Process Hang Simulation (probability check)
+2025-06-02 11:17:05,740 - __main__ - INFO - 🔥 Executing chaos experiment: Network Latency Simulation
+2025-06-02 11:17:05,741 - __main__ - INFO - 🌐 Simulating 500ms network latency for 8 seconds
+2025-06-02 11:17:13,743 - __main__ - INFO - ✅ Network latency experiment completed
+2025-06-02 11:17:17,352 - __main__ - INFO - ⚡ Skipping experiment Temporary Disk Fill (probability check)
+2025-06-02 11:17:33,752 - __main__ - INFO - 🔥 Executing chaos experiment: Temporary Disk Fill
+2025-06-02 11:17:33,755 - __main__ - INFO - 💾 Creating temporary file of 20MB for 12 seconds
+2025-06-02 11:17:37,358 - __main__ - INFO - ⚡ Skipping experiment Process Hang Simulation (probability check)
+2025-06-02 11:17:45,795 - __main__ - INFO - ✅ Disk fill experiment completed
+2025-06-02 11:17:57,363 - __main__ - INFO - 🔥 Executing chaos experiment: Network Latency Simulation
+2025-06-02 11:17:57,365 - __main__ - INFO - 🌐 Simulating 500ms network latency for 8 seconds
+2025-06-02 11:18:05,380 - __main__ - INFO - ✅ Network latency experiment completed
+2025-06-02 11:18:05,802 - __main__ - INFO - 🔥 Executing chaos experiment: Temporary Disk Fill
+2025-06-02 11:18:05,804 - __main__ - INFO - 💾 Creating temporary file of 20MB for 12 seconds
+2025-06-02 11:18:17,830 - __main__ - INFO - ✅ Disk fill experiment completed
+2025-06-02 11:18:25,390 - __main__ - INFO - 🔥 Executing chaos experiment: Process Hang Simulation
+2025-06-02 11:18:25,392 - __main__ - INFO - ⏸️ Simulating process hang for 6 seconds
+2025-06-02 11:18:31,397 - __main__ - INFO - ✅ Process hang experiment completed
+2025-06-02 11:18:37,837 - __main__ - INFO - ⚡ Skipping experiment Process Hang Simulation (probability check)
+2025-06-02 11:18:51,402 - __main__ - INFO - 🔥 Executing chaos experiment: Memory Allocation Test
+2025-06-02 11:18:51,403 - __main__ - INFO - 🧠 Allocating 50MB of memory for 15 seconds
+2025-06-02 11:18:57,840 - __main__ - INFO - 🔥 Executing chaos experiment: Memory Allocation Test
+2025-06-02 11:18:57,842 - __main__ - INFO - 🧠 Allocating 50MB of memory for 15 seconds
+2025-06-02 11:19:06,416 - __main__ - INFO - ✅ Memory stress experiment completed
+2025-06-02 11:19:12,854 - __main__ - INFO - ✅ Memory stress experiment completed
+2025-06-02 11:19:26,422 - __main__ - INFO - ⚡ Skipping experiment Memory Allocation Test (probability check)
+2025-06-02 11:19:32,860 - __main__ - INFO - ⚡ Skipping experiment Network Latency Simulation (probability check)
+2025-06-02 11:19:46,425 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:19:52,862 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:20:06,431 - __main__ - INFO - ⚡ Skipping experiment Process Hang Simulation (probability check)
+2025-06-02 11:20:12,865 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:20:26,433 - __main__ - INFO - 🔥 Executing chaos experiment: Process Hang Simulation
+2025-06-02 11:20:26,434 - __main__ - INFO - ⏸️ Simulating process hang for 6 seconds
+2025-06-02 11:20:32,435 - __main__ - INFO - ✅ Process hang experiment completed
+2025-06-02 11:20:32,871 - __main__ - INFO - 🔥 Executing chaos experiment: Light CPU Stress
+2025-06-02 11:20:32,872 - __main__ - INFO - 🔥 Starting CPU stress for 10 seconds
+2025-06-02 11:20:42,888 - __main__ - INFO - ✅ CPU stress experiment completed
+2025-06-02 11:20:52,440 - __main__ - INFO - ⚡ Skipping experiment Temporary Disk Fill (probability check)
+2025-06-02 11:21:02,892 - __main__ - INFO - ⚡ Skipping experiment Light CPU Stress (probability check)
+2025-06-02 11:21:12,446 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:21:22,900 - __main__ - INFO - ⚡ Skipping experiment Process Hang Simulation (probability check)
+2025-06-02 11:21:32,452 - __main__ - INFO - ⚡ Skipping experiment Network Latency Simulation (probability check)
+2025-06-02 11:21:42,903 - __main__ - INFO - ⚡ Skipping experiment Light CPU Stress (probability check)
+2025-06-02 11:21:52,454 - __main__ - INFO - 🔥 Executing chaos experiment: Process Hang Simulation
+2025-06-02 11:21:52,456 - __main__ - INFO - ⏸️ Simulating process hang for 6 seconds
+2025-06-02 11:21:58,460 - __main__ - INFO - ✅ Process hang experiment completed
+2025-06-02 11:22:02,906 - __main__ - INFO - 🔥 Executing chaos experiment: Network Latency Simulation
+2025-06-02 11:22:02,907 - __main__ - INFO - 🌐 Simulating 500ms network latency for 8 seconds
+2025-06-02 11:22:10,913 - __main__ - INFO - ✅ Network latency experiment completed
+2025-06-02 11:22:18,466 - __main__ - INFO - ⚡ Skipping experiment Temporary Disk Fill (probability check)
+2025-06-02 11:22:30,916 - __main__ - INFO - ⚡ Skipping experiment Process Hang Simulation (probability check)
+2025-06-02 11:22:38,470 - __main__ - INFO - ⚡ Skipping experiment Light CPU Stress (probability check)
+2025-06-02 11:22:50,922 - __main__ - INFO - ⚡ Skipping experiment Temporary Disk Fill (probability check)
+2025-06-02 11:22:58,477 - __main__ - INFO - 🔥 Executing chaos experiment: Process Hang Simulation
+2025-06-02 11:22:58,478 - __main__ - INFO - ⏸️ Simulating process hang for 6 seconds
+2025-06-02 11:23:04,483 - __main__ - INFO - ✅ Process hang experiment completed
+2025-06-02 11:23:10,924 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:23:24,487 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:23:30,932 - __main__ - INFO - ⚡ Skipping experiment Process Hang Simulation (probability check)
+2025-06-02 11:23:44,496 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:23:50,937 - __main__ - INFO - ⚡ Skipping experiment Temporary Disk Fill (probability check)
+2025-06-02 11:24:04,503 - __main__ - INFO - ⚡ Skipping experiment Temporary Disk Fill (probability check)
+2025-06-02 11:24:10,941 - __main__ - INFO - ⚡ Skipping experiment Light CPU Stress (probability check)
+2025-06-02 11:24:24,511 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:24:30,947 - __main__ - INFO - ⚡ Skipping experiment Network Latency Simulation (probability check)
+2025-06-02 11:24:44,518 - __main__ - INFO - 🔥 Executing chaos experiment: Memory Allocation Test
+2025-06-02 11:24:44,521 - __main__ - INFO - 🧠 Allocating 50MB of memory for 15 seconds
+2025-06-02 11:24:50,952 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:24:59,537 - __main__ - INFO - ✅ Memory stress experiment completed
+2025-06-02 11:25:10,956 - __main__ - INFO - ⚡ Skipping experiment Temporary Disk Fill (probability check)
+2025-06-02 11:25:19,541 - __main__ - INFO - ⚡ Skipping experiment Process Hang Simulation (probability check)
+2025-06-02 11:25:30,963 - __main__ - INFO - 🔥 Executing chaos experiment: Process Hang Simulation
+2025-06-02 11:25:30,965 - __main__ - INFO - ⏸️ Simulating process hang for 6 seconds
+2025-06-02 11:25:36,968 - __main__ - INFO - ✅ Process hang experiment completed
+2025-06-02 11:25:39,546 - __main__ - INFO - ⚡ Skipping experiment Process Hang Simulation (probability check)
+2025-06-02 11:25:56,974 - __main__ - INFO - ⚡ Skipping experiment Temporary Disk Fill (probability check)
+2025-06-02 11:25:59,553 - __main__ - INFO - ⚡ Skipping experiment Light CPU Stress (probability check)
+2025-06-02 11:26:16,981 - __main__ - INFO - 🔥 Executing chaos experiment: Light CPU Stress
+2025-06-02 11:26:16,983 - __main__ - INFO - 🔥 Starting CPU stress for 10 seconds
+2025-06-02 11:26:19,554 - __main__ - INFO - ⚡ Skipping experiment Memory Allocation Test (probability check)
+2025-06-02 11:26:27,004 - __main__ - INFO - ✅ CPU stress experiment completed
+2025-06-02 11:26:39,560 - __main__ - INFO - ⚡ Skipping experiment Network Latency Simulation (probability check)
+2025-06-02 11:26:47,009 - __main__ - INFO - ⚡ Skipping experiment Light CPU Stress (probability check)
+2025-06-02 11:26:59,565 - __main__ - INFO - ⚡ Skipping experiment Temporary Disk Fill (probability check)
+2025-06-02 11:27:07,015 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:27:19,572 - __main__ - INFO - 🔥 Executing chaos experiment: Network Latency Simulation
+2025-06-02 11:27:19,574 - __main__ - INFO - 🌐 Simulating 500ms network latency for 8 seconds
+2025-06-02 11:27:27,021 - __main__ - INFO - ⚡ Skipping experiment Process Hang Simulation (probability check)
+2025-06-02 11:27:27,577 - __main__ - INFO - ✅ Network latency experiment completed
+2025-06-02 11:27:47,023 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:27:47,582 - __main__ - INFO - ⚡ Skipping experiment Memory Allocation Test (probability check)
+2025-06-02 11:28:07,027 - __main__ - INFO - ⚡ Skipping experiment Memory Allocation Test (probability check)
+2025-06-02 11:28:07,587 - __main__ - INFO - ⚡ Skipping experiment Process Hang Simulation (probability check)
+2025-06-02 11:28:27,032 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:28:27,591 - __main__ - INFO - ⚡ Skipping experiment Light CPU Stress (probability check)
+2025-06-02 11:28:47,035 - __main__ - INFO - ⚡ Skipping experiment Memory Allocation Test (probability check)
+2025-06-02 11:28:47,597 - __main__ - INFO - ⚡ Skipping experiment Memory Allocation Test (probability check)
+2025-06-02 11:29:03,325 - __main__ - INFO - 🛑 Chaos Monkey stopped by user
+2025-06-02 11:29:03,326 - __main__ - INFO - 🐒 Chaos Monkey stopped
+2025-06-02 11:29:07,038 - __main__ - INFO - ⚡ Skipping experiment Network Latency Simulation (probability check)
+2025-06-02 11:29:22,352 - __main__ - INFO - Added experiment: Light CPU Stress
+2025-06-02 11:29:22,352 - __main__ - INFO - Added experiment: Memory Allocation Test
+2025-06-02 11:29:22,352 - __main__ - INFO - Added experiment: Network Latency Simulation
+2025-06-02 11:29:22,352 - __main__ - INFO - Added experiment: Service Kill Test
+2025-06-02 11:29:22,352 - __main__ - INFO - Added experiment: Temporary Disk Fill
+2025-06-02 11:29:22,352 - __main__ - INFO - Added experiment: Process Hang Simulation
+2025-06-02 11:29:22,352 - __main__ - INFO - 🐒 Chaos Monkey started!
+2025-06-02 11:29:22,352 - __main__ - INFO - ⚡ Skipping experiment Memory Allocation Test (probability check)
+2025-06-02 11:29:27,040 - __main__ - INFO - 🔥 Executing chaos experiment: Network Latency Simulation
+2025-06-02 11:29:27,041 - __main__ - INFO - 🌐 Simulating 500ms network latency for 8 seconds
+2025-06-02 11:29:35,046 - __main__ - INFO - ✅ Network latency experiment completed
+2025-06-02 11:29:42,358 - __main__ - INFO - ⚡ Skipping experiment Memory Allocation Test (probability check)
+2025-06-02 11:29:55,050 - __main__ - INFO - 🔥 Executing chaos experiment: Process Hang Simulation
+2025-06-02 11:29:55,050 - __main__ - INFO - ⏸️ Simulating process hang for 6 seconds
+2025-06-02 11:30:01,054 - __main__ - INFO - ✅ Process hang experiment completed
+2025-06-02 11:30:02,362 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:30:21,061 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:30:22,368 - __main__ - INFO - ⚡ Skipping experiment Memory Allocation Test (probability check)
+2025-06-02 11:30:41,066 - __main__ - INFO - ⚡ Skipping experiment Temporary Disk Fill (probability check)
+2025-06-02 11:30:42,374 - __main__ - INFO - ⚡ Skipping experiment Light CPU Stress (probability check)
+2025-06-02 11:31:01,071 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:31:02,380 - __main__ - INFO - ⚡ Skipping experiment Temporary Disk Fill (probability check)
+2025-06-02 11:31:21,083 - __main__ - INFO - ⚡ Skipping experiment Light CPU Stress (probability check)
+2025-06-02 11:31:22,383 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:31:41,090 - __main__ - INFO - ⚡ Skipping experiment Light CPU Stress (probability check)
+2025-06-02 11:31:42,388 - __main__ - INFO - 🔥 Executing chaos experiment: Memory Allocation Test
+2025-06-02 11:31:42,389 - __main__ - INFO - 🧠 Allocating 50MB of memory for 15 seconds
+2025-06-02 11:31:57,405 - __main__ - INFO - ✅ Memory stress experiment completed
+2025-06-02 11:32:01,098 - __main__ - INFO - ⚡ Skipping experiment Process Hang Simulation (probability check)
+2025-06-02 11:32:17,412 - __main__ - INFO - ⚡ Skipping experiment Temporary Disk Fill (probability check)
+2025-06-02 11:32:21,103 - __main__ - INFO - ⚡ Skipping experiment Temporary Disk Fill (probability check)
+2025-06-02 11:32:37,419 - __main__ - INFO - 🔥 Executing chaos experiment: Network Latency Simulation
+2025-06-02 11:32:37,420 - __main__ - INFO - 🌐 Simulating 500ms network latency for 8 seconds
+2025-06-02 11:32:41,110 - __main__ - INFO - ⚡ Skipping experiment Process Hang Simulation (probability check)
+2025-06-02 11:32:45,424 - __main__ - INFO - ✅ Network latency experiment completed
+2025-06-02 11:33:01,116 - __main__ - INFO - 🔥 Executing chaos experiment: Process Hang Simulation
+2025-06-02 11:33:01,118 - __main__ - INFO - ⏸️ Simulating process hang for 6 seconds
+2025-06-02 11:33:05,431 - __main__ - INFO - ⚡ Skipping experiment Light CPU Stress (probability check)
+2025-06-02 11:33:07,122 - __main__ - INFO - ✅ Process hang experiment completed
+2025-06-02 11:33:25,438 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:33:27,133 - __main__ - INFO - ⚡ Skipping experiment Network Latency Simulation (probability check)
+2025-06-02 11:33:45,445 - __main__ - INFO - ⚡ Skipping experiment Temporary Disk Fill (probability check)
+2025-06-02 11:33:47,139 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:34:05,453 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:34:07,145 - __main__ - INFO - ⚡ Skipping experiment Network Latency Simulation (probability check)
+2025-06-02 11:34:25,456 - __main__ - INFO - ⚡ Skipping experiment Memory Allocation Test (probability check)
+2025-06-02 11:34:27,148 - __main__ - INFO - 🔥 Executing chaos experiment: Process Hang Simulation
+2025-06-02 11:34:27,149 - __main__ - INFO - ⏸️ Simulating process hang for 6 seconds
+2025-06-02 11:34:33,154 - __main__ - INFO - ✅ Process hang experiment completed
+2025-06-02 11:34:45,458 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:34:53,159 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:35:05,465 - __main__ - INFO - 🔥 Executing chaos experiment: Process Hang Simulation
+2025-06-02 11:35:05,466 - __main__ - INFO - ⏸️ Simulating process hang for 6 seconds
+2025-06-02 11:35:11,468 - __main__ - INFO - ✅ Process hang experiment completed
+2025-06-02 11:35:13,166 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:35:31,474 - __main__ - INFO - ⚡ Skipping experiment Memory Allocation Test (probability check)
+2025-06-02 11:35:31,657 - __main__ - INFO - 🛑 Chaos Monkey stopped by user
+2025-06-02 11:35:31,657 - __main__ - INFO - 🐒 Chaos Monkey stopped
+2025-06-02 11:35:33,174 - __main__ - INFO - ⚡ Skipping experiment Light CPU Stress (probability check)
+2025-06-02 11:35:50,634 - __main__ - INFO - Added experiment: Light CPU Stress
+2025-06-02 11:35:50,635 - __main__ - INFO - Added experiment: Memory Allocation Test
+2025-06-02 11:35:50,635 - __main__ - INFO - Added experiment: Network Latency Simulation
+2025-06-02 11:35:50,635 - __main__ - INFO - Added experiment: Service Kill Test
+2025-06-02 11:35:50,635 - __main__ - INFO - Added experiment: Temporary Disk Fill
+2025-06-02 11:35:50,635 - __main__ - INFO - Added experiment: Process Hang Simulation
+2025-06-02 11:35:50,635 - __main__ - INFO - 🐒 Chaos Monkey started!
+2025-06-02 11:35:50,635 - __main__ - INFO - ⚡ Skipping experiment Memory Allocation Test (probability check)
+2025-06-02 11:35:53,177 - __main__ - INFO - 🔥 Executing chaos experiment: Service Kill Test
+2025-06-02 11:35:53,177 - __main__ - INFO - 💀 Killing service: web_service
+2025-06-02 11:35:53,180 - __main__ - WARNING - 🔥 Service web_service would be terminated here
+2025-06-02 11:35:55,182 - __main__ - INFO - 🔄 Service web_service restarted
+2025-06-02 11:36:10,640 - __main__ - INFO - ⚡ Skipping experiment Light CPU Stress (probability check)
+2025-06-02 11:36:15,183 - __main__ - INFO - 🔥 Executing chaos experiment: Process Hang Simulation
+2025-06-02 11:36:15,184 - __main__ - INFO - ⏸️ Simulating process hang for 6 seconds
+2025-06-02 11:36:21,189 - __main__ - INFO - ✅ Process hang experiment completed
+2025-06-02 11:36:30,647 - __main__ - INFO - ⚡ Skipping experiment Temporary Disk Fill (probability check)
+2025-06-02 11:36:41,197 - __main__ - INFO - ⚡ Skipping experiment Light CPU Stress (probability check)
+2025-06-02 11:36:50,655 - __main__ - INFO - ⚡ Skipping experiment Temporary Disk Fill (probability check)
+2025-06-02 11:37:01,203 - __main__ - INFO - ⚡ Skipping experiment Network Latency Simulation (probability check)
+2025-06-02 11:37:10,660 - __main__ - INFO - ⚡ Skipping experiment Memory Allocation Test (probability check)
+2025-06-02 11:37:21,209 - __main__ - INFO - ⚡ Skipping experiment Process Hang Simulation (probability check)
+2025-06-02 11:37:26,015 - __main__ - INFO - 🛑 Chaos Monkey stopped by user
+2025-06-02 11:37:26,015 - __main__ - INFO - 🐒 Chaos Monkey stopped
+2025-06-02 11:37:41,216 - __main__ - INFO - ⚡ Skipping experiment Network Latency Simulation (probability check)
+2025-06-02 11:38:01,222 - __main__ - INFO - ⚡ Skipping experiment Temporary Disk Fill (probability check)
+2025-06-02 11:38:21,226 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:38:41,233 - __main__ - INFO - 🔥 Executing chaos experiment: Network Latency Simulation
+2025-06-02 11:38:41,234 - __main__ - INFO - 🌐 Simulating 500ms network latency for 8 seconds
+2025-06-02 11:38:49,240 - __main__ - INFO - ✅ Network latency experiment completed

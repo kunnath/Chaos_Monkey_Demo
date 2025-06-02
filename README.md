@@ -11,6 +11,7 @@ This Chaos Monkey implementation helps you understand how your applications beha
 - **Load Tester**: Generates realistic traffic to stress-test the application
 - **System Monitor**: Real-time monitoring of system resources and application health
 - **Demo Runner**: Orchestrates the complete demonstration
+- **Interactive Dashboard**: Web-based Streamlit interface for real-time control and monitoring
 
 ## Features
 
@@ -34,6 +35,14 @@ This Chaos Monkey implementation helps you understand how your applications beha
 - Alert system for anomaly detection
 - Historical data collection and export
 
+### 🌐 Interactive Web Dashboard
+- **Real-time Monitoring**: Live system metrics with gauge charts and graphs
+- **Experiment Control**: Start/stop chaos experiments with custom configurations
+- **Performance Analytics**: Historical data visualization and trend analysis
+- **Component Management**: Interactive control of all demo components
+- **Live Logs**: Real-time log streaming and filtering
+- **Responsive Design**: Modern web interface accessible from any browser
+
 ## Quick Start
 
 ### 1. Run the Complete Demo
@@ -49,7 +58,27 @@ Select option 1 for the full automatic demo, which will:
 4. Launch the chaos monkey
 5. Run for several minutes demonstrating various failure scenarios
 
-### 2. Manual Component Testing
+### 2. Launch Interactive Dashboard
+
+```bash
+python demo_runner.py
+```
+
+Select option 8 to launch the interactive Streamlit dashboard, or run directly:
+
+```bash
+streamlit run streamlit_demo.py
+```
+
+The dashboard provides:
+- **Real-time System Monitoring**: Live CPU, memory, disk, and network metrics
+- **Interactive Experiment Control**: Start/stop chaos experiments with custom settings
+- **Performance Analytics**: Historical data visualization and trend analysis
+- **Component Management**: Control all demo components from one interface
+
+Access the dashboard at: http://localhost:8501
+
+### 3. Manual Component Testing
 
 You can also run individual components:
 
@@ -73,6 +102,12 @@ python load_tester.py
 ```bash
 python chaos_monkey.py
 ```
+
+#### Start Streamlit Dashboard
+```bash
+streamlit run dashboard.py
+```
+Access at: http://localhost:8501
 
 ## API Endpoints
 
@@ -244,11 +279,54 @@ Extend `system_monitor.py` to include:
 
 ## Dependencies
 
-- Flask - Web application framework
-- requests - HTTP client library
-- psutil - System and process utilities
-- threading - Concurrent execution
-- logging - Logging functionality
+Install required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+Key dependencies:
+- **Flask**: Web application framework
+- **psutil**: System and process monitoring
+- **matplotlib**: Data visualization and plotting
+- **streamlit**: Interactive web dashboard
+- **plotly**: Interactive charts and graphs
+- **pandas**: Data manipulation and analysis
+- **numpy**: Numerical computing
+
+## Dashboard Features
+
+The Streamlit dashboard includes multiple pages:
+
+### 📊 Overview Page
+- Real-time system metrics dashboard
+- Live performance indicators
+- Component status monitoring
+- Quick action buttons
+
+### 🎮 Interactive Demo Page
+- Start/stop individual components
+- Configure chaos experiments
+- Real-time experiment monitoring
+- Custom parameter settings
+
+### 📈 Monitoring Page
+- Historical performance data
+- System resource trends
+- Application health metrics
+- Alert management
+
+### ⚗️ Experiments Page
+- Design custom chaos experiments
+- Schedule automated tests
+- Experiment history and results
+- Advanced configuration options
+
+### 📊 Analytics Page
+- Performance trend analysis
+- Failure pattern recognition
+- Statistical summaries
+- Export data functionality
 
 ## License
 

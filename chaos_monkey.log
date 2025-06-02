@@ -241,3 +241,60 @@
 2025-06-02 11:38:41,233 - __main__ - INFO - 🔥 Executing chaos experiment: Network Latency Simulation
 2025-06-02 11:38:41,234 - __main__ - INFO - 🌐 Simulating 500ms network latency for 8 seconds
 2025-06-02 11:38:49,240 - __main__ - INFO - ✅ Network latency experiment completed
+2025-06-02 11:39:09,246 - __main__ - INFO - ⚡ Skipping experiment Temporary Disk Fill (probability check)
+2025-06-02 11:39:29,248 - __main__ - INFO - ⚡ Skipping experiment Temporary Disk Fill (probability check)
+2025-06-02 11:39:49,255 - __main__ - INFO - ⚡ Skipping experiment Network Latency Simulation (probability check)
+2025-06-02 11:40:09,262 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:40:29,269 - __main__ - INFO - 🔥 Executing chaos experiment: Light CPU Stress
+2025-06-02 11:40:29,270 - __main__ - INFO - 🔥 Starting CPU stress for 10 seconds
+2025-06-02 11:40:39,290 - __main__ - INFO - ✅ CPU stress experiment completed
+2025-06-02 11:40:59,296 - __main__ - INFO - ⚡ Skipping experiment Temporary Disk Fill (probability check)
+2025-06-02 11:41:19,303 - __main__ - INFO - 🔥 Executing chaos experiment: Process Hang Simulation
+2025-06-02 11:41:19,305 - __main__ - INFO - ⏸️ Simulating process hang for 6 seconds
+2025-06-02 11:41:25,307 - __main__ - INFO - ✅ Process hang experiment completed
+2025-06-02 11:41:45,312 - __main__ - INFO - ⚡ Skipping experiment Temporary Disk Fill (probability check)
+2025-06-02 11:42:05,319 - __main__ - INFO - ⚡ Skipping experiment Memory Allocation Test (probability check)
+2025-06-02 11:42:25,325 - __main__ - INFO - ⚡ Skipping experiment Process Hang Simulation (probability check)
+2025-06-02 11:42:45,327 - __main__ - INFO - ⚡ Skipping experiment Light CPU Stress (probability check)
+2025-06-02 11:43:05,335 - __main__ - INFO - 🔥 Executing chaos experiment: Temporary Disk Fill
+2025-06-02 11:43:05,336 - __main__ - INFO - 💾 Creating temporary file of 20MB for 12 seconds
+2025-06-02 11:43:17,365 - __main__ - INFO - ✅ Disk fill experiment completed
+2025-06-02 11:43:37,370 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:43:57,374 - __main__ - INFO - ⚡ Skipping experiment Temporary Disk Fill (probability check)
+2025-06-02 11:44:17,381 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:44:37,389 - __main__ - INFO - ⚡ Skipping experiment Service Kill Test (probability check)
+2025-06-02 11:44:57,398 - __main__ - INFO - ⚡ Skipping experiment Memory Allocation Test (probability check)
+2025-06-02 11:45:01,943 - __main__ - INFO - Added experiment: Light CPU Stress
+2025-06-02 11:45:01,943 - __main__ - INFO - Added experiment: Memory Allocation Test
+2025-06-02 11:45:01,943 - __main__ - INFO - Added experiment: Network Latency Simulation
+2025-06-02 11:45:01,943 - __main__ - INFO - Added experiment: Service Kill Test
+2025-06-02 11:45:01,943 - __main__ - INFO - Added experiment: Temporary Disk Fill
+2025-06-02 11:45:01,943 - __main__ - INFO - Added experiment: Process Hang Simulation
+2025-06-02 11:45:01,943 - __main__ - INFO - 🐒 Chaos Monkey started!
+2025-06-02 11:45:01,943 - __main__ - INFO - ⚡ Skipping experiment Light CPU Stress (probability check)
+2025-06-02 11:45:17,405 - __main__ - INFO - 🔥 Executing chaos experiment: Process Hang Simulation
+2025-06-02 11:45:17,406 - __main__ - INFO - ⏸️ Simulating process hang for 6 seconds
+2025-06-02 11:45:19,641 - __main__ - INFO - 🛑 Chaos Monkey stopped by user
+2025-06-02 11:45:19,642 - __main__ - INFO - 🐒 Chaos Monkey stopped
+2025-06-02 11:59:18,710 - __main__ - INFO - Added experiment: Light CPU Stress
+2025-06-02 11:59:18,711 - __main__ - INFO - Added experiment: Memory Allocation Test
+2025-06-02 11:59:18,711 - __main__ - INFO - Added experiment: Network Latency Simulation
+2025-06-02 11:59:18,711 - __main__ - INFO - Added experiment: Service Kill Test
+2025-06-02 11:59:18,711 - __main__ - INFO - Added experiment: Temporary Disk Fill
+2025-06-02 11:59:18,711 - __main__ - INFO - Added experiment: Process Hang Simulation
+2025-06-02 11:59:18,711 - __main__ - INFO - 🐒 Chaos Monkey started!
+2025-06-02 11:59:18,711 - __main__ - INFO - 🔥 Executing chaos experiment: Light CPU Stress
+2025-06-02 11:59:18,711 - __main__ - INFO - 🔥 Starting CPU stress for 10 seconds
+2025-06-02 11:59:28,722 - __main__ - INFO - ✅ CPU stress experiment completed
+2025-06-02 11:59:48,729 - __main__ - INFO - ⚡ Skipping experiment Process Hang Simulation (probability check)
+2025-06-02 12:00:08,736 - __main__ - INFO - ⚡ Skipping experiment Network Latency Simulation (probability check)
+2025-06-02 12:00:28,742 - __main__ - INFO - ⚡ Skipping experiment Network Latency Simulation (probability check)
+2025-06-02 12:00:48,749 - __main__ - INFO - ⚡ Skipping experiment Memory Allocation Test (probability check)
+2025-06-02 12:01:08,752 - __main__ - INFO - ⚡ Skipping experiment Network Latency Simulation (probability check)
+2025-06-02 12:01:28,758 - __main__ - INFO - ⚡ Skipping experiment Light CPU Stress (probability check)
+2025-06-02 12:01:48,765 - __main__ - INFO - 🔥 Executing chaos experiment: Light CPU Stress
+2025-06-02 12:01:48,766 - __main__ - INFO - 🔥 Starting CPU stress for 10 seconds
+2025-06-02 12:01:58,782 - __main__ - INFO - ✅ CPU stress experiment completed
+2025-06-02 12:02:18,790 - __main__ - INFO - ⚡ Skipping experiment Light CPU Stress (probability check)
+2025-06-02 12:02:27,487 - __main__ - INFO - 🛑 Chaos Monkey stopped by user
+2025-06-02 12:02:27,488 - __main__ - INFO - 🐒 Chaos Monkey stopped

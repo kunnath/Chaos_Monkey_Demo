@@ -545,9 +545,10 @@ class ChaosDemo:
             print("5. Check Component Status")
             print("6. Stop All Components")
             print("7. Run Full Auto Demo")
+            print("8. Launch Streamlit Dashboard")
             print("0. Exit")
             
-            choice = input("\nSelect option (0-7): ").strip()
+            choice = input("\nSelect option (0-8): ").strip()
             
             if choice == "1":
                 self.start_component("demo_app.py", "Demo Web Application")
@@ -564,12 +565,40 @@ class ChaosDemo:
             elif choice == "7":
                 self.run_full_demo()
                 break
+            elif choice == "8":
+                self.run_streamlit_dashboard()
             elif choice == "0":
                 self.stop_all()
                 print("👋 Goodbye!")
                 break
             else:
                 print("❌ Invalid option. Please try again.")
+    
+    def run_streamlit_dashboard(self):
+        """Launch the Streamlit interactive dashboard"""
+        print("🌐 LAUNCHING STREAMLIT DASHBOARD")
+        print("=" * 60)
+        print("🚀 Starting interactive web dashboard...")
+        print("📊 Dashboard URL: http://localhost:8501")
+        print("🎮 Use the web interface to control the demo")
+        print("🛑 Press Ctrl+C to stop the dashboard")
+        print("=" * 60)
+        
+        try:
+            # Start the Streamlit dashboard
+            python_cmd = "/Users/kunnath/Projects/Chaos Monkey/.venv/bin/python"
+            
+            dashboard_process = subprocess.run([
+                python_cmd, "-m", "streamlit", "run", "streamlit_demo.py",
+                "--server.port", "8501",
+                "--browser.gatherUsageStats", "false"
+            ], cwd="/Users/kunnath/Projects/Chaos Monkey")
+            
+        except KeyboardInterrupt:
+            print("\n🛑 Dashboard stopped by user")
+        except Exception as e:
+            print(f"❌ Error launching dashboard: {e}")
+            print("💡 Make sure Streamlit is installed: pip install streamlit plotly pandas")
 
 
 def show_demo_info():

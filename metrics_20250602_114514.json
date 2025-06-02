@@ -1,0 +1,5302 @@
+[
+  {
+    "timestamp": "2025-06-02T11:35:13.376390",
+    "system": {
+      "timestamp": "2025-06-02T11:35:13.370983",
+      "cpu": {
+        "percent": 31.3,
+        "count": 8,
+        "load_avg_1m": 9.91064453125,
+        "load_avg_5m": 4.19287109375,
+        "load_avg_15m": 3.34716796875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.358001708984375,
+        "percent": 83.0,
+        "used_gb": 2.719451904296875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.376708984375,
+        "percent": 68.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.20013427734375,
+        "percent": 4.585994958876097,
+        "read_mb": 51813.28125,
+        "write_mb": 19850.9375
+      },
+      "network": {
+        "bytes_sent_mb": 160.880859375,
+        "bytes_recv_mb": 1758.123046875,
+        "packets_sent": 443154,
+        "packets_recv": 1607486
+      },
+      "processes": {
+        "count": 450
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:35:13.376367",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5b460>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:35:19.390199",
+    "system": {
+      "timestamp": "2025-06-02T11:35:19.386344",
+      "cpu": {
+        "percent": 13.1,
+        "count": 8,
+        "load_avg_1m": 8.77392578125,
+        "load_avg_5m": 4.13671875,
+        "load_avg_15m": 3.33642578125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.3589019775390625,
+        "percent": 83.0,
+        "used_gb": 2.8997802734375
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.376708984375,
+        "percent": 68.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.214122772216797,
+        "percent": 4.585994958876097,
+        "read_mb": 51900.3125,
+        "write_mb": 19863.73046875
+      },
+      "network": {
+        "bytes_sent_mb": 160.9267578125,
+        "bytes_recv_mb": 1758.173828125,
+        "packets_sent": 443326,
+        "packets_recv": 1607666
+      },
+      "processes": {
+        "count": 423
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:35:19.390179",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5b790>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:35:25.404307",
+    "system": {
+      "timestamp": "2025-06-02T11:35:25.400427",
+      "cpu": {
+        "percent": 16.7,
+        "count": 8,
+        "load_avg_1m": 8.3115234375,
+        "load_avg_5m": 4.11767578125,
+        "load_avg_15m": 3.333984375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.35809326171875,
+        "percent": 83.0,
+        "used_gb": 2.896484375
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.376708984375,
+        "percent": 68.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.212825775146484,
+        "percent": 4.585994958876097,
+        "read_mb": 51931.5078125,
+        "write_mb": 19866.265625
+      },
+      "network": {
+        "bytes_sent_mb": 160.94921875,
+        "bytes_recv_mb": 1758.2001953125,
+        "packets_sent": 443404,
+        "packets_recv": 1607747
+      },
+      "processes": {
+        "count": 423
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:35:25.404285",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105125150>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:35:31.421052",
+    "system": {
+      "timestamp": "2025-06-02T11:35:31.417013",
+      "cpu": {
+        "percent": 15.7,
+        "count": 8,
+        "load_avg_1m": 7.8056640625,
+        "load_avg_5m": 4.08203125,
+        "load_avg_15m": 3.32568359375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.40081787109375,
+        "percent": 82.5,
+        "used_gb": 2.886749267578125
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.376708984375,
+        "percent": 68.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.21282196044922,
+        "percent": 4.585994958876097,
+        "read_mb": 51945.53125,
+        "write_mb": 19866.59765625
+      },
+      "network": {
+        "bytes_sent_mb": 160.9560546875,
+        "bytes_recv_mb": 1758.2041015625,
+        "packets_sent": 443447,
+        "packets_recv": 1607796
+      },
+      "processes": {
+        "count": 423
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:35:31.421029",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105125040>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:35:37.434560",
+    "system": {
+      "timestamp": "2025-06-02T11:35:37.430746",
+      "cpu": {
+        "percent": 15.3,
+        "count": 8,
+        "load_avg_1m": 7.42041015625,
+        "load_avg_5m": 4.06396484375,
+        "load_avg_15m": 3.32373046875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4536895751953125,
+        "percent": 81.8,
+        "used_gb": 2.829071044921875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.368896484375,
+        "percent": 68.4
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.217498779296875,
+        "percent": 4.585994958876097,
+        "read_mb": 51993.8046875,
+        "write_mb": 19892.0625
+      },
+      "network": {
+        "bytes_sent_mb": 160.970703125,
+        "bytes_recv_mb": 1758.2216796875,
+        "packets_sent": 443508,
+        "packets_recv": 1607859
+      },
+      "processes": {
+        "count": 420
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:35:37.434541",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105124d10>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:35:43.445842",
+    "system": {
+      "timestamp": "2025-06-02T11:35:43.441552",
+      "cpu": {
+        "percent": 15.5,
+        "count": 8,
+        "load_avg_1m": 6.90625,
+        "load_avg_5m": 4.0126953125,
+        "load_avg_15m": 3.31005859375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4123992919921875,
+        "percent": 82.3,
+        "used_gb": 2.937591552734375
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.368896484375,
+        "percent": 68.4
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.217300415039062,
+        "percent": 4.585994958876097,
+        "read_mb": 51998.65234375,
+        "write_mb": 19895.31640625
+      },
+      "network": {
+        "bytes_sent_mb": 160.9755859375,
+        "bytes_recv_mb": 1758.2275390625,
+        "packets_sent": 443571,
+        "packets_recv": 1607929
+      },
+      "processes": {
+        "count": 420
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:35:43.445821",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1051249e0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:35:49.460754",
+    "system": {
+      "timestamp": "2025-06-02T11:35:49.456073",
+      "cpu": {
+        "percent": 14.6,
+        "count": 8,
+        "load_avg_1m": 6.15771484375,
+        "load_avg_5m": 3.9462890625,
+        "load_avg_15m": 3.29443359375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.3548126220703125,
+        "percent": 83.1,
+        "used_gb": 2.8854217529296875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.368896484375,
+        "percent": 68.4
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.217247009277344,
+        "percent": 4.585994958876097,
+        "read_mb": 52081.5,
+        "write_mb": 19898.96484375
+      },
+      "network": {
+        "bytes_sent_mb": 161.0087890625,
+        "bytes_recv_mb": 1758.2607421875,
+        "packets_sent": 443861,
+        "packets_recv": 1608229
+      },
+      "processes": {
+        "count": 410
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:35:49.460733",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1051246b0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:35:55.477362",
+    "system": {
+      "timestamp": "2025-06-02T11:35:55.473131",
+      "cpu": {
+        "percent": 16.5,
+        "count": 8,
+        "load_avg_1m": 5.90478515625,
+        "load_avg_5m": 3.93017578125,
+        "load_avg_15m": 3.29248046875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.3556060791015625,
+        "percent": 83.1,
+        "used_gb": 2.859466552734375
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.368896484375,
+        "percent": 68.4
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.21725082397461,
+        "percent": 4.585994958876097,
+        "read_mb": 52087.40234375,
+        "write_mb": 19901.46484375
+      },
+      "network": {
+        "bytes_sent_mb": 161.0390625,
+        "bytes_recv_mb": 1758.291015625,
+        "packets_sent": 444165,
+        "packets_recv": 1608545
+      },
+      "processes": {
+        "count": 411
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:35:55.477344",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105124380>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:36:01.490137",
+    "system": {
+      "timestamp": "2025-06-02T11:36:01.487888",
+      "cpu": {
+        "percent": 16.1,
+        "count": 8,
+        "load_avg_1m": 5.51171875,
+        "load_avg_5m": 3.88134765625,
+        "load_avg_15m": 3.27880859375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.383056640625,
+        "percent": 82.7,
+        "used_gb": 2.84112548828125
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.368896484375,
+        "percent": 68.4
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.21725845336914,
+        "percent": 4.585994958876097,
+        "read_mb": 52122.05078125,
+        "write_mb": 19903.5
+      },
+      "network": {
+        "bytes_sent_mb": 161.0712890625,
+        "bytes_recv_mb": 1758.341796875,
+        "packets_sent": 444457,
+        "packets_recv": 1608859
+      },
+      "processes": {
+        "count": 412
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:36:01.490121",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105125260>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:36:07.509563",
+    "system": {
+      "timestamp": "2025-06-02T11:36:07.502436",
+      "cpu": {
+        "percent": 18.5,
+        "count": 8,
+        "load_avg_1m": 5.150390625,
+        "load_avg_5m": 3.83349609375,
+        "load_avg_15m": 3.26513671875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.30352783203125,
+        "percent": 83.7,
+        "used_gb": 2.892364501953125
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.368896484375,
+        "percent": 68.4
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.21718978881836,
+        "percent": 4.585994958876097,
+        "read_mb": 52135.2109375,
+        "write_mb": 19903.96875
+      },
+      "network": {
+        "bytes_sent_mb": 161.099609375,
+        "bytes_recv_mb": 1758.37109375,
+        "packets_sent": 444806,
+        "packets_recv": 1609214
+      },
+      "processes": {
+        "count": 411
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:36:07.509543",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5b790>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:36:13.529260",
+    "system": {
+      "timestamp": "2025-06-02T11:36:13.525301",
+      "cpu": {
+        "percent": 16.4,
+        "count": 8,
+        "load_avg_1m": 4.97802734375,
+        "load_avg_5m": 3.8193359375,
+        "load_avg_15m": 3.26318359375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.338470458984375,
+        "percent": 83.3,
+        "used_gb": 2.7878265380859375
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.368896484375,
+        "percent": 68.4
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.217166900634766,
+        "percent": 4.585994958876097,
+        "read_mb": 52140.2109375,
+        "write_mb": 19910.5625
+      },
+      "network": {
+        "bytes_sent_mb": 161.1279296875,
+        "bytes_recv_mb": 1758.39453125,
+        "packets_sent": 445097,
+        "packets_recv": 1609509
+      },
+      "processes": {
+        "count": 412
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:36:13.529112",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5bbd0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:36:19.536549",
+    "system": {
+      "timestamp": "2025-06-02T11:36:19.534159",
+      "cpu": {
+        "percent": 9.1,
+        "count": 8,
+        "load_avg_1m": 4.51318359375,
+        "load_avg_5m": 3.7587890625,
+        "load_avg_15m": 3.24755859375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.33673095703125,
+        "percent": 83.3,
+        "used_gb": 2.814971923828125
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.361083984375,
+        "percent": 68.1
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.216915130615234,
+        "percent": 4.585994958876097,
+        "read_mb": 52311.77734375,
+        "write_mb": 19918.73828125
+      },
+      "network": {
+        "bytes_sent_mb": 161.1884765625,
+        "bytes_recv_mb": 1758.4580078125,
+        "packets_sent": 445506,
+        "packets_recv": 1609921
+      },
+      "processes": {
+        "count": 413
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:36:19.536528",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5b8a0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:36:25.548084",
+    "system": {
+      "timestamp": "2025-06-02T11:36:25.545804",
+      "cpu": {
+        "percent": 13.3,
+        "count": 8,
+        "load_avg_1m": 4.3916015625,
+        "load_avg_5m": 3.74609375,
+        "load_avg_15m": 3.24609375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4603729248046875,
+        "percent": 81.7,
+        "used_gb": 2.9329681396484375
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.361083984375,
+        "percent": 68.1
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.217182159423828,
+        "percent": 4.585994958876097,
+        "read_mb": 52357.16015625,
+        "write_mb": 19919.31640625
+      },
+      "network": {
+        "bytes_sent_mb": 161.220703125,
+        "bytes_recv_mb": 1758.4853515625,
+        "packets_sent": 445797,
+        "packets_recv": 1610217
+      },
+      "processes": {
+        "count": 411
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:36:25.548071",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5b570>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:36:31.559152",
+    "system": {
+      "timestamp": "2025-06-02T11:36:31.555283",
+      "cpu": {
+        "percent": 6.5,
+        "count": 8,
+        "load_avg_1m": 4.27978515625,
+        "load_avg_5m": 3.7333984375,
+        "load_avg_15m": 3.24462890625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.6830596923828125,
+        "percent": 79.0,
+        "used_gb": 2.8544921875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.361083984375,
+        "percent": 68.1
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.217315673828125,
+        "percent": 4.585994958876097,
+        "read_mb": 52363.85546875,
+        "write_mb": 19921.84375
+      },
+      "network": {
+        "bytes_sent_mb": 161.2509765625,
+        "bytes_recv_mb": 1758.517578125,
+        "packets_sent": 446116,
+        "packets_recv": 1610542
+      },
+      "processes": {
+        "count": 412
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:36:31.559133",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5aad0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:36:37.577124",
+    "system": {
+      "timestamp": "2025-06-02T11:36:37.573151",
+      "cpu": {
+        "percent": 5.0,
+        "count": 8,
+        "load_avg_1m": 4.09716796875,
+        "load_avg_5m": 3.70458984375,
+        "load_avg_15m": 3.2373046875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.44580078125,
+        "percent": 81.9,
+        "used_gb": 2.92486572265625
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.353271484375,
+        "percent": 67.7
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.217498779296875,
+        "percent": 4.585994958876097,
+        "read_mb": 52405.53515625,
+        "write_mb": 19924.16796875
+      },
+      "network": {
+        "bytes_sent_mb": 161.2734375,
+        "bytes_recv_mb": 1758.541015625,
+        "packets_sent": 446377,
+        "packets_recv": 1610817
+      },
+      "processes": {
+        "count": 414
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:36:37.577110",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5a8b0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:36:43.589488",
+    "system": {
+      "timestamp": "2025-06-02T11:36:43.586274",
+      "cpu": {
+        "percent": 4.7,
+        "count": 8,
+        "load_avg_1m": 3.92919921875,
+        "load_avg_5m": 3.67626953125,
+        "load_avg_15m": 3.22998046875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.516876220703125,
+        "percent": 81.0,
+        "used_gb": 2.937530517578125
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.353271484375,
+        "percent": 67.7
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.21698760986328,
+        "percent": 4.585994958876097,
+        "read_mb": 52416.0625,
+        "write_mb": 19929.8125
+      },
+      "network": {
+        "bytes_sent_mb": 161.3154296875,
+        "bytes_recv_mb": 1758.583984375,
+        "packets_sent": 446708,
+        "packets_recv": 1611159
+      },
+      "processes": {
+        "count": 414
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:36:43.589472",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f596a0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:36:49.601166",
+    "system": {
+      "timestamp": "2025-06-02T11:36:49.598983",
+      "cpu": {
+        "percent": 9.4,
+        "count": 8,
+        "load_avg_1m": 3.55859375,
+        "load_avg_5m": 3.6044921875,
+        "load_avg_15m": 3.20947265625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4853668212890625,
+        "percent": 81.4,
+        "used_gb": 2.9781036376953125
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.353271484375,
+        "percent": 67.7
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.216983795166016,
+        "percent": 4.585994958876097,
+        "read_mb": 52421.7265625,
+        "write_mb": 19930.75390625
+      },
+      "network": {
+        "bytes_sent_mb": 161.375,
+        "bytes_recv_mb": 1758.642578125,
+        "packets_sent": 447069,
+        "packets_recv": 1611520
+      },
+      "processes": {
+        "count": 414
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:36:49.601156",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5b020>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:36:55.613401",
+    "system": {
+      "timestamp": "2025-06-02T11:36:55.610247",
+      "cpu": {
+        "percent": 8.2,
+        "count": 8,
+        "load_avg_1m": 3.43359375,
+        "load_avg_5m": 3.57763671875,
+        "load_avg_15m": 3.2021484375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4842071533203125,
+        "percent": 81.4,
+        "used_gb": 2.9527587890625
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.353271484375,
+        "percent": 67.7
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.216983795166016,
+        "percent": 4.585994958876097,
+        "read_mb": 52424.60546875,
+        "write_mb": 19931.2734375
+      },
+      "network": {
+        "bytes_sent_mb": 161.3994140625,
+        "bytes_recv_mb": 1758.6669921875,
+        "packets_sent": 447367,
+        "packets_recv": 1611822
+      },
+      "processes": {
+        "count": 414
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:36:55.613387",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5acf0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:01.627464",
+    "system": {
+      "timestamp": "2025-06-02T11:37:01.623461",
+      "cpu": {
+        "percent": 5.3,
+        "count": 8,
+        "load_avg_1m": 3.23828125,
+        "load_avg_5m": 3.53466796875,
+        "load_avg_15m": 3.18896484375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.50189208984375,
+        "percent": 81.2,
+        "used_gb": 2.9633026123046875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.353271484375,
+        "percent": 67.7
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.216999053955078,
+        "percent": 4.585994958876097,
+        "read_mb": 52425.73046875,
+        "write_mb": 19934.0703125
+      },
+      "network": {
+        "bytes_sent_mb": 161.4208984375,
+        "bytes_recv_mb": 1758.689453125,
+        "packets_sent": 447632,
+        "packets_recv": 1612092
+      },
+      "processes": {
+        "count": 415
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:37:01.627431",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105124050>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:07.642458",
+    "system": {
+      "timestamp": "2025-06-02T11:37:07.640241",
+      "cpu": {
+        "percent": 6.7,
+        "count": 8,
+        "load_avg_1m": 3.138671875,
+        "load_avg_5m": 3.5087890625,
+        "load_avg_15m": 3.181640625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.5004119873046875,
+        "percent": 81.2,
+        "used_gb": 2.953369140625
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.353271484375,
+        "percent": 67.7
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.216999053955078,
+        "percent": 4.585994958876097,
+        "read_mb": 52427.015625,
+        "write_mb": 19934.296875
+      },
+      "network": {
+        "bytes_sent_mb": 161.443359375,
+        "bytes_recv_mb": 1758.7119140625,
+        "packets_sent": 447916,
+        "packets_recv": 1612386
+      },
+      "processes": {
+        "count": 414
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:37:07.642448",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1051257b0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:13.658500",
+    "system": {
+      "timestamp": "2025-06-02T11:37:13.654888",
+      "cpu": {
+        "percent": 12.8,
+        "count": 8,
+        "load_avg_1m": 2.88720703125,
+        "load_avg_5m": 3.4501953125,
+        "load_avg_15m": 3.16259765625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4791259765625,
+        "percent": 81.5,
+        "used_gb": 2.9645233154296875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.353271484375,
+        "percent": 67.7
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.21688461303711,
+        "percent": 4.585994958876097,
+        "read_mb": 52427.55078125,
+        "write_mb": 19939.9921875
+      },
+      "network": {
+        "bytes_sent_mb": 161.470703125,
+        "bytes_recv_mb": 1758.73828125,
+        "packets_sent": 448223,
+        "packets_recv": 1612698
+      },
+      "processes": {
+        "count": 412
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:37:13.658483",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105124160>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:19.670458",
+    "system": {
+      "timestamp": "2025-06-02T11:37:19.666622",
+      "cpu": {
+        "percent": 9.5,
+        "count": 8,
+        "load_avg_1m": 2.5966796875,
+        "load_avg_5m": 3.369140625,
+        "load_avg_15m": 3.13720703125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4663848876953125,
+        "percent": 81.7,
+        "used_gb": 2.9386749267578125
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.353271484375,
+        "percent": 67.7
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.21688461303711,
+        "percent": 4.585994958876097,
+        "read_mb": 52428.4765625,
+        "write_mb": 19941.40625
+      },
+      "network": {
+        "bytes_sent_mb": 161.505859375,
+        "bytes_recv_mb": 1758.7734375,
+        "packets_sent": 448512,
+        "packets_recv": 1612991
+      },
+      "processes": {
+        "count": 412
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:37:19.670412",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105124490>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:25.684583",
+    "system": {
+      "timestamp": "2025-06-02T11:37:25.680901",
+      "cpu": {
+        "percent": 8.1,
+        "count": 8,
+        "load_avg_1m": 2.548828125,
+        "load_avg_5m": 3.34619140625,
+        "load_avg_15m": 3.13037109375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.44830322265625,
+        "percent": 81.9,
+        "used_gb": 2.9599761962890625
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.345458984375,
+        "percent": 67.3
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.216876983642578,
+        "percent": 4.585994958876097,
+        "read_mb": 52431.5234375,
+        "write_mb": 19942.20703125
+      },
+      "network": {
+        "bytes_sent_mb": 161.5634765625,
+        "bytes_recv_mb": 1758.83203125,
+        "packets_sent": 448905,
+        "packets_recv": 1613392
+      },
+      "processes": {
+        "count": 412
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:37:25.684566",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1051247c0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:31.693023",
+    "system": {
+      "timestamp": "2025-06-02T11:37:31.689687",
+      "cpu": {
+        "percent": 3.3,
+        "count": 8,
+        "load_avg_1m": 2.42431640625,
+        "load_avg_5m": 3.30712890625,
+        "load_avg_15m": 3.11767578125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.5980377197265625,
+        "percent": 80.0,
+        "used_gb": 2.9029083251953125
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.345458984375,
+        "percent": 67.3
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.216869354248047,
+        "percent": 4.585994958876097,
+        "read_mb": 52434.56640625,
+        "write_mb": 19942.21484375
+      },
+      "network": {
+        "bytes_sent_mb": 161.5693359375,
+        "bytes_recv_mb": 1758.83984375,
+        "packets_sent": 448946,
+        "packets_recv": 1613442
+      },
+      "processes": {
+        "count": 408
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:37:31.693006",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105124af0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:37.709160",
+    "system": {
+      "timestamp": "2025-06-02T11:37:37.704949",
+      "cpu": {
+        "percent": 7.9,
+        "count": 8,
+        "load_avg_1m": 2.39013671875,
+        "load_avg_5m": 3.28515625,
+        "load_avg_15m": 3.11083984375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.597015380859375,
+        "percent": 80.0,
+        "used_gb": 2.9112548828125
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.345458984375,
+        "percent": 67.3
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.216880798339844,
+        "percent": 4.585994958876097,
+        "read_mb": 52434.9375,
+        "write_mb": 19942.9453125
+      },
+      "network": {
+        "bytes_sent_mb": 161.5751953125,
+        "bytes_recv_mb": 1758.8486328125,
+        "packets_sent": 448977,
+        "packets_recv": 1613480
+      },
+      "processes": {
+        "count": 408
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:37:37.709143",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105124e20>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:43.733344",
+    "system": {
+      "timestamp": "2025-06-02T11:37:43.724014",
+      "cpu": {
+        "percent": 17.3,
+        "count": 8,
+        "load_avg_1m": 2.51904296875,
+        "load_avg_5m": 3.296875,
+        "load_avg_15m": 3.11572265625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.2474517822265625,
+        "percent": 84.4,
+        "used_gb": 2.8711395263671875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.337646484375,
+        "percent": 66.9
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.21059799194336,
+        "percent": 4.585994958876097,
+        "read_mb": 52535.6640625,
+        "write_mb": 19959.43359375
+      },
+      "network": {
+        "bytes_sent_mb": 161.7216796875,
+        "bytes_recv_mb": 1762.8984375,
+        "packets_sent": 449742,
+        "packets_recv": 1616751
+      },
+      "processes": {
+        "count": 412
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:37:43.733318",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105125f20>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:49.751287",
+    "system": {
+      "timestamp": "2025-06-02T11:37:49.747086",
+      "cpu": {
+        "percent": 9.2,
+        "count": 8,
+        "load_avg_1m": 2.6533203125,
+        "load_avg_5m": 3.30224609375,
+        "load_avg_15m": 3.11962890625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.321319580078125,
+        "percent": 83.5,
+        "used_gb": 2.7727203369140625
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.35137939453125,
+        "percent": 67.6
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.207447052001953,
+        "percent": 4.585994958876097,
+        "read_mb": 52596.125,
+        "write_mb": 19993.1796875
+      },
+      "network": {
+        "bytes_sent_mb": 161.9619140625,
+        "bytes_recv_mb": 1764.8046875,
+        "packets_sent": 450458,
+        "packets_recv": 1618544
+      },
+      "processes": {
+        "count": 418
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:37:49.751271",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5b020>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:37:55.763795",
+    "system": {
+      "timestamp": "2025-06-02T11:37:55.759832",
+      "cpu": {
+        "percent": 15.6,
+        "count": 8,
+        "load_avg_1m": 2.6005859375,
+        "load_avg_5m": 3.2802734375,
+        "load_avg_15m": 3.11279296875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.310455322265625,
+        "percent": 83.6,
+        "used_gb": 2.784149169921875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.35137939453125,
+        "percent": 67.6
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.204811096191406,
+        "percent": 4.585994958876097,
+        "read_mb": 52600.4921875,
+        "write_mb": 19997.890625
+      },
+      "network": {
+        "bytes_sent_mb": 162.0126953125,
+        "bytes_recv_mb": 1764.990234375,
+        "packets_sent": 450667,
+        "packets_recv": 1618802
+      },
+      "processes": {
+        "count": 418
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:37:55.763776",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f596a0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:38:01.780806",
+    "system": {
+      "timestamp": "2025-06-02T11:38:01.770933",
+      "cpu": {
+        "percent": 10.6,
+        "count": 8,
+        "load_avg_1m": 2.47216796875,
+        "load_avg_5m": 3.2421875,
+        "load_avg_15m": 3.10009765625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.3426361083984375,
+        "percent": 83.2,
+        "used_gb": 2.79669189453125
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.35137939453125,
+        "percent": 67.6
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.20480728149414,
+        "percent": 4.585994958876097,
+        "read_mb": 52608.671875,
+        "write_mb": 20001.0234375
+      },
+      "network": {
+        "bytes_sent_mb": 162.0146484375,
+        "bytes_recv_mb": 1764.9921875,
+        "packets_sent": 450691,
+        "packets_recv": 1618829
+      },
+      "processes": {
+        "count": 424
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:38:01.780789",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5a8b0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:38:07.797626",
+    "system": {
+      "timestamp": "2025-06-02T11:38:07.794246",
+      "cpu": {
+        "percent": 7.8,
+        "count": 8,
+        "load_avg_1m": 2.35400390625,
+        "load_avg_5m": 3.20458984375,
+        "load_avg_15m": 3.08740234375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.3066558837890625,
+        "percent": 83.7,
+        "used_gb": 2.7510986328125
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.34356689453125,
+        "percent": 67.2
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.203948974609375,
+        "percent": 4.585994958876097,
+        "read_mb": 52629.87109375,
+        "write_mb": 20006.46484375
+      },
+      "network": {
+        "bytes_sent_mb": 162.0400390625,
+        "bytes_recv_mb": 1765.033203125,
+        "packets_sent": 450772,
+        "packets_recv": 1618918
+      },
+      "processes": {
+        "count": 424
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:38:07.797612",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5aad0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:38:13.814841",
+    "system": {
+      "timestamp": "2025-06-02T11:38:13.811111",
+      "cpu": {
+        "percent": 9.0,
+        "count": 8,
+        "load_avg_1m": 2.3251953125,
+        "load_avg_5m": 3.1845703125,
+        "load_avg_15m": 3.08056640625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.3299560546875,
+        "percent": 83.4,
+        "used_gb": 2.7433013916015625
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.34356689453125,
+        "percent": 67.2
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.20425796508789,
+        "percent": 4.585994958876097,
+        "read_mb": 52637.60546875,
+        "write_mb": 20014.86328125
+      },
+      "network": {
+        "bytes_sent_mb": 162.0732421875,
+        "bytes_recv_mb": 1765.1484375,
+        "packets_sent": 450892,
+        "packets_recv": 1619082
+      },
+      "processes": {
+        "count": 424
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:38:13.814824",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5b570>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:38:19.831719",
+    "system": {
+      "timestamp": "2025-06-02T11:38:19.827778",
+      "cpu": {
+        "percent": 16.5,
+        "count": 8,
+        "load_avg_1m": 2.2744140625,
+        "load_avg_5m": 3.14501953125,
+        "load_avg_15m": 3.06787109375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.42620849609375,
+        "percent": 82.2,
+        "used_gb": 2.813812255859375
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.34356689453125,
+        "percent": 67.2
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.214221954345703,
+        "percent": 4.585994958876097,
+        "read_mb": 52663.10546875,
+        "write_mb": 20016.40625
+      },
+      "network": {
+        "bytes_sent_mb": 162.0791015625,
+        "bytes_recv_mb": 1765.1552734375,
+        "packets_sent": 450930,
+        "packets_recv": 1619122
+      },
+      "processes": {
+        "count": 422
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:38:19.831698",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5b8a0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:38:25.845505",
+    "system": {
+      "timestamp": "2025-06-02T11:38:25.841456",
+      "cpu": {
+        "percent": 8.0,
+        "count": 8,
+        "load_avg_1m": 2.33203125,
+        "load_avg_5m": 3.142578125,
+        "load_avg_15m": 3.0673828125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.446624755859375,
+        "percent": 81.9,
+        "used_gb": 2.877410888671875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.34356689453125,
+        "percent": 67.2
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.214237213134766,
+        "percent": 4.585994958876097,
+        "read_mb": 52676.5859375,
+        "write_mb": 20018.07421875
+      },
+      "network": {
+        "bytes_sent_mb": 162.109375,
+        "bytes_recv_mb": 1765.16796875,
+        "packets_sent": 450981,
+        "packets_recv": 1619170
+      },
+      "processes": {
+        "count": 423
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:38:25.845489",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5bbd0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:38:31.859960",
+    "system": {
+      "timestamp": "2025-06-02T11:38:31.856076",
+      "cpu": {
+        "percent": 3.9,
+        "count": 8,
+        "load_avg_1m": 2.22509765625,
+        "load_avg_5m": 3.10693359375,
+        "load_avg_15m": 3.05517578125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.461395263671875,
+        "percent": 81.7,
+        "used_gb": 2.86395263671875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.34356689453125,
+        "percent": 67.2
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.21405792236328,
+        "percent": 4.585994958876097,
+        "read_mb": 52677.48046875,
+        "write_mb": 20018.6796875
+      },
+      "network": {
+        "bytes_sent_mb": 162.1142578125,
+        "bytes_recv_mb": 1765.17578125,
+        "packets_sent": 450997,
+        "packets_recv": 1619198
+      },
+      "processes": {
+        "count": 420
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:38:31.859934",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5b790>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:38:37.870880",
+    "system": {
+      "timestamp": "2025-06-02T11:38:37.868252",
+      "cpu": {
+        "percent": 10.7,
+        "count": 8,
+        "load_avg_1m": 2.52734375,
+        "load_avg_5m": 3.15478515625,
+        "load_avg_15m": 3.072265625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.330352783203125,
+        "percent": 83.4,
+        "used_gb": 2.9779052734375
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.32012939453125,
+        "percent": 66.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.213253021240234,
+        "percent": 4.585994958876097,
+        "read_mb": 52707.859375,
+        "write_mb": 20026.4765625
+      },
+      "network": {
+        "bytes_sent_mb": 162.15625,
+        "bytes_recv_mb": 1765.220703125,
+        "packets_sent": 451132,
+        "packets_recv": 1619328
+      },
+      "processes": {
+        "count": 414
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:38:37.870873",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5ae00>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:38:43.884387",
+    "system": {
+      "timestamp": "2025-06-02T11:38:43.880300",
+      "cpu": {
+        "percent": 12.5,
+        "count": 8,
+        "load_avg_1m": 2.56494140625,
+        "load_avg_5m": 3.15185546875,
+        "load_avg_15m": 3.07177734375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4609222412109375,
+        "percent": 81.7,
+        "used_gb": 2.8888702392578125
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.32012939453125,
+        "percent": 66.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.212718963623047,
+        "percent": 4.585994958876097,
+        "read_mb": 52718.4453125,
+        "write_mb": 20032.1015625
+      },
+      "network": {
+        "bytes_sent_mb": 162.20703125,
+        "bytes_recv_mb": 1765.5,
+        "packets_sent": 451373,
+        "packets_recv": 1619657
+      },
+      "processes": {
+        "count": 413
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:38:43.884367",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105124e20>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:38:49.894773",
+    "system": {
+      "timestamp": "2025-06-02T11:38:49.890541",
+      "cpu": {
+        "percent": 14.3,
+        "count": 8,
+        "load_avg_1m": 2.55126953125,
+        "load_avg_5m": 3.12939453125,
+        "load_avg_15m": 3.06494140625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.40093994140625,
+        "percent": 82.5,
+        "used_gb": 2.840118408203125
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.32012939453125,
+        "percent": 66.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.211688995361328,
+        "percent": 4.585994958876097,
+        "read_mb": 52722.8671875,
+        "write_mb": 20037.6875
+      },
+      "network": {
+        "bytes_sent_mb": 162.23046875,
+        "bytes_recv_mb": 1765.5263671875,
+        "packets_sent": 451455,
+        "packets_recv": 1619736
+      },
+      "processes": {
+        "count": 413
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:38:49.894756",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105124af0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:38:55.910726",
+    "system": {
+      "timestamp": "2025-06-02T11:38:55.907856",
+      "cpu": {
+        "percent": 7.2,
+        "count": 8,
+        "load_avg_1m": 2.4267578125,
+        "load_avg_5m": 3.09375,
+        "load_avg_15m": 3.052734375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.39306640625,
+        "percent": 82.6,
+        "used_gb": 2.85321044921875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.32012939453125,
+        "percent": 66.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.211692810058594,
+        "percent": 4.585994958876097,
+        "read_mb": 52726.77734375,
+        "write_mb": 20038.08203125
+      },
+      "network": {
+        "bytes_sent_mb": 162.265625,
+        "bytes_recv_mb": 1765.5673828125,
+        "packets_sent": 451567,
+        "packets_recv": 1619852
+      },
+      "processes": {
+        "count": 413
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:38:55.910711",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1051247c0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:39:01.924945",
+    "system": {
+      "timestamp": "2025-06-02T11:39:01.921291",
+      "cpu": {
+        "percent": 3.5,
+        "count": 8,
+        "load_avg_1m": 2.3125,
+        "load_avg_5m": 3.05859375,
+        "load_avg_15m": 3.04052734375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4159393310546875,
+        "percent": 82.3,
+        "used_gb": 2.8716583251953125
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.32012939453125,
+        "percent": 66.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.21054458618164,
+        "percent": 4.585994958876097,
+        "read_mb": 52736.30078125,
+        "write_mb": 20039.08203125
+      },
+      "network": {
+        "bytes_sent_mb": 162.265625,
+        "bytes_recv_mb": 1765.568359375,
+        "packets_sent": 451583,
+        "packets_recv": 1619873
+      },
+      "processes": {
+        "count": 414
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:39:01.924927",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105124490>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:39:07.940906",
+    "system": {
+      "timestamp": "2025-06-02T11:39:07.938056",
+      "cpu": {
+        "percent": 5.3,
+        "count": 8,
+        "load_avg_1m": 2.287109375,
+        "load_avg_5m": 3.041015625,
+        "load_avg_15m": 3.0341796875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.359161376953125,
+        "percent": 83.0,
+        "used_gb": 2.9111480712890625
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.32012939453125,
+        "percent": 66.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.21051788330078,
+        "percent": 4.585994958876097,
+        "read_mb": 52737.21484375,
+        "write_mb": 20040.00390625
+      },
+      "network": {
+        "bytes_sent_mb": 162.2666015625,
+        "bytes_recv_mb": 1765.5693359375,
+        "packets_sent": 451592,
+        "packets_recv": 1619893
+      },
+      "processes": {
+        "count": 413
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:39:07.940889",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105124160>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:39:13.958849",
+    "system": {
+      "timestamp": "2025-06-02T11:39:13.954584",
+      "cpu": {
+        "percent": 17.4,
+        "count": 8,
+        "load_avg_1m": 2.18359375,
+        "load_avg_5m": 3.0068359375,
+        "load_avg_15m": 3.02197265625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.3560638427734375,
+        "percent": 83.0,
+        "used_gb": 2.94720458984375
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.32012939453125,
+        "percent": 66.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.21053695678711,
+        "percent": 4.585994958876097,
+        "read_mb": 52745.13671875,
+        "write_mb": 20052.4921875
+      },
+      "network": {
+        "bytes_sent_mb": 162.328125,
+        "bytes_recv_mb": 1765.65625,
+        "packets_sent": 451716,
+        "packets_recv": 1620027
+      },
+      "processes": {
+        "count": 412
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:39:13.958832",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1051257b0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:39:19.977831",
+    "system": {
+      "timestamp": "2025-06-02T11:39:19.971448",
+      "cpu": {
+        "percent": 10.5,
+        "count": 8,
+        "load_avg_1m": 1.99462890625,
+        "load_avg_5m": 2.93994140625,
+        "load_avg_15m": 2.99755859375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.510955810546875,
+        "percent": 81.1,
+        "used_gb": 2.855224609375
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.32012939453125,
+        "percent": 66.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.210525512695312,
+        "percent": 4.585994958876097,
+        "read_mb": 52760.34765625,
+        "write_mb": 20055.30859375
+      },
+      "network": {
+        "bytes_sent_mb": 162.375,
+        "bytes_recv_mb": 1765.8330078125,
+        "packets_sent": 451874,
+        "packets_recv": 1620255
+      },
+      "processes": {
+        "count": 415
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:39:19.977811",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105124050>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:39:25.993342",
+    "system": {
+      "timestamp": "2025-06-02T11:39:25.989141",
+      "cpu": {
+        "percent": 4.4,
+        "count": 8,
+        "load_avg_1m": 1.99462890625,
+        "load_avg_5m": 2.92431640625,
+        "load_avg_15m": 2.99169921875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.51995849609375,
+        "percent": 81.0,
+        "used_gb": 2.8587646484375
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.32012939453125,
+        "percent": 66.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.2080078125,
+        "percent": 4.585994958876097,
+        "read_mb": 52763.7109375,
+        "write_mb": 20058.64453125
+      },
+      "network": {
+        "bytes_sent_mb": 162.38671875,
+        "bytes_recv_mb": 1765.8427734375,
+        "packets_sent": 451915,
+        "packets_recv": 1620296
+      },
+      "processes": {
+        "count": 415
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:39:25.993323",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5ae00>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:39:32.008236",
+    "system": {
+      "timestamp": "2025-06-02T11:39:32.004764",
+      "cpu": {
+        "percent": 6.7,
+        "count": 8,
+        "load_avg_1m": 1.91455078125,
+        "load_avg_5m": 2.89208984375,
+        "load_avg_15m": 2.97998046875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.474578857421875,
+        "percent": 81.6,
+        "used_gb": 2.88763427734375
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.32012939453125,
+        "percent": 66.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.206993103027344,
+        "percent": 4.585994958876097,
+        "read_mb": 52764.359375,
+        "write_mb": 20059.21875
+      },
+      "network": {
+        "bytes_sent_mb": 162.392578125,
+        "bytes_recv_mb": 1765.849609375,
+        "packets_sent": 451931,
+        "packets_recv": 1620319
+      },
+      "processes": {
+        "count": 415
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:39:32.008218",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5b790>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:39:38.024620",
+    "system": {
+      "timestamp": "2025-06-02T11:39:38.020798",
+      "cpu": {
+        "percent": 7.0,
+        "count": 8,
+        "load_avg_1m": 1.92138671875,
+        "load_avg_5m": 2.876953125,
+        "load_avg_15m": 2.97412109375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.474639892578125,
+        "percent": 81.6,
+        "used_gb": 2.8783721923828125
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.32012939453125,
+        "percent": 66.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.206993103027344,
+        "percent": 4.585994958876097,
+        "read_mb": 52765.12109375,
+        "write_mb": 20060.66015625
+      },
+      "network": {
+        "bytes_sent_mb": 162.39453125,
+        "bytes_recv_mb": 1765.8525390625,
+        "packets_sent": 451945,
+        "packets_recv": 1620345
+      },
+      "processes": {
+        "count": 415
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:39:38.024601",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5bbd0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:39:44.041839",
+    "system": {
+      "timestamp": "2025-06-02T11:39:44.038130",
+      "cpu": {
+        "percent": 8.2,
+        "count": 8,
+        "load_avg_1m": 1.84716796875,
+        "load_avg_5m": 2.845703125,
+        "load_avg_15m": 2.96240234375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.497222900390625,
+        "percent": 81.3,
+        "used_gb": 2.8632049560546875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.32012939453125,
+        "percent": 66.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.206989288330078,
+        "percent": 4.585994958876097,
+        "read_mb": 52766.05078125,
+        "write_mb": 20064.92578125
+      },
+      "network": {
+        "bytes_sent_mb": 162.39453125,
+        "bytes_recv_mb": 1765.8525390625,
+        "packets_sent": 451954,
+        "packets_recv": 1620360
+      },
+      "processes": {
+        "count": 415
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:39:44.041823",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5b8a0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:39:50.058857",
+    "system": {
+      "timestamp": "2025-06-02T11:39:50.055275",
+      "cpu": {
+        "percent": 10.1,
+        "count": 8,
+        "load_avg_1m": 1.859375,
+        "load_avg_5m": 2.83154296875,
+        "load_avg_15m": 2.95654296875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4293670654296875,
+        "percent": 82.1,
+        "used_gb": 2.8839569091796875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.32012939453125,
+        "percent": 66.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.20726776123047,
+        "percent": 4.585994958876097,
+        "read_mb": 52781.6953125,
+        "write_mb": 20067.203125
+      },
+      "network": {
+        "bytes_sent_mb": 162.4365234375,
+        "bytes_recv_mb": 1766.0361328125,
+        "packets_sent": 452115,
+        "packets_recv": 1620588
+      },
+      "processes": {
+        "count": 415
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:39:50.058839",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5b570>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:39:56.070228",
+    "system": {
+      "timestamp": "2025-06-02T11:39:56.066721",
+      "cpu": {
+        "percent": 7.8,
+        "count": 8,
+        "load_avg_1m": 1.87451171875,
+        "load_avg_5m": 2.80322265625,
+        "load_avg_15m": 2.94482421875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.54248046875,
+        "percent": 80.7,
+        "used_gb": 2.7749176025390625
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.32012939453125,
+        "percent": 66.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.20726776123047,
+        "percent": 4.585994958876097,
+        "read_mb": 52782.15234375,
+        "write_mb": 20067.2109375
+      },
+      "network": {
+        "bytes_sent_mb": 162.439453125,
+        "bytes_recv_mb": 1766.0380859375,
+        "packets_sent": 452139,
+        "packets_recv": 1620615
+      },
+      "processes": {
+        "count": 415
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:39:56.070213",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5aad0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:40:02.087096",
+    "system": {
+      "timestamp": "2025-06-02T11:40:02.083495",
+      "cpu": {
+        "percent": 4.5,
+        "count": 8,
+        "load_avg_1m": 1.88427734375,
+        "load_avg_5m": 2.78955078125,
+        "load_avg_15m": 2.93896484375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.6602630615234375,
+        "percent": 79.2,
+        "used_gb": 2.6677703857421875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.32012939453125,
+        "percent": 66.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.207263946533203,
+        "percent": 4.585994958876097,
+        "read_mb": 52782.44140625,
+        "write_mb": 20068.37890625
+      },
+      "network": {
+        "bytes_sent_mb": 162.4453125,
+        "bytes_recv_mb": 1766.046875,
+        "packets_sent": 452169,
+        "packets_recv": 1620646
+      },
+      "processes": {
+        "count": 416
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:40:02.087076",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5a8b0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:40:08.100602",
+    "system": {
+      "timestamp": "2025-06-02T11:40:08.098423",
+      "cpu": {
+        "percent": 11.4,
+        "count": 8,
+        "load_avg_1m": 2.29345703125,
+        "load_avg_5m": 2.859375,
+        "load_avg_15m": 2.96240234375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.35198974609375,
+        "percent": 83.1,
+        "used_gb": 2.9171295166015625
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.32012939453125,
+        "percent": 66.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.20699691772461,
+        "percent": 4.585994958876097,
+        "read_mb": 52784.54296875,
+        "write_mb": 20068.99609375
+      },
+      "network": {
+        "bytes_sent_mb": 162.453125,
+        "bytes_recv_mb": 1766.056640625,
+        "packets_sent": 452190,
+        "packets_recv": 1620681
+      },
+      "processes": {
+        "count": 415
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:40:08.100593",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f596a0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:40:14.118119",
+    "system": {
+      "timestamp": "2025-06-02T11:40:14.114255",
+      "cpu": {
+        "percent": 10.1,
+        "count": 8,
+        "load_avg_1m": 2.189453125,
+        "load_avg_5m": 2.828125,
+        "load_avg_15m": 2.95068359375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4947509765625,
+        "percent": 81.3,
+        "used_gb": 2.812896728515625
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.32012939453125,
+        "percent": 66.0
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.206954956054688,
+        "percent": 4.585994958876097,
+        "read_mb": 52806.5,
+        "write_mb": 20079.96875
+      },
+      "network": {
+        "bytes_sent_mb": 162.4560546875,
+        "bytes_recv_mb": 1766.05859375,
+        "packets_sent": 452204,
+        "packets_recv": 1620700
+      },
+      "processes": {
+        "count": 415
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:40:14.118101",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5b020>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:40:20.134754",
+    "system": {
+      "timestamp": "2025-06-02T11:40:20.130841",
+      "cpu": {
+        "percent": 10.2,
+        "count": 8,
+        "load_avg_1m": 2.173828125,
+        "load_avg_5m": 2.81396484375,
+        "load_avg_15m": 2.94482421875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.5607757568359375,
+        "percent": 80.5,
+        "used_gb": 2.805511474609375
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.312255859375,
+        "percent": 65.6
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.206993103027344,
+        "percent": 4.585994958876097,
+        "read_mb": 52855.96484375,
+        "write_mb": 20081.8203125
+      },
+      "network": {
+        "bytes_sent_mb": 162.4560546875,
+        "bytes_recv_mb": 1766.05859375,
+        "packets_sent": 452215,
+        "packets_recv": 1620718
+      },
+      "processes": {
+        "count": 416
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:40:20.134734",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5acf0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:40:26.151636",
+    "system": {
+      "timestamp": "2025-06-02T11:40:26.148299",
+      "cpu": {
+        "percent": 4.6,
+        "count": 8,
+        "load_avg_1m": 2.07275390625,
+        "load_avg_5m": 2.7705078125,
+        "load_avg_15m": 2.92724609375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.5462493896484375,
+        "percent": 80.7,
+        "used_gb": 2.8295440673828125
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.312255859375,
+        "percent": 65.6
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.206993103027344,
+        "percent": 4.585994958876097,
+        "read_mb": 52872.83984375,
+        "write_mb": 20081.953125
+      },
+      "network": {
+        "bytes_sent_mb": 162.46484375,
+        "bytes_recv_mb": 1766.0634765625,
+        "packets_sent": 452237,
+        "packets_recv": 1620746
+      },
+      "processes": {
+        "count": 416
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:40:26.151623",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1051257b0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:40:32.159575",
+    "system": {
+      "timestamp": "2025-06-02T11:40:32.158529",
+      "cpu": {
+        "percent": 15.1,
+        "count": 8,
+        "load_avg_1m": 2.06689453125,
+        "load_avg_5m": 2.75732421875,
+        "load_avg_15m": 2.92138671875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.54827880859375,
+        "percent": 80.6,
+        "used_gb": 2.836212158203125
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.312255859375,
+        "percent": 65.6
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.206989288330078,
+        "percent": 4.585994958876097,
+        "read_mb": 52873.8984375,
+        "write_mb": 20083.97265625
+      },
+      "network": {
+        "bytes_sent_mb": 162.466796875,
+        "bytes_recv_mb": 1766.0654296875,
+        "packets_sent": 452252,
+        "packets_recv": 1620768
+      },
+      "processes": {
+        "count": 412
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:40:32.159570",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105124160>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:40:38.167659",
+    "system": {
+      "timestamp": "2025-06-02T11:40:38.166226",
+      "cpu": {
+        "percent": 16.4,
+        "count": 8,
+        "load_avg_1m": 2.0615234375,
+        "load_avg_5m": 2.74462890625,
+        "load_avg_15m": 2.91552734375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.5907745361328125,
+        "percent": 80.1,
+        "used_gb": 2.7967681884765625
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.312255859375,
+        "percent": 65.6
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.206989288330078,
+        "percent": 4.585994958876097,
+        "read_mb": 52876.2734375,
+        "write_mb": 20084.08203125
+      },
+      "network": {
+        "bytes_sent_mb": 162.4677734375,
+        "bytes_recv_mb": 1766.068359375,
+        "packets_sent": 452261,
+        "packets_recv": 1620791
+      },
+      "processes": {
+        "count": 412
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:40:38.167652",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105124490>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:40:44.185843",
+    "system": {
+      "timestamp": "2025-06-02T11:40:44.181141",
+      "cpu": {
+        "percent": 10.8,
+        "count": 8,
+        "load_avg_1m": 2.05615234375,
+        "load_avg_5m": 2.73193359375,
+        "load_avg_15m": 2.91015625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.5977935791015625,
+        "percent": 80.0,
+        "used_gb": 2.828826904296875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.312255859375,
+        "percent": 65.6
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.204723358154297,
+        "percent": 4.585994958876097,
+        "read_mb": 52904.7578125,
+        "write_mb": 20088.390625
+      },
+      "network": {
+        "bytes_sent_mb": 162.4736328125,
+        "bytes_recv_mb": 1766.0703125,
+        "packets_sent": 452282,
+        "packets_recv": 1620816
+      },
+      "processes": {
+        "count": 411
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:40:44.185823",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1051247c0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:40:50.199209",
+    "system": {
+      "timestamp": "2025-06-02T11:40:50.197314",
+      "cpu": {
+        "percent": 14.5,
+        "count": 8,
+        "load_avg_1m": 2.05126953125,
+        "load_avg_5m": 2.7197265625,
+        "load_avg_15m": 2.90478515625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4524688720703125,
+        "percent": 81.8,
+        "used_gb": 2.8889923095703125
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.296630859375,
+        "percent": 64.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.204837799072266,
+        "percent": 4.585994958876097,
+        "read_mb": 52921.96875,
+        "write_mb": 20090.5234375
+      },
+      "network": {
+        "bytes_sent_mb": 162.48046875,
+        "bytes_recv_mb": 1766.0791015625,
+        "packets_sent": 452310,
+        "packets_recv": 1620854
+      },
+      "processes": {
+        "count": 411
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:40:50.199198",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105124af0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:40:56.219678",
+    "system": {
+      "timestamp": "2025-06-02T11:40:56.210610",
+      "cpu": {
+        "percent": 27.2,
+        "count": 8,
+        "load_avg_1m": 2.12939453125,
+        "load_avg_5m": 2.71240234375,
+        "load_avg_15m": 2.89990234375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4052734375,
+        "percent": 82.4,
+        "used_gb": 2.8325347900390625
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.296630859375,
+        "percent": 64.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.20379638671875,
+        "percent": 4.585994958876097,
+        "read_mb": 52960.90234375,
+        "write_mb": 20098.48828125
+      },
+      "network": {
+        "bytes_sent_mb": 162.494140625,
+        "bytes_recv_mb": 1766.09375,
+        "packets_sent": 452349,
+        "packets_recv": 1620895
+      },
+      "processes": {
+        "count": 415
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:40:56.219643",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105124e20>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:41:02.234628",
+    "system": {
+      "timestamp": "2025-06-02T11:41:02.229322",
+      "cpu": {
+        "percent": 7.3,
+        "count": 8,
+        "load_avg_1m": 2.19873046875,
+        "load_avg_5m": 2.716796875,
+        "load_avg_15m": 2.900390625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4254150390625,
+        "percent": 82.2,
+        "used_gb": 2.8052520751953125
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.296630859375,
+        "percent": 64.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.203594207763672,
+        "percent": 4.585994958876097,
+        "read_mb": 52975.05859375,
+        "write_mb": 20099.671875
+      },
+      "network": {
+        "bytes_sent_mb": 162.494140625,
+        "bytes_recv_mb": 1766.0947265625,
+        "packets_sent": 452363,
+        "packets_recv": 1620914
+      },
+      "processes": {
+        "count": 416
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:41:02.234611",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5acf0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:41:08.248498",
+    "system": {
+      "timestamp": "2025-06-02T11:41:08.244859",
+      "cpu": {
+        "percent": 8.0,
+        "count": 8,
+        "load_avg_1m": 2.1826171875,
+        "load_avg_5m": 2.70458984375,
+        "load_avg_15m": 2.89501953125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.526123046875,
+        "percent": 80.9,
+        "used_gb": 2.7029571533203125
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.296630859375,
+        "percent": 64.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.203632354736328,
+        "percent": 4.585994958876097,
+        "read_mb": 52975.55078125,
+        "write_mb": 20100.94921875
+      },
+      "network": {
+        "bytes_sent_mb": 162.4951171875,
+        "bytes_recv_mb": 1766.0966796875,
+        "packets_sent": 452367,
+        "packets_recv": 1620924
+      },
+      "processes": {
+        "count": 415
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:41:08.248483",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5a7a0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:41:14.265000",
+    "system": {
+      "timestamp": "2025-06-02T11:41:14.261671",
+      "cpu": {
+        "percent": 2.9,
+        "count": 8,
+        "load_avg_1m": 2.087890625,
+        "load_avg_5m": 2.67626953125,
+        "load_avg_15m": 2.8837890625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.567047119140625,
+        "percent": 80.4,
+        "used_gb": 2.6729278564453125
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.296630859375,
+        "percent": 64.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.203311920166016,
+        "percent": 4.585994958876097,
+        "read_mb": 52978.15625,
+        "write_mb": 20107.26171875
+      },
+      "network": {
+        "bytes_sent_mb": 162.498046875,
+        "bytes_recv_mb": 1766.09765625,
+        "packets_sent": 452386,
+        "packets_recv": 1620948
+      },
+      "processes": {
+        "count": 415
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:41:14.264985",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5a580>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:41:20.281294",
+    "system": {
+      "timestamp": "2025-06-02T11:41:20.278040",
+      "cpu": {
+        "percent": 2.9,
+        "count": 8,
+        "load_avg_1m": 2.08056640625,
+        "load_avg_5m": 2.6650390625,
+        "load_avg_15m": 2.87841796875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.5734100341796875,
+        "percent": 80.3,
+        "used_gb": 2.6967010498046875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.296630859375,
+        "percent": 64.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.203323364257812,
+        "percent": 4.585994958876097,
+        "read_mb": 52982.6875,
+        "write_mb": 20108.08203125
+      },
+      "network": {
+        "bytes_sent_mb": 162.51171875,
+        "bytes_recv_mb": 1766.1123046875,
+        "packets_sent": 452432,
+        "packets_recv": 1620990
+      },
+      "processes": {
+        "count": 415
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:41:20.281279",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5b350>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:41:26.299344",
+    "system": {
+      "timestamp": "2025-06-02T11:41:26.294767",
+      "cpu": {
+        "percent": 9.6,
+        "count": 8,
+        "load_avg_1m": 2.154296875,
+        "load_avg_5m": 2.65966796875,
+        "load_avg_15m": 2.87353515625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.3532257080078125,
+        "percent": 83.1,
+        "used_gb": 2.7902679443359375
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.296630859375,
+        "percent": 64.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.20333480834961,
+        "percent": 4.585994958876097,
+        "read_mb": 53023.859375,
+        "write_mb": 20111.12109375
+      },
+      "network": {
+        "bytes_sent_mb": 162.52734375,
+        "bytes_recv_mb": 1766.1455078125,
+        "packets_sent": 452475,
+        "packets_recv": 1621055
+      },
+      "processes": {
+        "count": 415
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:41:26.299325",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5b680>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:41:32.313268",
+    "system": {
+      "timestamp": "2025-06-02T11:41:32.311039",
+      "cpu": {
+        "percent": 10.2,
+        "count": 8,
+        "load_avg_1m": 2.2216796875,
+        "load_avg_5m": 2.6650390625,
+        "load_avg_15m": 2.8740234375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.3722381591796875,
+        "percent": 82.8,
+        "used_gb": 2.7702789306640625
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.296630859375,
+        "percent": 64.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.20720672607422,
+        "percent": 4.585994958876097,
+        "read_mb": 53026.85546875,
+        "write_mb": 20115.4140625
+      },
+      "network": {
+        "bytes_sent_mb": 162.5283203125,
+        "bytes_recv_mb": 1766.146484375,
+        "packets_sent": 452484,
+        "packets_recv": 1621070
+      },
+      "processes": {
+        "count": 416
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:41:32.313246",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5b9b0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:41:38.329783",
+    "system": {
+      "timestamp": "2025-06-02T11:41:38.326507",
+      "cpu": {
+        "percent": 2.9,
+        "count": 8,
+        "load_avg_1m": 2.12353515625,
+        "load_avg_5m": 2.63720703125,
+        "load_avg_15m": 2.86279296875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.414154052734375,
+        "percent": 82.3,
+        "used_gb": 2.7391357421875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.288818359375,
+        "percent": 64.4
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.20720672607422,
+        "percent": 4.585994958876097,
+        "read_mb": 53029.6953125,
+        "write_mb": 20116.2734375
+      },
+      "network": {
+        "bytes_sent_mb": 162.5283203125,
+        "bytes_recv_mb": 1766.146484375,
+        "packets_sent": 452493,
+        "packets_recv": 1621086
+      },
+      "processes": {
+        "count": 411
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:41:38.329767",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5bce0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:41:44.345752",
+    "system": {
+      "timestamp": "2025-06-02T11:41:44.342859",
+      "cpu": {
+        "percent": 2.8,
+        "count": 8,
+        "load_avg_1m": 2.2734375,
+        "load_avg_5m": 2.65966796875,
+        "load_avg_15m": 2.869140625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.392608642578125,
+        "percent": 82.6,
+        "used_gb": 2.7682342529296875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.288818359375,
+        "percent": 64.4
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.207012176513672,
+        "percent": 4.585994958876097,
+        "read_mb": 53034.92578125,
+        "write_mb": 20118.9140625
+      },
+      "network": {
+        "bytes_sent_mb": 162.5361328125,
+        "bytes_recv_mb": 1766.197265625,
+        "packets_sent": 452551,
+        "packets_recv": 1621164
+      },
+      "processes": {
+        "count": 411
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:41:44.345738",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5bf00>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:41:50.357319",
+    "system": {
+      "timestamp": "2025-06-02T11:41:50.353520",
+      "cpu": {
+        "percent": 4.1,
+        "count": 8,
+        "load_avg_1m": 2.25146484375,
+        "load_avg_5m": 2.6484375,
+        "load_avg_15m": 2.86376953125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4086151123046875,
+        "percent": 82.4,
+        "used_gb": 2.7743988037109375
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.288818359375,
+        "percent": 64.4
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.207012176513672,
+        "percent": 4.585994958876097,
+        "read_mb": 53060.3515625,
+        "write_mb": 20119.328125
+      },
+      "network": {
+        "bytes_sent_mb": 162.5458984375,
+        "bytes_recv_mb": 1766.2138671875,
+        "packets_sent": 452608,
+        "packets_recv": 1621223
+      },
+      "processes": {
+        "count": 411
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:41:50.357303",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5bac0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:41:56.365085",
+    "system": {
+      "timestamp": "2025-06-02T11:41:56.363693",
+      "cpu": {
+        "percent": 9.6,
+        "count": 8,
+        "load_avg_1m": 1.98486328125,
+        "load_avg_5m": 2.5771484375,
+        "load_avg_15m": 2.83544921875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.45709228515625,
+        "percent": 81.8,
+        "used_gb": 2.8162078857421875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.288818359375,
+        "percent": 64.4
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.206939697265625,
+        "percent": 4.585994958876097,
+        "read_mb": 53088.7109375,
+        "write_mb": 20121.203125
+      },
+      "network": {
+        "bytes_sent_mb": 162.5859375,
+        "bytes_recv_mb": 1766.294921875,
+        "packets_sent": 452705,
+        "packets_recv": 1621337
+      },
+      "processes": {
+        "count": 411
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:41:56.365079",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5b240>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:42:02.380646",
+    "system": {
+      "timestamp": "2025-06-02T11:42:02.375521",
+      "cpu": {
+        "percent": 7.9,
+        "count": 8,
+        "load_avg_1m": 1.90576171875,
+        "load_avg_5m": 2.55078125,
+        "load_avg_15m": 2.82421875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.44659423828125,
+        "percent": 81.9,
+        "used_gb": 2.84765625
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.288818359375,
+        "percent": 64.4
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.206939697265625,
+        "percent": 4.585994958876097,
+        "read_mb": 53090.0078125,
+        "write_mb": 20121.6953125
+      },
+      "network": {
+        "bytes_sent_mb": 162.759765625,
+        "bytes_recv_mb": 1766.3388671875,
+        "packets_sent": 452942,
+        "packets_recv": 1621510
+      },
+      "processes": {
+        "count": 412
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:42:02.380621",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105125480>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:42:08.388260",
+    "system": {
+      "timestamp": "2025-06-02T11:42:08.385560",
+      "cpu": {
+        "percent": 6.6,
+        "count": 8,
+        "load_avg_1m": 1.7529296875,
+        "load_avg_5m": 2.50830078125,
+        "load_avg_15m": 2.8076171875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.5710601806640625,
+        "percent": 80.4,
+        "used_gb": 2.8124237060546875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.288818359375,
+        "percent": 64.4
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.206912994384766,
+        "percent": 4.585994958876097,
+        "read_mb": 53091.80078125,
+        "write_mb": 20122.51171875
+      },
+      "network": {
+        "bytes_sent_mb": 163.0849609375,
+        "bytes_recv_mb": 1766.40234375,
+        "packets_sent": 453281,
+        "packets_recv": 1621759
+      },
+      "processes": {
+        "count": 411
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:42:08.388244",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105124f30>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:42:14.407887",
+    "system": {
+      "timestamp": "2025-06-02T11:42:14.402939",
+      "cpu": {
+        "percent": 10.9,
+        "count": 8,
+        "load_avg_1m": 1.8525390625,
+        "load_avg_5m": 2.51611328125,
+        "load_avg_15m": 2.80859375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.4642333984375,
+        "percent": 81.7,
+        "used_gb": 2.7958221435546875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.288818359375,
+        "percent": 64.4
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.20657730102539,
+        "percent": 4.585994958876097,
+        "read_mb": 53137.40625,
+        "write_mb": 20133.86328125
+      },
+      "network": {
+        "bytes_sent_mb": 163.21484375,
+        "bytes_recv_mb": 1766.4365234375,
+        "packets_sent": 453452,
+        "packets_recv": 1621914
+      },
+      "processes": {
+        "count": 413
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:42:14.407869",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105124c00>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:42:20.416205",
+    "system": {
+      "timestamp": "2025-06-02T11:42:20.413884",
+      "cpu": {
+        "percent": 29.7,
+        "count": 8,
+        "load_avg_1m": 1.8642578125,
+        "load_avg_5m": 2.50732421875,
+        "load_avg_15m": 2.8037109375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.3247222900390625,
+        "percent": 83.4,
+        "used_gb": 2.723846435546875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.281005859375,
+        "percent": 64.1
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.206565856933594,
+        "percent": 4.585994958876097,
+        "read_mb": 53218.578125,
+        "write_mb": 20141.21484375
+      },
+      "network": {
+        "bytes_sent_mb": 163.33203125,
+        "bytes_recv_mb": 1766.9541015625,
+        "packets_sent": 453957,
+        "packets_recv": 1622575
+      },
+      "processes": {
+        "count": 428
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:42:20.416194",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1051248d0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:42:26.425838",
+    "system": {
+      "timestamp": "2025-06-02T11:42:26.422849",
+      "cpu": {
+        "percent": 52.7,
+        "count": 8,
+        "load_avg_1m": 1.875,
+        "load_avg_5m": 2.49853515625,
+        "load_avg_15m": 2.798828125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.2302703857421875,
+        "percent": 84.6,
+        "used_gb": 2.692840576171875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.41558837890625,
+        "percent": 70.8
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.216751098632812,
+        "percent": 4.585994958876097,
+        "read_mb": 53374.328125,
+        "write_mb": 20301.55859375
+      },
+      "network": {
+        "bytes_sent_mb": 163.7275390625,
+        "bytes_recv_mb": 1770.9287109375,
+        "packets_sent": 455340,
+        "packets_recv": 1626402
+      },
+      "processes": {
+        "count": 448
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:42:26.425829",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1051245a0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:42:32.440054",
+    "system": {
+      "timestamp": "2025-06-02T11:42:32.437234",
+      "cpu": {
+        "percent": 17.8,
+        "count": 8,
+        "load_avg_1m": 2.416015625,
+        "load_avg_5m": 2.59619140625,
+        "load_avg_15m": 2.830078125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.2734527587890625,
+        "percent": 84.1,
+        "used_gb": 2.7538299560546875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.532470703125,
+        "percent": 76.6
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.21600341796875,
+        "percent": 4.585994958876097,
+        "read_mb": 53451.61328125,
+        "write_mb": 20436.4921875
+      },
+      "network": {
+        "bytes_sent_mb": 164.228515625,
+        "bytes_recv_mb": 1771.685546875,
+        "packets_sent": 456300,
+        "packets_recv": 1627611
+      },
+      "processes": {
+        "count": 454
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:42:32.440039",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105124270>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:42:38.455813",
+    "system": {
+      "timestamp": "2025-06-02T11:42:38.450004",
+      "cpu": {
+        "percent": 10.5,
+        "count": 8,
+        "load_avg_1m": 2.30224609375,
+        "load_avg_5m": 2.5693359375,
+        "load_avg_15m": 2.8193359375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.375030517578125,
+        "percent": 82.8,
+        "used_gb": 2.6810455322265625
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.532470703125,
+        "percent": 76.6
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.211688995361328,
+        "percent": 4.585994958876097,
+        "read_mb": 53459.578125,
+        "write_mb": 20448.2265625
+      },
+      "network": {
+        "bytes_sent_mb": 164.3076171875,
+        "bytes_recv_mb": 1771.74609375,
+        "packets_sent": 456446,
+        "packets_recv": 1627781
+      },
+      "processes": {
+        "count": 453
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:42:38.455797",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5b240>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:42:44.468562",
+    "system": {
+      "timestamp": "2025-06-02T11:42:44.464234",
+      "cpu": {
+        "percent": 6.8,
+        "count": 8,
+        "load_avg_1m": 2.35791015625,
+        "load_avg_5m": 2.576171875,
+        "load_avg_15m": 2.8203125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.411224365234375,
+        "percent": 82.4,
+        "used_gb": 2.672821044921875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.524658203125,
+        "percent": 76.2
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.21169662475586,
+        "percent": 4.585994958876097,
+        "read_mb": 53467.203125,
+        "write_mb": 20448.3125
+      },
+      "network": {
+        "bytes_sent_mb": 164.357421875,
+        "bytes_recv_mb": 1771.802734375,
+        "packets_sent": 456587,
+        "packets_recv": 1627943
+      },
+      "processes": {
+        "count": 451
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:42:44.468544",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5bdf0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:42:50.480923",
+    "system": {
+      "timestamp": "2025-06-02T11:42:50.477205",
+      "cpu": {
+        "percent": 11.9,
+        "count": 8,
+        "load_avg_1m": 2.3291015625,
+        "load_avg_5m": 2.56640625,
+        "load_avg_15m": 2.8154296875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.375457763671875,
+        "percent": 82.8,
+        "used_gb": 2.738555908203125
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.524658203125,
+        "percent": 76.2
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.211715698242188,
+        "percent": 4.585994958876097,
+        "read_mb": 53484.00390625,
+        "write_mb": 20449.03515625
+      },
+      "network": {
+        "bytes_sent_mb": 164.423828125,
+        "bytes_recv_mb": 1771.837890625,
+        "packets_sent": 456698,
+        "packets_recv": 1628052
+      },
+      "processes": {
+        "count": 450
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:42:50.480906",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5b460>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:42:56.491079",
+    "system": {
+      "timestamp": "2025-06-02T11:42:56.487692",
+      "cpu": {
+        "percent": 16.9,
+        "count": 8,
+        "load_avg_1m": 2.3828125,
+        "load_avg_5m": 2.5732421875,
+        "load_avg_15m": 2.81640625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.21160888671875,
+        "percent": 84.9,
+        "used_gb": 2.7880706787109375
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.5780029296875,
+        "percent": 78.9
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.21164321899414,
+        "percent": 4.585994958876097,
+        "read_mb": 53628.8046875,
+        "write_mb": 20507.0234375
+      },
+      "network": {
+        "bytes_sent_mb": 164.435546875,
+        "bytes_recv_mb": 1771.8486328125,
+        "packets_sent": 456773,
+        "packets_recv": 1628125
+      },
+      "processes": {
+        "count": 457
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:42:56.491062",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5a9c0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:43:02.507474",
+    "system": {
+      "timestamp": "2025-06-02T11:43:02.503829",
+      "cpu": {
+        "percent": 11.0,
+        "count": 8,
+        "load_avg_1m": 2.169921875,
+        "load_avg_5m": 2.52099609375,
+        "load_avg_15m": 2.794921875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.42889404296875,
+        "percent": 82.1,
+        "used_gb": 2.7245025634765625
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.6131591796875,
+        "percent": 80.7
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.21164321899414,
+        "percent": 4.585994958876097,
+        "read_mb": 53654.625,
+        "write_mb": 20543.640625
+      },
+      "network": {
+        "bytes_sent_mb": 164.81640625,
+        "bytes_recv_mb": 1771.90625,
+        "packets_sent": 457140,
+        "packets_recv": 1628415
+      },
+      "processes": {
+        "count": 445
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:43:02.507455",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f59d00>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:43:08.526378",
+    "system": {
+      "timestamp": "2025-06-02T11:43:08.523704",
+      "cpu": {
+        "percent": 15.0,
+        "count": 8,
+        "load_avg_1m": 1.99609375,
+        "load_avg_5m": 2.47900390625,
+        "load_avg_15m": 2.7783203125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.39361572265625,
+        "percent": 82.6,
+        "used_gb": 2.79388427734375
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.6131591796875,
+        "percent": 80.7
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.191875457763672,
+        "percent": 4.585994958876097,
+        "read_mb": 53656.23046875,
+        "write_mb": 20567.25390625
+      },
+      "network": {
+        "bytes_sent_mb": 164.8837890625,
+        "bytes_recv_mb": 1771.947265625,
+        "packets_sent": 457250,
+        "packets_recv": 1628529
+      },
+      "processes": {
+        "count": 444
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:43:08.526361",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5a470>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:43:14.544240",
+    "system": {
+      "timestamp": "2025-06-02T11:43:14.539604",
+      "cpu": {
+        "percent": 9.5,
+        "count": 8,
+        "load_avg_1m": 1.99609375,
+        "load_avg_5m": 2.470703125,
+        "load_avg_15m": 2.7734375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.461090087890625,
+        "percent": 81.7,
+        "used_gb": 2.8038787841796875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.6131591796875,
+        "percent": 80.7
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.191871643066406,
+        "percent": 4.585994958876097,
+        "read_mb": 53686.60546875,
+        "write_mb": 20571.80859375
+      },
+      "network": {
+        "bytes_sent_mb": 164.888671875,
+        "bytes_recv_mb": 1771.9501953125,
+        "packets_sent": 457279,
+        "packets_recv": 1628560
+      },
+      "processes": {
+        "count": 443
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:43:14.544216",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5af10>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:43:20.562097",
+    "system": {
+      "timestamp": "2025-06-02T11:43:20.557354",
+      "cpu": {
+        "percent": 6.9,
+        "count": 8,
+        "load_avg_1m": 1.99609375,
+        "load_avg_5m": 2.46240234375,
+        "load_avg_15m": 2.7685546875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.52764892578125,
+        "percent": 80.9,
+        "used_gb": 2.80010986328125
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.6053466796875,
+        "percent": 80.3
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.211410522460938,
+        "percent": 4.585994958876097,
+        "read_mb": 53709.4375,
+        "write_mb": 20572.6640625
+      },
+      "network": {
+        "bytes_sent_mb": 164.9052734375,
+        "bytes_recv_mb": 1771.9658203125,
+        "packets_sent": 457316,
+        "packets_recv": 1628606
+      },
+      "processes": {
+        "count": 441
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:43:20.562077",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5b130>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:43:26.574297",
+    "system": {
+      "timestamp": "2025-06-02T11:43:26.570478",
+      "cpu": {
+        "percent": 7.9,
+        "count": 8,
+        "load_avg_1m": 2.076171875,
+        "load_avg_5m": 2.47119140625,
+        "load_avg_15m": 2.76953125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.5448455810546875,
+        "percent": 80.7,
+        "used_gb": 2.80633544921875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.6053466796875,
+        "percent": 80.3
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.210391998291016,
+        "percent": 4.585994958876097,
+        "read_mb": 53712.578125,
+        "write_mb": 20573.54296875
+      },
+      "network": {
+        "bytes_sent_mb": 164.93359375,
+        "bytes_recv_mb": 1771.990234375,
+        "packets_sent": 457398,
+        "packets_recv": 1628702
+      },
+      "processes": {
+        "count": 441
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:43:26.574281",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5abe0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:43:32.590129",
+    "system": {
+      "timestamp": "2025-06-02T11:43:32.586436",
+      "cpu": {
+        "percent": 6.6,
+        "count": 8,
+        "load_avg_1m": 1.98388671875,
+        "load_avg_5m": 2.4384765625,
+        "load_avg_15m": 2.75390625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.5514373779296875,
+        "percent": 80.6,
+        "used_gb": 2.82574462890625
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.6053466796875,
+        "percent": 80.3
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.214282989501953,
+        "percent": 4.585994958876097,
+        "read_mb": 53716.51953125,
+        "write_mb": 20575.1328125
+      },
+      "network": {
+        "bytes_sent_mb": 164.9404296875,
+        "bytes_recv_mb": 1771.9931640625,
+        "packets_sent": 457418,
+        "packets_recv": 1628730
+      },
+      "processes": {
+        "count": 441
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:43:32.590109",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5a690>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:43:38.602229",
+    "system": {
+      "timestamp": "2025-06-02T11:43:38.597561",
+      "cpu": {
+        "percent": 6.5,
+        "count": 8,
+        "load_avg_1m": 2.06494140625,
+        "load_avg_5m": 2.44775390625,
+        "load_avg_15m": 2.7548828125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.5676727294921875,
+        "percent": 80.4,
+        "used_gb": 2.8182830810546875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.6053466796875,
+        "percent": 80.3
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.214069366455078,
+        "percent": 4.585994958876097,
+        "read_mb": 53717.99609375,
+        "write_mb": 20578.1953125
+      },
+      "network": {
+        "bytes_sent_mb": 164.943359375,
+        "bytes_recv_mb": 1771.9970703125,
+        "packets_sent": 457442,
+        "packets_recv": 1628763
+      },
+      "processes": {
+        "count": 439
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:43:38.602211",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105124380>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:43:44.615352",
+    "system": {
+      "timestamp": "2025-06-02T11:43:44.611516",
+      "cpu": {
+        "percent": 5.0,
+        "count": 8,
+        "load_avg_1m": 1.9794921875,
+        "load_avg_5m": 2.42333984375,
+        "load_avg_15m": 2.744140625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.5610198974609375,
+        "percent": 80.5,
+        "used_gb": 2.83892822265625
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.6053466796875,
+        "percent": 80.3
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.214069366455078,
+        "percent": 4.585994958876097,
+        "read_mb": 53718.2734375,
+        "write_mb": 20579.8125
+      },
+      "network": {
+        "bytes_sent_mb": 164.9453125,
+        "bytes_recv_mb": 1772.0,
+        "packets_sent": 457465,
+        "packets_recv": 1628793
+      },
+      "processes": {
+        "count": 438
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:43:44.615336",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1051246b0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:43:50.629334",
+    "system": {
+      "timestamp": "2025-06-02T11:43:50.625531",
+      "cpu": {
+        "percent": 6.1,
+        "count": 8,
+        "load_avg_1m": 1.90087890625,
+        "load_avg_5m": 2.3994140625,
+        "load_avg_15m": 2.73388671875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.5821685791015625,
+        "percent": 80.2,
+        "used_gb": 2.8292388916015625
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.6053466796875,
+        "percent": 80.3
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.214065551757812,
+        "percent": 4.585994958876097,
+        "read_mb": 53720.9140625,
+        "write_mb": 20579.9296875
+      },
+      "network": {
+        "bytes_sent_mb": 164.9482421875,
+        "bytes_recv_mb": 1772.001953125,
+        "packets_sent": 457489,
+        "packets_recv": 1628823
+      },
+      "processes": {
+        "count": 438
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:43:50.629318",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1051249e0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:43:56.637992",
+    "system": {
+      "timestamp": "2025-06-02T11:43:56.635757",
+      "cpu": {
+        "percent": 17.5,
+        "count": 8,
+        "load_avg_1m": 1.90869140625,
+        "load_avg_5m": 2.392578125,
+        "load_avg_15m": 2.7294921875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.5156707763671875,
+        "percent": 81.1,
+        "used_gb": 2.9545135498046875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.6053466796875,
+        "percent": 80.3
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.21029281616211,
+        "percent": 4.585994958876097,
+        "read_mb": 53736.2734375,
+        "write_mb": 20583.1171875
+      },
+      "network": {
+        "bytes_sent_mb": 164.9599609375,
+        "bytes_recv_mb": 1772.017578125,
+        "packets_sent": 457519,
+        "packets_recv": 1628865
+      },
+      "processes": {
+        "count": 437
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:43:56.637985",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105124d10>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:44:02.651798",
+    "system": {
+      "timestamp": "2025-06-02T11:44:02.647208",
+      "cpu": {
+        "percent": 7.9,
+        "count": 8,
+        "load_avg_1m": 1.69482421875,
+        "load_avg_5m": 2.330078125,
+        "load_avg_15m": 2.703125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.583526611328125,
+        "percent": 80.2,
+        "used_gb": 2.9014739990234375
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.5975341796875,
+        "percent": 79.9
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.21030044555664,
+        "percent": 4.585994958876097,
+        "read_mb": 53746.421875,
+        "write_mb": 20587.09375
+      },
+      "network": {
+        "bytes_sent_mb": 165.0068359375,
+        "bytes_recv_mb": 1772.0498046875,
+        "packets_sent": 457625,
+        "packets_recv": 1628959
+      },
+      "processes": {
+        "count": 437
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:44:02.651776",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105125040>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:44:08.667439",
+    "system": {
+      "timestamp": "2025-06-02T11:44:08.662566",
+      "cpu": {
+        "percent": 8.6,
+        "count": 8,
+        "load_avg_1m": 1.71923828125,
+        "load_avg_5m": 2.32421875,
+        "load_avg_15m": 2.69873046875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.6201019287109375,
+        "percent": 79.7,
+        "used_gb": 2.78607177734375
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.5975341796875,
+        "percent": 79.9
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.210224151611328,
+        "percent": 4.585994958876097,
+        "read_mb": 53759.4375,
+        "write_mb": 20593.53125
+      },
+      "network": {
+        "bytes_sent_mb": 165.01171875,
+        "bytes_recv_mb": 1772.0517578125,
+        "packets_sent": 457651,
+        "packets_recv": 1628988
+      },
+      "processes": {
+        "count": 437
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:44:08.667226",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105125150>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:44:14.687632",
+    "system": {
+      "timestamp": "2025-06-02T11:44:14.680572",
+      "cpu": {
+        "percent": 14.5,
+        "count": 8,
+        "load_avg_1m": 1.74169921875,
+        "load_avg_5m": 2.318359375,
+        "load_avg_15m": 2.6943359375
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.547149658203125,
+        "percent": 80.7,
+        "used_gb": 2.9122314453125
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.5975341796875,
+        "percent": 79.9
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.21075439453125,
+        "percent": 4.585994958876097,
+        "read_mb": 53790.87109375,
+        "write_mb": 20598.46484375
+      },
+      "network": {
+        "bytes_sent_mb": 165.05859375,
+        "bytes_recv_mb": 1772.236328125,
+        "packets_sent": 457959,
+        "packets_recv": 1629398
+      },
+      "processes": {
+        "count": 441
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:44:14.687613",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105125f20>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:44:20.699873",
+    "system": {
+      "timestamp": "2025-06-02T11:44:20.696411",
+      "cpu": {
+        "percent": 26.7,
+        "count": 8,
+        "load_avg_1m": 1.68212890625,
+        "load_avg_5m": 2.29638671875,
+        "load_avg_15m": 2.68408203125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.525604248046875,
+        "percent": 80.9,
+        "used_gb": 3.026275634765625
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.5975341796875,
+        "percent": 79.9
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.21004867553711,
+        "percent": 4.585994958876097,
+        "read_mb": 53818.85546875,
+        "write_mb": 20600.953125
+      },
+      "network": {
+        "bytes_sent_mb": 165.1357421875,
+        "bytes_recv_mb": 1773.5537109375,
+        "packets_sent": 459049,
+        "packets_recv": 1633672
+      },
+      "processes": {
+        "count": 439
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:44:20.699864",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5acf0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:44:26.713266",
+    "system": {
+      "timestamp": "2025-06-02T11:44:26.710771",
+      "cpu": {
+        "percent": 9.6,
+        "count": 8,
+        "load_avg_1m": 1.62744140625,
+        "load_avg_5m": 2.2744140625,
+        "load_avg_15m": 2.673828125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.5699310302734375,
+        "percent": 80.4,
+        "used_gb": 2.9876251220703125
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.5975341796875,
+        "percent": 79.9
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.209938049316406,
+        "percent": 4.585994958876097,
+        "read_mb": 53831.96484375,
+        "write_mb": 20602.03125
+      },
+      "network": {
+        "bytes_sent_mb": 165.5703125,
+        "bytes_recv_mb": 1773.626953125,
+        "packets_sent": 459526,
+        "packets_recv": 1634013
+      },
+      "processes": {
+        "count": 439
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:44:26.713252",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5a7a0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:44:32.729178",
+    "system": {
+      "timestamp": "2025-06-02T11:44:32.725007",
+      "cpu": {
+        "percent": 11.4,
+        "count": 8,
+        "load_avg_1m": 1.77734375,
+        "load_avg_5m": 2.28173828125,
+        "load_avg_15m": 2.67138671875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.5775146484375,
+        "percent": 80.3,
+        "used_gb": 2.9801177978515625
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.5975341796875,
+        "percent": 79.9
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.209880828857422,
+        "percent": 4.585994958876097,
+        "read_mb": 53840.02734375,
+        "write_mb": 20604.77734375
+      },
+      "network": {
+        "bytes_sent_mb": 165.5947265625,
+        "bytes_recv_mb": 1773.6611328125,
+        "packets_sent": 459617,
+        "packets_recv": 1634121
+      },
+      "processes": {
+        "count": 438
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:44:32.729160",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5a580>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:44:38.740482",
+    "system": {
+      "timestamp": "2025-06-02T11:44:38.736605",
+      "cpu": {
+        "percent": 7.3,
+        "count": 8,
+        "load_avg_1m": 1.794921875,
+        "load_avg_5m": 2.27685546875,
+        "load_avg_15m": 2.6669921875
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.59454345703125,
+        "percent": 80.1,
+        "used_gb": 2.926361083984375
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.5975341796875,
+        "percent": 79.9
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.20977020263672,
+        "percent": 4.585994958876097,
+        "read_mb": 53850.72265625,
+        "write_mb": 20608.91015625
+      },
+      "network": {
+        "bytes_sent_mb": 165.9111328125,
+        "bytes_recv_mb": 1773.70703125,
+        "packets_sent": 459932,
+        "packets_recv": 1634345
+      },
+      "processes": {
+        "count": 440
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:44:38.740466",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5b350>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:44:44.753450",
+    "system": {
+      "timestamp": "2025-06-02T11:44:44.751290",
+      "cpu": {
+        "percent": 7.5,
+        "count": 8,
+        "load_avg_1m": 1.65087890625,
+        "load_avg_5m": 2.23876953125,
+        "load_avg_15m": 2.65087890625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.6356658935546875,
+        "percent": 79.6,
+        "used_gb": 2.85693359375
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.5975341796875,
+        "percent": 79.9
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.209758758544922,
+        "percent": 4.585994958876097,
+        "read_mb": 53892.3046875,
+        "write_mb": 20609.46875
+      },
+      "network": {
+        "bytes_sent_mb": 165.9267578125,
+        "bytes_recv_mb": 1773.8173828125,
+        "packets_sent": 460133,
+        "packets_recv": 1634762
+      },
+      "processes": {
+        "count": 440
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:44:44.753442",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5b680>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:44:50.769623",
+    "system": {
+      "timestamp": "2025-06-02T11:44:50.766158",
+      "cpu": {
+        "percent": 8.6,
+        "count": 8,
+        "load_avg_1m": 1.5986328125,
+        "load_avg_5m": 2.2177734375,
+        "load_avg_15m": 2.64111328125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.633880615234375,
+        "percent": 79.6,
+        "used_gb": 2.897674560546875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.5897216796875,
+        "percent": 79.5
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.21025848388672,
+        "percent": 4.585994958876097,
+        "read_mb": 53921.98828125,
+        "write_mb": 20611.8515625
+      },
+      "network": {
+        "bytes_sent_mb": 166.154296875,
+        "bytes_recv_mb": 1773.853515625,
+        "packets_sent": 460401,
+        "packets_recv": 1634946
+      },
+      "processes": {
+        "count": 442
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:44:50.769605",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5b9b0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:44:56.784909",
+    "system": {
+      "timestamp": "2025-06-02T11:44:56.780964",
+      "cpu": {
+        "percent": 1.5,
+        "count": 8,
+        "load_avg_1m": 1.71044921875,
+        "load_avg_5m": 2.23046875,
+        "load_avg_15m": 2.64306640625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.56494140625,
+        "percent": 80.4,
+        "used_gb": 2.8744049072265625
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.5897216796875,
+        "percent": 79.5
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.21025848388672,
+        "percent": 4.585994958876097,
+        "read_mb": 53922.86328125,
+        "write_mb": 20612.90625
+      },
+      "network": {
+        "bytes_sent_mb": 166.224609375,
+        "bytes_recv_mb": 1773.900390625,
+        "packets_sent": 460576,
+        "packets_recv": 1635137
+      },
+      "processes": {
+        "count": 442
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:44:56.784892",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5bce0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:45:02.791270",
+    "system": {
+      "timestamp": "2025-06-02T11:45:02.788956",
+      "cpu": {
+        "percent": 3.4,
+        "count": 8,
+        "load_avg_1m": 1.5205078125,
+        "load_avg_5m": 2.1728515625,
+        "load_avg_15m": 2.61767578125
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.5328826904296875,
+        "percent": 80.8,
+        "used_gb": 2.9100799560546875
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.5897216796875,
+        "percent": 79.5
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.21002197265625,
+        "percent": 4.585994958876097,
+        "read_mb": 53932.59375,
+        "write_mb": 20614.94140625
+      },
+      "network": {
+        "bytes_sent_mb": 166.2333984375,
+        "bytes_recv_mb": 1773.9091796875,
+        "packets_sent": 460612,
+        "packets_recv": 1635175
+      },
+      "processes": {
+        "count": 445
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:45:02.791259",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5bf00>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  {
+    "timestamp": "2025-06-02T11:45:08.807319",
+    "system": {
+      "timestamp": "2025-06-02T11:45:08.804328",
+      "cpu": {
+        "percent": 4.2,
+        "count": 8,
+        "load_avg_1m": 1.478515625,
+        "load_avg_5m": 2.1533203125,
+        "load_avg_15m": 2.60791015625
+      },
+      "memory": {
+        "total_gb": 8.0,
+        "available_gb": 1.5755615234375,
+        "percent": 80.3,
+        "used_gb": 2.8847808837890625
+      },
+      "swap": {
+        "total_gb": 2.0,
+        "used_gb": 1.5897216796875,
+        "percent": 79.5
+      },
+      "disk": {
+        "total_gb": 228.27386474609375,
+        "used_gb": 10.4686279296875,
+        "free_gb": 31.21384048461914,
+        "percent": 4.585994958876097,
+        "read_mb": 53937.94140625,
+        "write_mb": 20618.39453125
+      },
+      "network": {
+        "bytes_sent_mb": 166.2978515625,
+        "bytes_recv_mb": 1773.9375,
+        "packets_sent": 460766,
+        "packets_recv": 1635322
+      },
+      "processes": {
+        "count": 439
+      }
+    },
+    "application": {
+      "timestamp": "2025-06-02T11:45:08.807304",
+      "health": {
+        "status_code": 0,
+        "response_time": 0,
+        "status": "unreachable",
+        "uptime": "unknown"
+      },
+      "stats": {},
+      "connectivity": false,
+      "error": "HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102f5bac0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  }
+]

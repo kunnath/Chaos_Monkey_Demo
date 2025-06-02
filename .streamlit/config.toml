@@ -1,0 +1,20 @@
+# Streamlit Configuration for Chaos Monkey Demo
+
+[server]
+port = 8501
+address = "localhost"
+runOnSave = true
+allowRunOnSave = true
+
+[browser]
+gatherUsageStats = false
+showErrorDetails = true
+
+[theme]
+primaryColor = "#667eea"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f0f2f6"
+textColor = "#262730"
+
+[global]
+suppressDeprecationWarnings = true
